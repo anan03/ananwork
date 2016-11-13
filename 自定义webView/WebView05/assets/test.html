@@ -1,0 +1,45 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title> Js调用Android</title>
+<script type="text/javascript">
+            function doAlert() {
+                alert("hello!");
+            }
+      		function invokeJs(){
+      			var result=document.getElementById("result");
+      			var div=document.createElement("input");
+      			div.type="button";
+      			div.value="result";
+      			//div.innerHTML="java invoke js";
+      			
+      			result.appendChild(div);
+      		}
+            function doConfirm() {
+                confirm("are you sure?");
+            }
+      
+            function doPrompt() {
+                var val = prompt("what's your name?");
+                if (val) {
+                    alert("your name is:" + val);
+                }
+            }
+      	//invoke 调用的意思
+      		function invokeJs(){
+            		var result=document.getElementById("result");
+            		var div=document.createElement("div");
+            		div.innerHTML="invoke js success";
+            		result.appendChild(div);
+            }
+            function invokeJava() {
+            		window.bridge.invokeJava();
+            }
+</script>
+</head>
+<body>
+<input type="button" value="打招呼"  onclick="utils.showToast()"/>
+<input type="button" value="图书列表" onclick="utils.showList()"/>
+<div id="result"></div>
+</body>
+</html>
