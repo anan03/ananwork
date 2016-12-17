@@ -11,23 +11,10 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.lvshandian.myapplication.com.lvshandian.nan.MainActivity">
 
-    <Button
-        android:id="@+id/bt_pagerfragment"
-        android:layout_width="match_parent"
-        android:layout_height="40dp"
-        android:background="@color/color_1A000000"
-        android:gravity="center"
-        android:text="Fragment+Viewpager"
-        android:textSize="25px" />
-
-    <Button
-        android:id="@+id/bt_imager"
-        android:layout_width="match_parent"
-        android:layout_height="40dp"
-        android:layout_marginTop="10px"
-        android:background="@color/color_1A000000"
-        android:gravity="center"
-        android:text="图片的加载"
-        android:textSize="25px" />
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!" />
 
 </LinearLayout>

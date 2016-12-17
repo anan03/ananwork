@@ -1,4 +1,4 @@
-package com.lvshandian.nan;
+package com.lvshandian.nan.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -7,9 +7,6 @@ import android.view.View;
 import android.widget.Button;
 
 import com.lvshandian.myapplication.R;
-import com.lvshandian.nan.activity.FixTabActivity;
-import com.lvshandian.nan.activity.LayoutActivity;
-import com.lvshandian.nan.activity.PagerFragment;
 
 /**
  * Viewpager+Fragment

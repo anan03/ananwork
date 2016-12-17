@@ -2,12 +2,20 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.lvshandian.myapplication">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <!-- 往SDCard写入数据权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!--  从SDCard读取数据权限 -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <application
+        android:name="com.lvshandian.nan.MyApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
         <activity android:name="com.lvshandian.nan.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -17,7 +25,7 @@
         </activity>
         <!--Viewpager+Fragment-->
         <activity
-            android:name="com.lvshandian.nan.HomeActivity"
+            android:name="com.lvshandian.nan.activity.HomeActivity"
             android:launchMode="singleTop"></activity>
         <!--Viewpager+Fragment代码-->
         <activity
@@ -31,6 +39,20 @@
         <activity
             android:name="com.lvshandian.nan.activity.FixTabActivity"
             android:launchMode="singleTop"></activity>
+        <!--加载图片首页-->
+        <activity
+            android:name="com.lvshandian.nan.loadimag.LoadImagerActivity"
+            android:launchMode="singleTop"></activity>
+        <!--加载图片Glie-->
+        <activity
+            android:name="com.lvshandian.nan.loadimag.GlideActivity"
+            android:launchMode="singleTop"></activity>
+
+        <!--加载图片ImageLoader-->
+        <activity
+            android:name="com.lvshandian.nan.loadimag.ImageLoadActivity"
+            android:launchMode="singleTop"></activity>
+
 
     </application>
 
