@@ -8,6 +8,8 @@
  简单文件上传：利用Xutils进行文件的上传；
 
  anan:新增项目总结
+  
+  添加RecyclerView代码，listView GridView 以及瀑布流效果；
  
   
 

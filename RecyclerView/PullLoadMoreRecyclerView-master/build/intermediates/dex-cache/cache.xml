@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_63b84d1c7d66d0e84521ee38dacdf7f0045ba509.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_a1e63bff36f1eb8660ba75c163cb048d81ff4d64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_5a9e19320a86e4923667a04011025e4fd39dc856.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_4476f988f1d6167fd3d681ce1345b6fd00238d4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_27a4727a70a4ab6fa44aaf0a0793078ce7ac862a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_6374796157d42dbe4a631dee6fd9ec881954ddf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_77688440a018fe081b666dc759c6bd34ab208ba1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_86adf97dca224ac367e4bb8a8fda05cfa5a36f54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_323dcaa24898a57ddc690d5ac6eee3dbc5bfc1ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_2a179d962fcb82cbb01d69b415c8c29d70a5e7fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_49e707f96587215147cb581f4af6f14ad0dee8f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_841e559b49b4e47223752390c32d493a390a2437.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_ca7aca28e1fa101c3161d275d8cc0a66ace06183.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\exploded-aar\com.wuxiaolong.pullloadmorerecyclerview\library\1.1.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c88c812a88365a89d9b951682e235005eb0b28bb">
+        <dex dex="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\pre-dexed\debug\com.wuxiaolong.pullloadmorerecyclerview-library-1.1.2_acf80772a0fc7fe6b4b34f34bb5305ba0875d978.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_2d030dd5fad431bd82bcdcfb0e8a127eca9df757.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_7fd4b74496bae18a1c06f3368f17e52778fa961e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_850b7748e2b17478be7b01620a1b3541209263bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_77fbf65c54e3dad1ad370df4d05e29d31878417d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_307cb62012426cfe91b2fd45753ff6116573afe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\zhang\Desktop\aa\PullLoadMoreRecyclerView-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_8767b34f6bc2b26d5aecc87ea6559ae315564d64.jar" />
+    </item>
+
+</items>
