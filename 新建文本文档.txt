@@ -11,6 +11,8 @@
   
   添加RecyclerView代码，listView GridView 以及瀑布流效果；
  
+
+  七牛云直播git地址 https://github.com/pili-engineering/PLDroidMediaStreaming
   
 
 

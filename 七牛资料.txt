@@ -1,0 +1,13 @@
+IOS推流SDK：https://github.com/pili-engineering/PLMediaStreamingKit
+安卓播放SDK：https://github.com/pili-engineering/PLDroidPlayer
+IOS播放SDK：https://github.com/pili-engineering/PLPlayerKit
+
+目前提供的服务端 SDK 有：Go, NodeJS, Ruby, Python, PHP, Java，C#
+https://github.com/pili-engineering/pili-sdk-go
+https://github.com/pili-engineering/pili-sdk-nodejs
+https://github.com/pili-engineering/pili-sdk-ruby
+https://github.com/pili-engineering/pili-sdk-python
+https://github.com/pili-engineering/pili-sdk-php
+https://github.com/pili-engineering/pili-sdk-java
+https://github.com/pili-engineering/pili-sdk-csharp
+对接文档：http://77fycs.com2.z0.glb.qiniucdn.com/pili-guide-v1.pdf
