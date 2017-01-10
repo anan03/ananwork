@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\ananwork\anan\app\libs\universal-image-loader-1.9.3-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="29cf65d299e133ec68caba92b29f69289713975b">
+        <dex dex="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-SNAPSHOT_d653c3497a1428e388a19c5f92623e1364b3b013.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d4e887d3a67b89c0959eb7f84894fd4c6acfe045.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_d0fe38127ba904c7e75de21a8bde712c7f9677a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_29c5a9580e29ac4c5c2a6bc874bad022b986d55e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\pre-dexed\debug\library-2.4.0_70790d1730f7f13a110218b6ae88cc732d0622e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_6f867c5bd5eeb99da0bbf4f041411aee6deb7af6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_8a205ef957adaced27ac258ae593c23cf494ba1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_527c48c67e707f0f2cbc9dfcaad47bcc53fcab77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\exploded-aar\com.gxz.pagerslidingtabstrip\library\1.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a269b524cebdb449c881b26bea03983044720b5">
+        <dex dex="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.gxz.pagerslidingtabstrip-library-1.3.1_e3038e353348f036d9580ba68e30e35b81d4e827.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_12781d1f3716fdd15f6a9571c86122da4345dcfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_9cbf24ed2df9f1e39adfadc9a6a59510ea53ca42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_3621c7f6294c2ffb11cd504bdf2917d72ea61f0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_71ca81a579a38971b598229fd903d954b0919d79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_30095e980f466ace6b0b2f6c5c097c5f36b9f883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\pre-dexed\debug\glide-3.7.0_aab64d01fd812311c3ca1ba24028a9797ad3a3fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_5c8ee870f76376cc7cb6e9ee070a5b05d6893f20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_517ed35f8c7f0ee23eb5fe5c688f6d17ef60b9fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_60c35e9eb56c41b306f05bc2b5506b9fc8b777b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\zhang\Desktop\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_e8fd57134cda86aa23948c52b705f48cac4690e6.jar" />
+    </item>
+
+</items>

@@ -1,3 +1,4 @@
+安卓推流SDK：https://github.com/pili-engineering/PLDroidMediaStreaming
 IOS推流SDK：https://github.com/pili-engineering/PLMediaStreamingKit
 安卓播放SDK：https://github.com/pili-engineering/PLDroidPlayer
 IOS播放SDK：https://github.com/pili-engineering/PLPlayerKit
@@ -11,3 +12,14 @@ https://github.com/pili-engineering/pili-sdk-php
 https://github.com/pili-engineering/pili-sdk-java
 https://github.com/pili-engineering/pili-sdk-csharp
 对接文档：http://77fycs.com2.z0.glb.qiniucdn.com/pili-guide-v1.pdf
+
+
+推流地址：
+	rtmp://pili-publish.ps.qiniucdn.com/NIU7PS/haozhong_test?key=haozhong_pbk
+
+拉流地址：
+rtmp://pili-live-rtmp.ps.qiniucdn.com/NIU7PS/haozhong_test
+
+http://pili-live-hdl.ps.qiniucdn.com/NIU7PS/haozhong_test.flv
+
+http://pili-live-hls.ps.qiniucdn.com/NIU7PS/haozhong_test.m3u8
