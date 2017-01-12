@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">使用GPS获取位置信息</string>
+    <string name="app_name">GPSLocation</string>
+
+</resources>
