@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SettingItemView">
+        <attr name="itemicon" format="integer" />
+        <attr name="itemtext" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="CircleImageView">
+        <attr name="border_width" format="dimension" />
+        <attr name="border_color" format="color" />
+    </declare-styleable>
+    <declare-styleable name="CircleProgressView">
+        <attr name="CircleProgressView_roundColor1" format="color" />
+        <attr name="CircleProgressView_roundProgressColor" format="color" />
+        <attr name="CircleProgressView_roundWidth" format="dimension"></attr>
+        <attr name="CircleProgressView_textColor" format="color" />
+        <attr name="CircleProgressView_textSize" format="dimension" />
+        <attr name="CircleProgressView_textSizes" format="dimension" />
+        <attr name="CircleProgressView_max" format="integer"></attr>
+        <attr name="CircleProgressView_textIsDisplayable" format="boolean"></attr>
+    </declare-styleable>
+    <declare-styleable name="roundedimageview">
+        <attr name="border_thickness" format="dimension" />
+        <attr name="border_inside_color" format="color" />
+        <attr name="border_outside_color" format="color"></attr>
+    </declare-styleable>
+</resources>

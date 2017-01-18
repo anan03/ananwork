@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_dl"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.lvshandian.menshen.MainActivity">
+
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:id="@+id/main_content_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <!--分割线 -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="25px"
+            android:background="@color/back347" />
+        <!--标题 -->
+        <include
+            layout="@layout/title_includ"
+            android:layout_width="match_parent"
+            android:layout_height="0px"
+            android:layout_weight="1.5" />
+        <!--图片 -->
+        <ImageView
+            android:id="@+id/iv_request_img"
+            android:layout_width="match_parent"
+            android:layout_height="0px"
+            android:layout_weight="5"
+            android:scaleType="fitXY"
+            android:src="@mipmap/banener" />
+        <!--分割线 -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="7px"
+            android:background="@color/texthind" />
+        <!--个人消息界面 -->
+        <com.zhy.autolayout.AutoRelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0px"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="2"
+
+
+            android:gravity="center_vertical">
+            <!--圆形头像 -->
+            <com.lvshandian.menshen.view.CircleImageView
+                android:id="@+id/iv_head_main"
+                android:layout_width="90px"
+                android:layout_height="90px"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center"
+                android:layout_marginLeft="20px"
+                android:src="@mipmap/wode_touxiang" />
+            <!--积分手机号码 -->
+            <com.zhy.autolayout.AutoRelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="15px"
+                android:layout_toRightOf="@+id/iv_head_main"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:id="@+id/tv_phone_main"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="18513884422"
+                    android:textColor="@color/black"
+                    android:textSize="32px" />
+
+                <TextView
+                    android:id="@+id/tv_fen_main"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_phone_main"
+                    android:gravity="center"
+                    android:text="积分：667"
+                    android:textColor="@color/texthui_color"
+                    android:textSize="28px" />
+
+
+            </com.zhy.autolayout.AutoRelativeLayout>
+            <!--消息布局 图标自定义消息布局开始-->
+            <com.zhy.autolayout.AutoRelativeLayout
+                android:id="@+id/rl_count_message"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="20px"
+                android:gravity="center_vertical">
+
+                <com.zhy.autolayout.AutoFrameLayout
+                    android:id="@+id/fl_messge_main"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true">
+
+
+                    <ImageView
+                        android:id="@+id/tv_messge_main"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:padding="5px"
+                        android:src="@mipmap/message" />
+
+                    <com.zhy.autolayout.AutoFrameLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right">
+
+                        <TextView
+                            android:id="@+id/tv_count_main_message"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:background="@drawable/count_messag"
+                            android:gravity="center"
+                            android:text="12"
+                            android:textColor="@color/white"
+                            android:textSize="20px" />
+                    </com.zhy.autolayout.AutoFrameLayout>
+                </com.zhy.autolayout.AutoFrameLayout>
+
+
+                <TextView
+                    android:id="@+id/tv_messge_mainimg_main"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/fl_messge_main"
+                    android:text="消息"
+                    android:textColor="@color/texthui_color"
+                    android:textSize="28px" />
+
+
+            </com.zhy.autolayout.AutoRelativeLayout>
+
+            <!--消息布局 图标自定义消息布局结束-->
+        </com.zhy.autolayout.AutoRelativeLayout>
+        <!--分割线 -->
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="7px"
+            android:background="@color/texthind" />
+        <!--诈骗电话，诈骗短信 -->
+        <com.zhy.autolayout.AutoLinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0px"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="5"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <!--诈骗电话 -->
+            <com.zhy.autolayout.AutoRelativeLayout
+                android:id="@+id/rl_zp_phone"
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/iv_phone_zha"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:src="@mipmap/zhapian" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/iv_phone_zha"
+                    android:layout_centerHorizontal="true"
+                    android:text="诈骗电话拦截"
+                    android:textColor="@color/black33333"
+                    android:textSize="34px" />
+
+
+            </com.zhy.autolayout.AutoRelativeLayout>
+            <!--诈骗电话结束-->
+            <View
+                android:layout_width="1px"
+                android:layout_height="match_parent"
+                android:background="@color/texthind" />
+            <!--诈骗短信开始 -->
+            <com.zhy.autolayout.AutoRelativeLayout
+                android:id="@+id/rl_zp_sms"
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/iv_duan_zha"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:src="@mipmap/duanxin" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/iv_duan_zha"
+                    android:layout_centerHorizontal="true"
+                    android:text="欺诈短信分析"
+                    android:textColor="@color/black33333"
+                    android:textSize="34px" />
+
+            </com.zhy.autolayout.AutoRelativeLayout>
+            <!--诈骗短信结束-->
+        </com.zhy.autolayout.AutoLinearLayout>
+        <!--诈骗电话，诈骗短信 结束-->
+        <!--分割线 -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="@color/texthind" />
+        <!--诈骗短信 木马病毒-->
+        <com.zhy.autolayout.AutoLinearLayout
+            android:id="@+id/rl_zp_sms_shar"
+            android:layout_width="match_parent"
+            android:layout_height="0px"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="5"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+            <!--诈骗短信开始-->
+            <com.zhy.autolayout.AutoRelativeLayout
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/iv_fen_zha"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:src="@mipmap/dfen" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/iv_fen_zha"
+                    android:layout_centerHorizontal="true"
+                    android:text="欺诈短信分享"
+
+                    android:textColor="@color/black33333"
+                    android:textSize="34px" />
+
+            </com.zhy.autolayout.AutoRelativeLayout>
+            <!--诈骗短信结束-->
+            <View
+                android:layout_width="1px"
+                android:layout_height="match_parent"
+                android:background="@color/texthind" />
+            <!--木马检测开始-->
+            <com.zhy.autolayout.AutoRelativeLayout
+                android:id="@+id/rl_zp_du"
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/iv_mu_zha"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:src="@mipmap/muma" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/iv_mu_zha"
+                    android:layout_centerHorizontal="true"
+                    android:text="木马病毒监测"
+                    android:textColor="@color/black33333"
+                    android:textSize="34px" />
+            </com.zhy.autolayout.AutoRelativeLayout>
+            <!--木马检测结束-->
+        </com.zhy.autolayout.AutoLinearLayout>
+
+    </com.zhy.autolayout.AutoLinearLayout>
+    <!--侧滑开始 -->
+    <com.zhy.autolayout.AutoRelativeLayout
+        android:id="@+id/ll_lift"
+        android:layout_width="550px"
+        android:layout_height="match_parent"
+        android:layout_gravity="left"
+        android:orientation="horizontal">
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="left"
+            android:background="@mipmap/cehuadi"
+            android:orientation="vertical">
+
+            <com.lvshandian.menshen.view.CircleImageView
+                android:id="@+id/iv_head"
+                android:layout_width="150px"
+                android:layout_height="150px"
+                android:layout_gravity="center"
+                android:layout_marginTop="160px"
+                android:src="@mipmap/wode_touxiang" />
+
+            <TextView
+                android:id="@+id/tv_phone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:gravity="center"
+                android:text="18513884422"
+                android:textColor="@color/white"
+                android:textSize="32px"
+
+                />
+
+            <TextView
+                android:id="@+id/tv_fen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:gravity="center"
+                android:text="积分：667"
+                android:textColor="@color/white"
+                android:textSize="32px"
+
+                />
+
+            <com.zhy.autolayout.AutoRelativeLayout
+                android:id="@+id/rl_update_password"
+                android:layout_width="match_parent"
+                android:layout_height="80px"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="60px"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="20px">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:text="修改密码"
+                    android:textColor="@color/white"
+                    android:textSize="32px" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="right"
+                    android:src="@mipmap/img_right_back" />
+
+
+            </com.zhy.autolayout.AutoRelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_marginLeft="25px"
+                android:background="@color/white" />
+
+            <com.zhy.autolayout.AutoRelativeLayout
+                android:id="@+id/rl_update"
+                android:layout_width="match_parent"
+                android:layout_height="80px"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="20px">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:text="检测更新"
+                    android:textColor="@color/white"
+                    android:textSize="32px" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="right"
+                    android:src="@mipmap/img_right_back" />
+
+
+            </com.zhy.autolayout.AutoRelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_marginLeft="25px"
+                android:background="@color/white" />
+
+            <com.zhy.autolayout.AutoRelativeLayout
+                android:id="@+id/rl_me"
+                android:layout_width="match_parent"
+                android:layout_height="80px"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="20px">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:text="意见反馈"
+                    android:textColor="@color/white"
+                    android:textSize="32px" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="right"
+                    android:src="@mipmap/img_right_back" />
+
+
+            </com.zhy.autolayout.AutoRelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_marginLeft="25px"
+                android:background="@color/white" />
+
+            <com.zhy.autolayout.AutoRelativeLayout
+                android:id="@+id/rl_yijian"
+                android:layout_width="match_parent"
+                android:layout_height="80px"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="20px">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:text="关于我们"
+                    android:textColor="@color/white"
+                    android:textSize="32px" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="right"
+                    android:src="@mipmap/img_right_back" />
+
+
+            </com.zhy.autolayout.AutoRelativeLayout>
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_marginLeft="25px"
+                android:background="@color/white" />
+
+
+        </com.zhy.autolayout.AutoLinearLayout>
+
+        <Button
+            android:id="@+id/bt_tuilogin"
+            style="@style/text_login"
+            android:layout_width="550px"
+            android:layout_height="80px"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_marginBottom="80px"
+            android:background="@drawable/corner_with"
+            android:text="退出登录"
+            android:textColor="@android:color/white" />
+    </com.zhy.autolayout.AutoRelativeLayout>
+    <!--侧滑结束 -->
+</android.support.v4.widget.DrawerLayout>

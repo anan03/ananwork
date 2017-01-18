@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white"
+    >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:paddingLeft="5dip"
+            android:paddingTop="5dip"
+            android:paddingBottom="5dip"
+            android:background="@color/colorf2f2f2"
+            android:textColor="@color/color333333"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="热门"
+            />
+        </LinearLayout>
+        <!--<LinearLayout-->
+            <!--android:background="@color/white"-->
+            <!--android:padding="@dimen/f5dp"-->
+            <!--android:orientation="horizontal"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content">-->
+            <!--<TextView-->
+                <!--android:id="@+id/tv_school_buxian"-->
+                <!--android:gravity="center"-->
+                <!--android:layout_weight="1"-->
+                <!--android:textSize="@dimen/t16sp"-->
+                <!--android:textColor="#336598"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="不限"-->
+                <!--/>-->
+            <!--<TextView-->
+                <!--android:id="@+id/tv_school_beijing"-->
+                <!--android:gravity="center"-->
+                <!--android:layout_weight="1"-->
+                <!--android:textSize="@dimen/t16sp"-->
+                <!--android:textColor="#336598"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="北京大学"-->
+                <!--/>-->
+            <!--<TextView-->
+                <!--android:id="@+id/tv_school_qinghua"-->
+                <!--android:gravity="center"-->
+                <!--android:layout_weight="1"-->
+                <!--android:textSize="@dimen/t16sp"-->
+                <!--android:textColor="#336598"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="清华大学"-->
+                <!--/>-->
+
+        <!--</LinearLayout>-->
+        <!--<LinearLayout-->
+            <!--android:background="@color/white"-->
+            <!--android:orientation="horizontal"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content">-->
+            <!--<TextView-->
+                <!--android:id="@+id/tv_school_fudan"-->
+                <!--android:gravity="center"-->
+                <!--android:layout_weight="1"-->
+                <!--android:textSize="@dimen/t16sp"-->
+                <!--android:textColor="#336598"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="复旦大学"-->
+                <!--/>-->
+            <!--<TextView-->
+                <!--android:id="@+id/tv_school_tongji"-->
+                <!--android:gravity="center"-->
+                <!--android:layout_weight="1"-->
+                <!--android:textSize="@dimen/t16sp"-->
+                <!--android:textColor="#336598"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="同济大学"-->
+                <!--/>-->
+            <!--<TextView-->
+                <!--android:id="@+id/tv_school_xiamen"-->
+                <!--android:gravity="center"-->
+                <!--android:layout_weight="1"-->
+                <!--android:textSize="@dimen/t16sp"-->
+                <!--android:textColor="#336598"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="厦门大学"-->
+                <!--/>-->
+
+        <!--</LinearLayout>-->
+
+    <!--</LinearLayout>-->
+
+    <LinearLayout
+        android:padding="@dimen/f5dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tv_school_buxian"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textSize="@dimen/t16sp"
+            android:textColor="#336598"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="不限"
+            />
+        <TextView
+            android:layout_marginTop="@dimen/f5dp"
+            android:id="@+id/tv_school_fudan"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textSize="@dimen/t16sp"
+            android:textColor="#336598"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="复旦大学"
+            />
+
+
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tv_school_beijing"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textSize="@dimen/t16sp"
+            android:textColor="#336598"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="北京大学"
+            />
+        <TextView
+            android:layout_marginTop="@dimen/f5dp"
+            android:id="@+id/tv_school_tongji"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textSize="@dimen/t16sp"
+            android:textColor="#336598"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="同济大学"
+            />
+
+
+
+
+    </LinearLayout>
+        <LinearLayout
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/tv_school_qinghua"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:textSize="@dimen/t16sp"
+                android:textColor="#336598"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="清华大学"
+                />
+            <TextView
+                android:layout_marginTop="@dimen/f5dp"
+                android:id="@+id/tv_school_xiamen"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:textSize="@dimen/t16sp"
+                android:textColor="#336598"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="厦门大学"
+                />
+
+
+    </LinearLayout>
+    </LinearLayout>
+    
+    
+    
+</LinearLayout>

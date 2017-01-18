@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/ll_user_collect_detail_ready"
+    android:background="@color/white"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+        <RelativeLayout
+            android:layout_marginLeft="@dimen/t10dp"
+            android:background="@drawable/reward"
+            android:layout_width="@dimen/t16dp"
+            android:layout_height="@dimen/t16dp">
+            <TextView
+                android:textSize="@dimen/t12sp"
+                android:textColor="@color/white"
+                android:layout_centerInParent="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="赏"
+                />
+        </RelativeLayout>
+
+        <TextView
+            android:lines="1"
+            android:maxEms="10"
+            android:singleLine="true"
+            android:textColor="@color/color333333"
+            android:id="@+id/tv_title_hudong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="3dp"
+            android:text="怎么和学姐搭讪?" />
+
+        <TextView
+            android:textColor="@color/colorababab"
+            android:id="@+id/tv_time_hudong"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical|right"
+            android:paddingRight="20dp"
+            android:text="2016-08-08" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/tv_type_hudong"
+            style="@style/background_hudong_first_corner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="干货" />
+
+        <TextView
+            android:id="@+id/tv_price_hudong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="3dp"
+            android:text="￥268.0"
+            android:textColor="@color/main" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_pic_jump"
+        android:layout_width="fill_parent"
+        android:layout_height="150dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="6dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingRight="5dp">
+
+        <ImageView
+            android:id="@+id/iv_itemleft_hudong"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:scaleType="center"
+            android:src="@drawable/no_pic" />
+        <View
+            android:layout_width="10dp"
+            android:layout_height="120dp" />
+        <ImageView
+            android:id="@+id/iv_itemright_hudong"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:scaleType="center"
+             />
+
+    </LinearLayout>
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp">
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <CheckBox
+                android:id="@+id/ck_hudong_collect_num"
+                android:layout_width="@dimen/t15dp"
+                android:layout_height="@dimen/t15dp"
+                android:background="@drawable/collect_bg"
+                android:button="@null"
+                android:clickable="true" />
+
+            <TextView
+                android:textColor="@color/colorababab"
+                android:id="@+id/tv_hudong_collect_num"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="2355" />
+
+            <CheckBox
+                android:id="@+id/ck_hudong_praise"
+                android:layout_width="@dimen/t15dp"
+                android:layout_height="@dimen/t15dp"
+                android:layout_marginLeft="40dp"
+                android:background="@drawable/praise_bg"
+                android:button="@null"
+                android:clickable="true" />
+
+            <TextView
+                android:textColor="@color/colorababab"
+                android:id="@+id/tv_praise_num"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="5368" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:gravity="center_vertical"
+            android:id="@+id/iv_share_hudong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/share" />
+            <TextView
+                android:textColor="@color/colorababab"
+                android:id="@+id/tv_collect"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="分享" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.2dp"
+        android:layout_marginTop="7dp"
+        android:background="@color/colordadada" />
+
+
+</LinearLayout>

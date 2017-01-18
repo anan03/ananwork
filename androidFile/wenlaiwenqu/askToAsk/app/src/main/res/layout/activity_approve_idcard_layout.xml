@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_root_popuwindws"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:background="@color/main"
+        />
+    <RelativeLayout
+        android:padding="10dp"
+        android:background="@color/main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/iv_answer_activity_back"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/common_titlebar_backjt"/>
+        <TextView
+            android:textSize="15sp"
+            android:textColor="@color/white"
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="申请认证"/>
+        <TextView
+            android:id="@+id/tv_next_step"
+            android:layout_alignParentRight="true"
+            android:gravity="right"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="下一步"/>
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_marginLeft="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/unknown"/>
+        <TextView
+            android:padding="4dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="请确保身份证照片清晰可认，无涂改身份证一律保密，请放心上传~"/>
+    </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_zheng"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:paddingTop="20dp"
+            android:text="上传你的身份证正面图片"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:background="@drawable/add_student_zheng"/>
+
+    <ImageView
+        android:visibility="gone"
+        android:id="@+id/tv_takephpto_id_card_zheng"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="30dp"
+        android:scaleType="fitXY"
+        android:layout_width="fill_parent"
+        android:layout_height="150dp"
+        android:src="@drawable/no_pic"/>
+
+        <TextView
+            android:id="@+id/tv_bei"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:paddingTop="20dp"
+            android:text="上传你的身份证背面图片"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:background="@drawable/add_student_zheng"/>
+
+
+    <ImageView
+        android:scaleType="fitXY"
+        android:visibility="gone"
+        android:id="@+id/tv_takephpto_id_card_bei"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="30dp"
+        android:layout_width="fill_parent"
+        android:layout_height="150dp"
+        android:src="@drawable/no_pic"/>
+
+
+
+
+
+
+</LinearLayout>

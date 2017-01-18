@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/ll_big"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp">
+
+            <ImageView
+                android:id="@+id/iv_hudong_type_detail"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/no_pic" />
+
+            <TextView
+                android:id="@+id/tv_hudong_type_username"
+                style="@style/text_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_toRightOf="@+id/iv_hudong_type_detail"
+                android:paddingLeft="9dp"
+                android:text="刘诗诗" />
+
+            <ImageView
+                android:visibility="gone"
+                android:id="@+id/iv_hudong_detail_sex"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/tv_hudong_type_username"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@+id/tv_hudong_type_username"
+                android:src="@drawable/sex_women" />
+
+            <LinearLayout
+                android:id="@+id/ll_hudong_detail_lab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/iv_hudong_type_detail"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@+id/iv_hudong_type_detail"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp">
+
+                <TextView
+                    android:gravity="center"
+                    style="@style/background_red_text_white"
+                    android:id="@+id/tv_hudong_detail_label_school"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/type_border"
+                    android:text="清华大学"
+                    />
+
+                <TextView
+                    android:gravity="center"
+                    android:id="@+id/tv_hudong_detail_label_major"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/t5dp"
+                    style="@style/background_red_text_white"
+                    android:text="工业设计"
+                    android:textColor="@android:color/white" />
+                <TextView
+                    android:gravity="center"
+                    android:layout_marginLeft="@dimen/t5dp"
+                    android:id="@+id/tv_hudong_detail_label_grade"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/background_red_text_white"
+                    android:text="大二"
+                     />
+            </LinearLayout>
+
+            <TextView
+                android:layout_marginTop="@dimen/f3dp"
+                android:id="@+id/tv_hudong_detail_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:paddingRight="@dimen/f20dp"
+                android:text="￥268.00"
+                android:textColor="@color/main" />
+
+            <RelativeLayout
+                android:layout_marginTop="@dimen/f3dp"
+                android:layout_marginRight="@dimen/t3dp"
+                android:layout_toLeftOf="@+id/tv_hudong_detail_price"
+                android:background="@drawable/reward"
+                android:layout_width="@dimen/t17dp"
+                android:layout_height="@dimen/t17dp">
+                <TextView
+                    android:textColor="@color/white"
+                    android:layout_centerInParent="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="赏"
+                    />
+            </RelativeLayout>
+
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:gravity="center_vertical"
+            android:id="@+id/ll_hudong_detail_oncick"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:maxEms="17"
+                android:maxLines="1"
+                android:id="@+id/tv_title_hudong_detail"
+                style="@style/text_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="怎么和学姐搭讪" />
+
+            <TextView
+                android:textColor="@color/colorababab"
+                android:id="@+id/tv_time_hudong_detail"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical|right"
+                android:paddingRight="@dimen/t20dp"
+                android:text="2016-08-08" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_texttwo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:paddingLeft="10dp"
+            android:text="怎么和学姐搭讪"
+            android:textColor="#333333" />
+
+        <com.lvshandian.asktoask.view.MyGridView
+            android:id="@+id/gv_item_img"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="24px"
+            android:layout_marginLeft="24px"
+            android:layout_marginRight="24px"
+            android:layout_marginTop="24px"
+            android:horizontalSpacing="18px"
+            android:numColumns="3"
+            android:verticalSpacing="18px" />
+
+        <LinearLayout
+            android:id="@+id/ll_pic_jump"
+            android:layout_width="fill_parent"
+            android:layout_height="150dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="6dp"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingRight="5dp"
+            android:visibility="gone">
+
+            <ImageView
+                android:id="@+id/iv_itemleft_hudong_detail"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:src="@drawable/no_pic" />
+
+            <View
+                android:layout_width="30dp"
+                android:layout_height="120dp" />
+
+            <ImageView
+                android:id="@+id/iv_itemright_hudong_detail"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:src="@drawable/no_pic" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <CheckBox
+                    android:id="@+id/ck_hudong_detail_collect_num"
+                    android:layout_width="@dimen/t15dp"
+                    android:layout_height="@dimen/t15dp"
+                    android:background="@drawable/collect_bg"
+                    android:button="@null"
+                    android:clickable="true" />
+
+                <TextView
+                    android:textColor="@color/colorababab"
+                    android:id="@+id/tv_hudong_detail_collect_num"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="2355" />
+
+                <CheckBox
+                    android:id="@+id/ck_hudong_detail_praise"
+                    android:layout_width="@dimen/t15dp"
+                    android:layout_height="@dimen/t15dp"
+                    android:layout_marginLeft="40dp"
+                    android:background="@drawable/praise_bg"
+                    android:button="@null"
+                    android:clickable="true" />
+
+                <TextView
+                    android:textColor="@color/colorababab"
+                    android:id="@+id/tv_praise_num"
+                    android:layout_width="@dimen/t15dp"
+                    android:layout_height="@dimen/t15dp"
+                    android:layout_marginLeft="10dp"
+                    android:text="5368" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:gravity="center_vertical"
+                android:id="@+id/iv_share_hudong_detail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/t20dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/share" />
+
+                <TextView
+                    android:textColor="@color/colorababab"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="分享" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/colordadada" />
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:padding="10dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/answer_calendar" />
+
+            <TextView
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="已回答" />
+
+            <TextView
+                android:id="@+id/pserson_answer_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="0人"
+                android:textColor="@color/main" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/ll_big"
+
+        android:orientation="vertical">
+
+        <com.handmark.pulltorefresh.library.PullToRefreshListView
+            android:id="@+id/pull_lv_collect"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:visibility="gone" />
+
+        <RelativeLayout
+            android:visibility="gone"
+            android:id="@+id/rl_hudong_unselet_master"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@color/colordadada">
+
+            <TextView
+                android:id="@+id/tv_wenzhu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="15dp"
+                android:text="问主还未选择答师哦" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/tv_wenzhu"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/hudong_unselect_master" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="4dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+
+            <EditText
+                android:id="@+id/et_answer_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_weight="1"
+                android:background="@null"
+                android:hint="请输入答案"
+                android:padding="5dp" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="5dp"
+                android:visibility="gone">
+
+                <ImageView
+                    android:id="@+id/iv_hudong_detail_face"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/share" />
+
+                <ImageView
+                    android:id="@+id/iv_hudong_detail_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/share" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tv_send_answer"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:padding="4dp"
+                android:paddingRight="20dp"
+                android:text="发送"
+                android:textColor="@color/main"
+                android:textSize="19sp" />
+
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

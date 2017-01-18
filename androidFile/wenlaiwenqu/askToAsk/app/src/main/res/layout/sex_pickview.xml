@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+        <TextView
+            android:id="@+id/tv_cancle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="取消"
+            android:textColor="@color/colorababab"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_centerInParent="true"
+            android:id="@+id/tv_type_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="请选择性别"
+            android:textColor="@color/main"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_sex_picview_queding"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="完成"
+            android:textColor="@color/colorababab"
+            android:textSize="16sp" />
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/cccccccolor"
+        />
+
+
+    <NumberPicker
+        android:layout_marginTop="2dp"
+        android:dividerPadding="5dp"
+        android:id="@+id/np_sexpicview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

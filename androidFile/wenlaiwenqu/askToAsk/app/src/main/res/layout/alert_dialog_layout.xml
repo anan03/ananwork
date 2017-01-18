@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+   android:layout_gravity="bottom"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="6.7dp"
+        android:background="@drawable/popup_white_bg"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/popup_take_picture"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:text="拍照"
+            android:textColor="#666666"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="#dfdfdf"/>
+
+        <TextView
+            android:id="@+id/popup_select_from_gallery"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:text="图片图库"
+            android:textColor="#666666"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/popup_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginBottom="6.7dp"
+        android:background="@drawable/popup_white_bg"
+        android:gravity="center"
+        android:text="取消"
+        android:textColor="#666666"/>
+</LinearLayout>

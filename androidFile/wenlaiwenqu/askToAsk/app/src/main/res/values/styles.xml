@@ -1,0 +1,124 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="WinDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="myProgressBarStyleLarge">
+        <item name="android:indeterminateDrawable">@drawable/progress_large_white</item>
+    </style>
+
+    <style name="AnimationPreview">
+        <item name="android:windowEnterAnimation">@anim/fade_in</item>
+        <item name="android:windowExitAnimation">@anim/fade_out</item>
+    </style>
+    //答咖详情里面的标签的样式
+    //提问详情里的标签
+
+    <style name="background_red_text_white">
+        <item name="android:gravity">center</item>
+        <item name="android:padding">@dimen/t3dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:paddingLeft">7dp</item>
+        <item name="android:paddingRight">7dp</item>
+        <item name="android:paddingBottom">1dp</item>
+        <item name="android:paddingTop">1dp</item>
+        <item name="android:maxEms">5</item>
+        <item name="android:lines">1</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:textSize">@dimen/t10sp</item>
+        <item name="android:background">@drawable/type_border</item>
+    </style>
+    //互动首页灰框
+    <style name="background_hudong_first_corner">
+        <item name="android:textColor">@color/colorababab</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingBottom">1dp</item>
+        <item name="android:paddingTop">1dp</item>
+        <item name="android:maxEms">8</item>
+        <item name="android:lines">1</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:background">@drawable/hudong_first_grey_corner</item>
+    </style>
+
+
+
+    //设置我的资料修改页面文字的样式，红色字体红色边框
+
+    <style name="background_red_text_red">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/t11sp</item>
+        <item name="android:textColor">@color/main</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingRight">5dp</item>
+        <item name="android:paddingBottom">1dp</item>
+        <item name="android:paddingTop">1dp</item>
+        <item name="android:maxEms">8</item>
+        <item name="android:lines">1</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:background">@drawable/circlecorner</item>
+    </style>
+
+
+    //设置问题类型比如：情感！干货的样式
+
+    <style name="user_answer_type">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:background">@drawable/quizitem</item>
+        <item name="android:textColor">@color/darkslategray</item>
+    </style>
+    //赏字的样式
+
+    <style name="user_reward">
+        <item name="android:background">@drawable/reward</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingBottom">2dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:paddingRight">4dp</item>
+        <item name="android:paddingTop">2dp</item>
+        <item name="android:layout_marginLeft">5dp</item>
+
+    </style>
+    //设置边距
+
+    <style name="img_back_gauge">
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingRight">30dp</item>
+        <item name="android:paddingTop">10dp</item>
+
+    </style>
+    //留言.回答姓名字体样式title
+
+    <style name="text_title">
+        <item name="android:textColor">@color/color333333</item>
+        <item name="android:maxEms">8</item>
+        <item name="android:lines">1</item>
+        <item name="android:textSize">18sp</item>
+
+    </style>
+    //内容字体样式content
+
+    <style name="text_content">
+        <item name="android:maxEms">8</item>
+        <item name="android:lines">1</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+</resources>

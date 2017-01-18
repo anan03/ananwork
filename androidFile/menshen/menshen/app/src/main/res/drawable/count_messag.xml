@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 背景填充颜色值 -->
+    <solid android:color="@color/red" />
+
+    <!-- radius值越大，越趋于圆形 -->
+    <corners android:radius="20dip" />
+
+    <!-- 圆角图像内部填充四周的大小 ，将会以此挤压内部布置的view -->
+    <padding
+        android:bottom="1dip"
+        android:left="1dip"
+        android:right="1dip"
+        android:top="1dip" />
+
+</shape>

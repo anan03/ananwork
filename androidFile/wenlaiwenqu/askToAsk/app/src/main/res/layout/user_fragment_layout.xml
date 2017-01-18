@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.lvshandian.asktoask.widgets.PullToZoomScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/scrollview"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+>
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+        <LinearLayout
+            android:id="@+id/ll_bg_convert_pic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+            <com.lvshandian.asktoask.widgets.CircleImageView
+                android:id="@+id/iv_user_icon"
+                android:layout_width="@dimen/t80dp"
+                android:layout_height="@dimen/t80dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="@dimen/t5dp"
+                android:layout_marginTop="@dimen/t50dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/no_pic" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal">
+                <TextView
+                    android:id="@+id/tv_user_username"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/t5dp"
+                    android:drawablePadding="@dimen/t5dp"
+                    android:text="姓名"
+                    android:textColor="@android:color/white"
+                    android:textSize="@dimen/t23sp" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/t2dp"
+                android:layout_marginTop="@dimen/t8dp"
+                android:orientation="horizontal">
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center">
+                    <TextView
+                        android:layout_marginLeft="@dimen/f10dp"
+                        android:id="@+id/tv_user_tag_xuexiao"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/type_border"
+                        android:ellipsize="end"
+                        android:maxLines="1"
+                        android:minEms="2"
+                        android:maxEms="6"
+                        android:paddingBottom="@dimen/t3dp"
+                        android:paddingLeft="@dimen/t10dp"
+                        android:paddingRight="@dimen/t10dp"
+                        android:paddingTop="@dimen/t3dp"
+                        android:text="学校"
+                        android:textColor="@android:color/white" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center">
+                    <TextView
+                        android:layout_marginLeft="@dimen/f10dp"
+                        android:id="@+id/tv_user_tag_zhuanye"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/type_border"
+                        android:maxLines="1"
+                        android:minEms="2"
+                        android:maxEms="6"
+                        android:paddingBottom="@dimen/t3dp"
+                        android:paddingLeft="@dimen/t10dp"
+                        android:paddingRight="@dimen/t10dp"
+                        android:paddingTop="@dimen/t3dp"
+                        android:text="专业"
+                        android:textColor="@android:color/white" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center">
+
+                    <TextView
+                     android:layout_marginLeft="@dimen/f10dp"
+                        android:id="@+id/tv_user_tag_nianji"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/type_border"
+                        android:paddingBottom="@dimen/t3dp"
+                        android:paddingLeft="@dimen/t10dp"
+                        android:paddingRight="@dimen/t10dp"
+                        android:paddingTop="@dimen/t3dp"
+                        android:maxEms="6"
+                        android:text="年级"
+                        android:textColor="@android:color/white" />
+
+                </LinearLayout>
+            </LinearLayout>
+            <TextView
+                android:layout_marginTop="@dimen/f7dp"
+                android:maxEms="30"
+                android:id="@+id/tv_user_gexingqianming"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:gravity="center"
+                android:maxLines="1"
+                android:minEms="2"
+                android:singleLine="true"
+                android:text="签名"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+            <LinearLayout
+                android:background="@color/red"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp">
+
+            <LinearLayout
+                android:id="@+id/ll_mine_huidabtn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_user_answernum"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:maxEms="5"
+                    android:maxLines="1"
+                    android:text="0"
+                    android:textColor="@color/main" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:maxEms="5"
+                    android:text="回答" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@drawable/mine_shu_line" />
+
+            <LinearLayout
+                android:id="@+id/ll_mine_tiwenbtn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_user_asknum"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:maxEms="5"
+                    android:maxLines="1"
+                    android:text="0"
+                    android:textColor="@color/main" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:maxEms="5"
+                    android:text="提问" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@drawable/mine_shu_line" />
+
+            <LinearLayout
+                android:id="@+id/ll_mine_shoucangbtn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_user_collect"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:maxEms="5"
+                    android:maxLines="1"
+                    android:text="0"
+                    android:textColor="@color/main" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:maxEms="5"
+                    android:text="收藏" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@drawable/mine_shu_line" />
+
+            <LinearLayout
+                android:id="@+id/ll_mine_guanzhubtn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_user_praise"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:maxEms="5"
+                    android:maxLines="1"
+                    android:text="0"
+                    android:textColor="@color/main" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:maxEms="5"
+                    android:text="关注" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@drawable/mine_shu_line" />
+
+            <LinearLayout
+                android:id="@+id/ll_mine_fensibtn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_user_fans"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:maxEms="5"
+                    android:maxLines="1"
+                    android:text="0"
+                    android:textColor="@color/main" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:maxEms="5"
+                    android:text="粉丝" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/colorf2f2f2"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="@android:color/white"
+                android:orientation="vertical">
+
+                <com.lvshandian.asktoask.widgets.SettingItemView
+                    android:id="@+id/rel_user_wodexuanshang"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    app:itemicon="@drawable/settingitem_moneyicon"
+                    app:itemtext="@string/mine_itemtext_wodexuanshang" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.2dp"
+                    android:background="#d0d0d0" />
+
+                <com.lvshandian.asktoask.widgets.SettingItemView
+                    android:id="@+id/rel_user_tuijianhaoyou"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    app:itemicon="@drawable/settingitem_share"
+                    app:itemtext="@string/mine_itemtext_tuijianhaoyou" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.2dp"
+                    android:background="#d0d0d0" />
+
+                <com.lvshandian.asktoask.widgets.SettingItemView
+                    android:id="@+id/rel_user_yonghuxieyi"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    app:itemicon="@drawable/mine_user_xieyi"
+                    app:itemtext="@string/mine_itemtext_yonghuxieyi" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.2dp"
+                    android:background="#d0d0d0" />
+
+                <com.lvshandian.asktoask.widgets.SettingItemView
+                    android:id="@+id/rel_user_youhuiquan"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    app:itemicon="@drawable/settingitem_moneyicon"
+                    app:itemtext="@string/mine_itemtext_youhuiquan" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.2dp"
+                    android:background="#d0d0d0" />
+
+                <com.lvshandian.asktoask.widgets.SettingItemView
+                    android:id="@+id/rel_user_yijianfankui"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    app:itemicon="@drawable/mine_user_yijianfankui"
+                    app:itemtext="@string/mine_itemtext_yijianfankui" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.2dp"
+                    android:background="#d0d0d0" />
+
+                <com.lvshandian.asktoask.widgets.SettingItemView
+                    android:id="@+id/rel_mine_setting"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    app:itemicon="@drawable/mine_user_shezhi"
+                    app:itemtext="@string/mine_itemtext_shezhi" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.2dp"
+                    android:background="#d0d0d0" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                  />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
+
+    </com.lvshandian.asktoask.widgets.PullToZoomScrollView>
+

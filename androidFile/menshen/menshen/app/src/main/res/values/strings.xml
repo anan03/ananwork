@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">门神</string>
+    <string name="check_network">请注意检查网络</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="long_hind">请注意检查网络</string>
+    <string name="l_hind">Settings</string>
+    <string-array name="menu_array">
+        <item>Menu 1</item>
+        <item>Menu 2</item>
+        <item>Menu 3</item>
+        <item>Menu 4</item>
+    </string-array>
+    <string name="setting_genghuanshoujihao_daojishitext">"%s秒后重新获取"</string>
+
+</resources>

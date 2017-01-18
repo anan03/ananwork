@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_leavemessage"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+<View
+    android:id="@+id/v_title"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/f20dp"
+    android:background="@color/main"
+    />
+    <RelativeLayout
+        android:layout_below="@+id/v_title"
+        android:id="@+id/rl_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/main"
+        android:padding="@dimen/f10dp">
+
+        <ImageView
+            android:id="@+id/iv_back_approve_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/common_titlebar_backjt" />
+
+        <TextView
+            android:id="@+id/leave_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="19038675642"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:layout_alignParentRight="true"
+            android:id="@+id/tv_leaveed_name_men"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="留言"
+            android:textColor="@color/white" />
+
+    </RelativeLayout>
+
+   <EditText
+       android:id="@+id/et_leave_data"
+       android:layout_marginTop="@dimen/f10dp"
+       android:layout_marginLeft="@dimen/f10dp"
+       android:background="@null"
+       android:layout_below="@+id/rl_title"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:hint="请输入留言........."
+       />
+</RelativeLayout>

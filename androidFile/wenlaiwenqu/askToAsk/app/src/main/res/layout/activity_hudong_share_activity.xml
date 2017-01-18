@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/main">
+
+        <ImageView
+            android:id="@+id/iv_hudong_detail_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/t10dp"
+            android:src="@drawable/common_titlebar_backjt" />
+
+        <TextView
+            android:id="@+id/tv_hudong_detail_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="分享"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+    <EditText
+        android:paddingLeft="@dimen/t10dp"
+        android:textSize="10sp"
+        android:hint="请输入分享内容"
+        android:background="@null"
+        android:id="@+id/et_input"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/t50dp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/t10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/t5dp"
+            android:background="@drawable/reward"
+            android:gravity="center"
+            android:text="赏" />
+
+        <TextView
+            android:id="@+id/tv_title_hudong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/t3dp"
+            android:text="怎么和学姐搭讪"
+            android:textColor="#333333" />
+
+        <TextView
+            android:id="@+id/tv_time_hudong"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical|right"
+            android:paddingRight="@dimen/t20dp"
+            android:text="2016-08-08" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/t10dp">
+
+        <TextView
+            android:id="@+id/tv_type_hudong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/circlecorneritem"
+            android:text="干货" />
+
+        <TextView
+            android:id="@+id/tv_price_hudong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="3dp"
+            android:text="￥268.0"
+            android:textColor="@color/main" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/ll_pic_jump"
+        android:layout_width="fill_parent"
+        android:layout_height="120dp"
+        android:layout_marginTop="6dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp">
+
+        <ImageView
+            android:id="@+id/iv_itemleft_hudong"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:scaleType="fitXY" />
+
+        <View
+            android:layout_width="30dp"
+            android:layout_height="120dp" />
+
+        <ImageView
+            android:id="@+id/iv_itemright_hudong"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:scaleType="fitXY" />
+    </LinearLayout>
+
+
+
+   <Button
+       android:id="@+id/shared"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="分享"
+       />
+
+
+
+</LinearLayout>
