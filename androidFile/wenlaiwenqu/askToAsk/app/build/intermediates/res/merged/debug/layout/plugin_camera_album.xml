@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    >
+
+
+
+    <RelativeLayout
+        android:id="@+id/headview"
+        android:background="@color/main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_centerVertical="true"
+            android:id="@+id/iv_back"
+            android:padding="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/common_titlebar_backjt"/>
+        <Button
+            android:textColor="@color/white"
+            android:background="@null"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:id="@+id/cancel"
+            android:text="取消"
+            />
+        <TextView
+            android:id="@+id/tv_show_nums"
+            android:layout_centerInParent="true"
+            android:textColor="@color/white"
+            android:background="@null"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:text="123"
+            />
+
+        <Button
+            android:textColor="@color/white"
+            android:background="@null"
+            android:text="确定"
+            android:id="@+id/ok_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            />
+    </RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <RelativeLayout
+        android:visibility="gone"
+        android:id="@+id/bottom_layout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="3dp"
+        >
+ 		<Button
+            android:id="@+id/preview"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            />
+        <Button
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+
+            />
+    </RelativeLayout>
+
+    <GridView
+        android:id="@+id/myGrid"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@id/bottom_layout"
+        android:layout_below="@id/headview"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="2dp"
+        android:horizontalSpacing="10dp"
+        android:numColumns="4"
+        android:verticalSpacing="10dp"
+         />
+    <TextView
+        android:id="@+id/myText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textColor="@color/red"
+        />
+
+</RelativeLayout>

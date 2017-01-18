@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:background="@color/main"
+        />
+
+    <RelativeLayout
+        android:background="@color/main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/iv_hudong_detail_back"
+            android:padding="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/common_titlebar_backjt"/>
+        <TextView
+            android:textColor="@color/white"
+            android:layout_centerInParent="true"
+            android:id="@+id/tv_answer_name_leave"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="姓名"/>
+        <TextView
+            android:id="@+id/tv_confirm"
+            android:padding="10dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:textColor="@color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="留言"/>
+    </RelativeLayout>
+    <EditText
+        android:id="@+id/et_leave_words"
+        android:padding="10dp"
+        android:background="@null"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入留言....."/>
+
+
+
+</LinearLayout>

@@ -1,0 +1,614 @@
+[
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\accept.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\accept.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_linkedin.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_linkedin.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\answer_calender.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\answer_calender.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\login_qq_icon.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\login_qq_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\un_check_warn.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\un_check_warn.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_pinterest.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_pinterest.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\log_zhi_pay.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\log_zhi_pay.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_twitter.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_twitter.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ck_uncheck_post_pay.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ck_uncheck_post_pay.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\settingitem_share.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\settingitem_share.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\register_yanzhengma_icon.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\register_yanzhengma_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_check_checked.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_check_checked.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_kakaotalk.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kakaotalk.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\answer_ok.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\answer_ok.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_facebookmessenger.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_facebookmessenger.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\check_warn.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\check_warn.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\zhifubao_logoicon.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\zhifubao_logoicon.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mine_user_shezhi.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\mine_user_shezhi.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\add_pic_postquestion.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\add_pic_postquestion.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_yixinmoments.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_yixinmoments.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_laiwang.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_laiwang.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\zhifubao.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\zhifubao.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\settingitem_moneyicon.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\settingitem_moneyicon.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_auth_title_back.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\login_phonenum_icon.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\login_phonenum_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\hudong_unselect_master.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\hudong_unselect_master.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\right_boult.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\right_boult.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\interaction_no.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\interaction_no.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tuiqq.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\tuiqq.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\message_no.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\message_no.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_dropbox.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_dropbox.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\my_ok.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\my_ok.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_line.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_line.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\warn.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\warn.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\collectsel.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\collectsel.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\xueshu.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\xueshu.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\handle1.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\handle1.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ganhuo.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ganhuo.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_whatsapp.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_whatsapp.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\xuanhangjine_icon.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\xuanhangjine_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_back_arr.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_qq.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_qq.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_googleplus.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_googleplus.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\my_no.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\my_no.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_logo.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_logo.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_vkontakte.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_vkontakte.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_shortmessage.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_shortmessage.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_tencentweibo.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_tencentweibo.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\answer_pic.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\answer_pic.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_wechat.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechat.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_tumblr.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_tumblr.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tuiweibo.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\tuiweibo.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\handle.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\handle.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\select_right.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\select_right.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\praiseunsel.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\praiseunsel.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_alipay.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_alipay.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\praisesel.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\praisesel.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\post_money_unselect.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\post_money_unselect.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_renren.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_renren.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\answer_no.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\answer_no.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\interaction_ok.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\interaction_ok.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\item_youhuiquanbg.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\item_youhuiquanbg.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\message_ok.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\message_ok.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mine_shu_line.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\mine_shu_line.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qq.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\qq.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\collectunsel.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\collectunsel.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mine_icon_bg.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\mine_icon_bg.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_qzone.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_qzone.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\approve_student_example.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\approve_student_example.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\login_logo_icon.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\login_logo_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\master.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\master.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\weibo.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\weibo.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_laiwangmoments.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_laiwangmoments.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_wechatmoments.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechatmoments.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sex_men.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\sex_men.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_instapaper.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_instapaper.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_kakaostory.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kakaostory.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tuichat.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\tuichat.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qqkong.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\qqkong.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\answer_detail_bg.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\answer_detail_bg.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\add_focus.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\add_focus.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\login_weibo_icon.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\login_weibo_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_youdao.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_youdao.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\login_weixin_icon.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\login_weixin_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_douban.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_douban.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\leave_words.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\leave_words.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unknown.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\unknown.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_app.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\loading_app.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sex_women.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\sex_women.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_title_div.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_title_div.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mine_settingitem_rightjt.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\mine_settingitem_rightjt.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_check_default.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_check_default.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_instagram.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_instagram.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_mingdao.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_mingdao.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mine_user_yijianfankui.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\mine_user_yijianfankui.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_sinaweibo.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_sinaweibo.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_flickr.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_flickr.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_foursquare.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_foursquare.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_full_open_on_phone.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_wechatfavorite.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechatfavorite.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ck_check_post_pay.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ck_check_post_pay.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\login_password_icon.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\login_password_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\yikao.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\yikao.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\no_pic.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\no_pic.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_bluetooth.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_bluetooth.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_titlebar_backjt.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\common_titlebar_backjt.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_kaixin.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kaixin.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\jiaoyou.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\jiaoyou.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\circle.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\circle.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\share.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\share.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhuijuan_no.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\youhuijuan_no.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\weixin.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\weixin.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mine_user_xieyi.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\mine_user_xieyi.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\weixinkong.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\weixinkong.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_evernote.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_evernote.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\question.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\question.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_email.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_email.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\add_student_zheng.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\add_student_zheng.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_pocket.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_pocket.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_yixin.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_yixin.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_facebook.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_facebook.png"
+    }
+]

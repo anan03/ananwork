@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/t20dp"
+        android:background="@color/main"
+        />
+    <RelativeLayout
+        android:id="@+id/rl_head_title"
+        android:background="@color/main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/iv_hudong_detail_back"
+            android:paddingTop="@dimen/f10dp"
+            android:paddingBottom="@dimen/f10dp"
+            android:paddingLeft="@dimen/f10dp"
+            android:paddingRight="@dimen/f20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/common_titlebar_backjt"/>
+        <TextView
+            android:layout_gravity="center"
+            android:textColor="@color/white"
+            android:layout_centerInParent="true"
+            android:id="@+id/tv_hudong_detail_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="一键反馈"/>
+        <TextView
+            android:id="@+id/tv_submit"
+            android:layout_marginRight="@dimen/f10dp"
+            android:layout_centerVertical="true"
+            android:layout_gravity="right"
+            android:textColor="@color/white"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="提交"/>
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <EditText
+            android:id="@+id/et_yijianfankui_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:gravity="top"
+            android:hint="请在这里填写您对我们的意见, 我们将不断改进, 感谢支持"
+            android:inputType="textMultiLine"
+            android:minLines="6" />
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#d0d0d0" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <EditText
+            android:id="@+id/et_yijianfankui_youxiangdizhi"
+            android:layout_width="match_parent"
+            android:inputType="textEmailAddress"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:hint="电子邮箱, 选填, 以便我们回复您." />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#d0d0d0" />
+
+</LinearLayout>

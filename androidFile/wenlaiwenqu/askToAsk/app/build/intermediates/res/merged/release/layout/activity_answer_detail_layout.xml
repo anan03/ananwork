@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        android:layout_weight="1"
+        android:id="@+id/pull_lv_collect"
+        android:layout_width="fill_parent"
+        android:cacheColorHint="#00000000"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="false"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false"
+        android:smoothScrollbar="true"
+        android:divider="@null"
+        android:layout_height="match_parent" />
+    <LinearLayout
+        android:layout_gravity="bottom"
+        android:id="@+id/dibu"
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:id="@+id/ll_answer_detail_leave_words"
+            android:gravity="center"
+            android:background="@color/main"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/leave_words"/>
+            <TextView
+                android:textColor="@color/white"
+                android:id="@+id/tv_leave_message"
+                android:padding="@dimen/t10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="留言"/>
+        </LinearLayout>
+
+           <TextView
+           android:background="#963206"
+           android:layout_width="@dimen/t1dp"
+           android:layout_height="match_parent" />
+
+        <LinearLayout
+            android:id="@+id/ll_answer_detail_focus"
+            android:gravity="center"
+            android:background="@color/main"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/add_focus"/>
+            <TextView
+                android:textColor="@color/white"
+                android:padding="@dimen/t10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="关注"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

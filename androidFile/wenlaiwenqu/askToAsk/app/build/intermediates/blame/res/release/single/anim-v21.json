@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    }
+]

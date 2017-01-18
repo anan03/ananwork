@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/root_layout"
+    android:orientation="vertical">
+
+    <include layout="@layout/common_titlebar" />
+
+
+    <LinearLayout
+        android:paddingLeft="@dimen/f14dp"
+        android:gravity="center_vertical"
+        android:paddingTop="@dimen/f10dp"
+        android:paddingBottom="@dimen/f10dp"
+        android:background="@color/colorf2f2f2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textSize="@dimen/t14sp"
+            android:textColor="@color/color333333"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="可提现悬赏金额"
+            />
+        <TextView
+            android:textSize="@dimen/t14sp"
+            android:id="@+id/tv_price"
+            android:layout_marginLeft="@dimen/f5dp"
+            android:textColor="@color/main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0.00"
+            />
+        <TextView
+            android:textSize="@dimen/t14sp"
+            android:textColor="@color/main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="元"
+            />
+        <TextView
+            android:textSize="@dimen/t14sp"
+            android:paddingRight="@dimen/f6dp"
+            android:id="@+id/tv_all_crash"
+            android:textColor="@color/main"
+            android:gravity="right"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="全部体现"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:gravity="center_vertical"
+        android:padding="@dimen/f9dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textSize="18sp"
+            android:textColor="@color/color333333"
+            android:layout_marginLeft="@dimen/f5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="金额"
+            />
+        <EditText
+            android:id="@+id/et_cash_money"
+            android:layout_marginLeft="@dimen/f10dp"
+            android:textSize="16sp"
+            android:background="@null"
+            android:hint="请输入提现金额(单笔最少提现15元)"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colordadada"
+        />
+
+    <LinearLayout
+        android:gravity="center_vertical"
+        android:padding="@dimen/f9dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textSize="18sp"
+            android:textColor="@color/color333333"
+            android:layout_marginLeft="@dimen/f5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="姓名"
+            />
+        <EditText
+            android:textSize="16sp"
+            android:id="@+id/et_input_name"
+            android:layout_marginLeft="@dimen/f10dp"
+            android:background="@null"
+            android:hint="请输入支付宝姓名"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colordadada"
+        />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:padding="@dimen/f9dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textSize="18sp"
+            android:textColor="@color/color333333"
+            android:layout_marginLeft="@dimen/f5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="支付宝账户"
+            />
+        <ImageView
+            android:layout_marginLeft="@dimen/f4dp"
+            android:src="@drawable/log_zhi_pay"
+            android:layout_width="@dimen/f30dp"
+            android:layout_height="@dimen/f30dp" />
+        <EditText
+            android:id="@+id/et_zhifubao_zhanghu"
+            android:layout_marginLeft="@dimen/f10dp"
+            android:textSize="16sp"
+            android:background="@null"
+            android:hint="请输入支付宝账户"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colordadada"
+        />
+    <TextView
+        android:gravity="center"
+        android:layout_marginLeft="@dimen/f10dp"
+        android:paddingTop="@dimen/f10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/wodexuanshang_tixiandengdaitishi"
+        android:textColor="@color/colorababab" />
+    <!-- 提现按钮开始 -->
+    <LinearLayout
+        android:background="@color/colorf2f2f2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="@dimen/t15dp">
+
+        <Button
+
+            android:background="@color/colordadada"
+            android:id="@+id/btn_tixian_gotixian"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/wodexuanshang_querentixian"
+            android:textColor="@android:color/white"
+            android:textSize="16sp" />
+    </LinearLayout>
+</LinearLayout>

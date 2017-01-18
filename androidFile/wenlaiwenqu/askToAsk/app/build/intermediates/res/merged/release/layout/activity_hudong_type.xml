@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@color/colorf2f2f2"
+    android:id="@+id/llParentView"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/t20dp"
+        android:background="@color/main"
+        />
+    <RelativeLayout
+        android:background="@color/main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/iv_hudong_quest_type_back"
+            android:padding="@dimen/t10dp"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/common_titlebar_backjt"/>
+        <TextView
+            android:textColor="@color/white"
+            android:layout_centerInParent="true"
+            android:id="@+id/tv_hudong_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="学术"/>
+    </RelativeLayout>
+
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_weight="1"
+    android:id="@+id/ll_hasdata"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <com.lvshandian.asktoask.module.interaction.piceffect.SwipeFlingAdapterView
+        android:layout_weight="1"
+        android:id="@+id/frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:rotation_degrees="15.5"
+        tools:context=".MyActivity" />
+    <RelativeLayout
+        android:gravity="center_vertical"
+        android:paddingTop="@dimen/t10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       >
+        <RelativeLayout
+            android:background="@color/white"
+            android:gravity="center"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:id="@+id/ll_big_onclick_collect"
+                    android:padding="10dp"
+                    android:orientation="horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <CheckBox
+                    android:id="@+id/ck_hudong_collect_num_quest_type"
+                    android:clickable="true"
+                    android:button="@null"
+                    android:background="@drawable/collect_bg"
+                    android:layout_width="@dimen/t17dp"
+                    android:layout_height="@dimen/t17dp"
+                    />
+
+                    <TextView
+                        android:textColor="@color/colorababab"
+                        android:id="@+id/tv_hudong_collect_num_detail"
+                        android:layout_marginLeft="10dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:padding="10dp"
+                    android:id="@+id/ll_big_onclick_praise"
+                    android:orientation="horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <CheckBox
+                        android:id="@+id/ck_hudong_praise_nume_quest_type"
+                        android:button="@null"
+                        android:clickable="true"
+                        android:background="@drawable/praise_bg"
+                        android:layout_width="@dimen/t17dp"
+                        android:layout_height="@dimen/t17dp"
+                    />
+
+                    <TextView
+                        android:textColor="@color/colorababab"
+                        android:id="@+id/tv_praise_num_detail"
+                        android:layout_marginLeft="10dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0"/>
+                </LinearLayout>
+
+
+            </LinearLayout>
+            <LinearLayout
+                android:gravity="center"
+                android:padding="10dp"
+                android:id="@+id/iv_share_hudong_quest_type"
+                android:layout_marginRight="20dp"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/share"/>
+                <TextView
+                    android:textColor="@color/colorababab"
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="分享"/>
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>
+    <TextView
+        android:visibility="gone"
+        android:gravity="center"
+        android:id="@+id/tv_show_nodata"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="暂无数据"
+        />
+
+
+
+
+
+</LinearLayout>

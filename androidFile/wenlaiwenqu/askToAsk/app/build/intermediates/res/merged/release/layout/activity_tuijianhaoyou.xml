@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorf2f2f2"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/rel_tuijianhaoyou_title"
+        layout="@layout/common_titlebar" />
+
+
+    <RelativeLayout
+        android:paddingBottom="@dimen/f20dp"
+        android:paddingRight="@dimen/f30dp"
+        android:paddingLeft="@dimen/f30dp"
+        android:paddingTop="@dimen/f10dp"
+        android:layout_below="@+id/rel_tuijianhaoyou_title"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tv_share_text"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="您可以通过以下方式分享给朋友"
+            />
+
+
+        <LinearLayout
+            android:layout_below="@+id/tv_share_text"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+            android:id="@+id/ll_tuijianhaoyou_qqhaoyou"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:layout_marginTop="@dimen/f25dp"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/tuiqq"
+                    />
+                <TextView
+                    android:layout_marginTop="@dimen/f7dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="腾讯QQ"
+                    />
+
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/ll_tuijianhaoyou_weixinhaoyou"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:layout_marginTop="@dimen/f25dp"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/tuichat"
+                    />
+                <TextView
+                    android:layout_marginTop="@dimen/f7dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="微信好友"
+                    />
+            </LinearLayout>
+            <LinearLayout
+            android:id="@+id/ll_tuijianhaoyou_xinlanghaoyou"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:layout_marginTop="@dimen/f25dp"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/tuiweibo"
+                    />
+                <TextView
+                    android:gravity="center_horizontal"
+                    android:layout_marginTop="@dimen/f7dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="新浪微博"
+                    />
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+
+    </RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- -->
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_below="@id/rel_tuijianhaoyou_title"-->
+        <!--android:background="@android:color/white"-->
+        <!--android:gravity="center_horizontal"-->
+        <!--android:orientation="vertical">-->
+
+        <!--<LinearLayout-->
+            <!--android:id="@+id/ll_tuijianhaoyou_weixinhaoyou"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:orientation="vertical"-->
+            <!--android:padding="10dp">-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_gravity="center"-->
+                <!--android:drawableLeft="@drawable/fenxiang_weixinicon"-->
+                <!--android:drawablePadding="20dp"-->
+                <!--android:text="@string/setting_haoyoufenxiang_weixinhaoyou" />-->
+
+
+        <!--</LinearLayout>-->
+
+        <!--<View-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="0.2dp"-->
+            <!--android:background="#d0d0d0" />-->
+
+        <!--<LinearLayout-->
+            <!--android:id="@+id/ll_tuijianhaoyou_qqhaoyou"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:orientation="vertical"-->
+            <!--android:padding="10dp">-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_gravity="center"-->
+                <!--android:drawableLeft="@drawable/fenxiang_qqicon"-->
+                <!--android:drawablePadding="20dp"-->
+                <!--android:gravity="center"-->
+                <!--android:text="@string/setting_haoyoufenxiang_qqhaoyou" />-->
+        <!--</LinearLayout>-->
+
+
+        <!--<View-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="0.2dp"-->
+            <!--android:background="#d0d0d0" />-->
+
+        <!--<LinearLayout-->
+            <!--android:id="@+id/ll_tuijianhaoyou_xinlanghaoyou"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:orientation="vertical"-->
+            <!--android:padding="10dp">-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_gravity="center"-->
+                <!--android:drawableLeft="@drawable/fenxiang_xinlangicon"-->
+                <!--android:drawablePadding="20dp"-->
+                <!--android:gravity="center_vertical"-->
+                <!--android:text="@string/setting_haoyoufenxiang_xinlanghaoyou" />-->
+        <!--</LinearLayout>-->
+
+        <!--<View-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="0.2dp"-->
+            <!--android:background="#d0d0d0" />-->
+
+    <!--</LinearLayout>-->
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:background="@android:color/white"-->
+        <!--android:orientation="vertical">-->
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:orientation="vertical">-->
+
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:padding="10dp"-->
+                <!--android:text="@string/setting_haoyoufenxiang_tuijianguize"-->
+                <!--android:textSize="20sp"-->
+                <!--android:textStyle="bold" />-->
+        <!--</LinearLayout>-->
+
+        <!--<View-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="0.2dp"-->
+            <!--android:background="#d0d0d0" />-->
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:orientation="vertical"-->
+            <!--android:padding="10dp">-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/tv_tuijianhaoyou_tuijianguize"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginBottom="20dp"-->
+                <!--android:text="@string/setting_haoyoufenxiang_tuijianguizexiangqing"-->
+                <!--android:textSize="18sp" />-->
+        <!--</LinearLayout>-->
+
+    <!--</LinearLayout>-->
+
+</RelativeLayout>

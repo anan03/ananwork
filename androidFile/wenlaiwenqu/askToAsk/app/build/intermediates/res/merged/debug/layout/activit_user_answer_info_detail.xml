@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <View
+        android:id="@+id/title_bg"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/t20dp"
+        android:background="@color/main"
+        />
+
+    <RelativeLayout
+        android:layout_below="@+id/title_bg"
+        android:id="@+id/rl_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/main">
+
+        <LinearLayout
+            android:id="@+id/ll_parent_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/iv_back_approve_address"
+                android:padding="@dimen/t10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/common_titlebar_backjt" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_hudong_detail_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="回答详情"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/pull_lv_collect"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/white"
+        android:layout_below="@+id/rl_title"
+        android:layout_marginBottom="@dimen/t50dp" />
+    <LinearLayout
+        android:id="@+id/ll_answer"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/t50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/backgeragd_message"
+        android:orientation="horizontal"
+        android:padding="@dimen/t6dp">
+        <EditText
+            android:id="@+id/et_answer_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/t10dp"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:hint="请输入答案"
+            android:padding="5dp" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:padding="@dimen/t5dp"
+            android:visibility="gone">
+
+            <ImageView
+                android:id="@+id/iv_hudong_detail_face"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/t10dp"
+                android:layout_weight="1"
+                android:src="@drawable/share" />
+
+            <ImageView
+                android:id="@+id/iv_hudong_detail_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/t10dp"
+                android:layout_weight="1"
+                android:src="@drawable/share" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_send_answer"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/t8dp"
+            android:gravity="center"
+            android:padding="@dimen/t4dp"
+            android:paddingRight="@dimen/t20dp"
+            android:text="发送"
+            android:textColor="@color/main"
+            android:textSize="19sp" />
+    </LinearLayout>
+</RelativeLayout>

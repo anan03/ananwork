@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    }
+]

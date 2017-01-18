@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:background="@color/main"
+        />
+    <RelativeLayout
+        android:padding="10dp"
+        android:background="@color/main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/iv_approve_job_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/common_titlebar_backjt"/>
+        <TextView
+            android:textColor="@color/white"
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="分科专业"/>
+        <TextView
+            android:id="@+id/tv_approve_job_save"
+            android:layout_alignParentRight="true"
+            android:textColor="@color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="保存"/>
+
+    </RelativeLayout>
+    <EditText
+        android:layout_marginTop="10dp"
+        android:paddingLeft="20dp"
+        android:id="@+id/et_answer_job"
+        android:cursorVisible="true"
+        android:hint="请输入专业"
+        android:gravity="left"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        />
+
+
+</LinearLayout>

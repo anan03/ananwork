@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:background="@drawable/reward"
+            android:layout_width="@dimen/t16dp"
+            android:layout_height="@dimen/t16dp">
+            <TextView
+                android:textSize="@dimen/t12sp"
+                android:textColor="@color/white"
+                android:layout_centerInParent="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="赏"
+                />
+        </RelativeLayout>
+        <TextView
+            android:singleLine="true"
+            android:maxEms="13"
+            android:textColor="@color/color333333"
+            android:id="@+id/tv_search_title"
+            android:layout_marginLeft="5dp"
+            android:text="怎样和学姐搭讪？"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:textColor="@color/colorababab"
+            android:id="@+id/tv_search_time"
+            android:paddingRight="10dp"
+            android:gravity="right"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="2016-08-08"/>
+
+    </LinearLayout>
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="5dp"
+        android:id="@+id/tv_type_hudong_search"
+        style="@style/background_hudong_first_corner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="干货"/>
+    <View
+        android:layout_marginTop="10dp"
+        android:layout_width="fill_parent"
+        android:layout_height="0.2dp"
+        android:background="@color/colordadada"/>
+
+
+</LinearLayout>

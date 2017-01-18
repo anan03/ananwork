@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <include layout="@layout/common_titlebar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/f10dp"
+        android:background="@drawable/shape_yonghuxieyi_neirong_bg"
+        android:orientation="vertical"
+        android:padding="@dimen/f1dp"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/tv_yonghuxieyi_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorf2f2f2"
+            android:padding="5dp"
+            android:text="@string/setting_yonghuxieyi_guanyuwomen"
+            android:textColor="@android:color/black"
+            android:textSize="16sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/f1dp"
+            android:background="@color/colorababab" />
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_yonghuxieyi_xieyineirong"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/f10dp"
+            android:paddingBottom="@dimen/f20dp"
+            android:paddingLeft="@dimen/f10dp"
+            android:paddingRight="@dimen/f10dp"
+            android:text="@string/setting_about"
+            android:textColor="@color/black" />
+    </ScrollView>
+
+
+</LinearLayout>

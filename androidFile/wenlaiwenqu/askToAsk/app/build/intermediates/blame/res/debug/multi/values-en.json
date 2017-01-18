@@ -1,0 +1,1624 @@
+[
+    {
+        "outputFile": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 4168,
+                        "endColumn": 46,
+                        "endOffset": 4210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 109,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1501,
+                        "endColumn": 109,
+                        "endOffset": 1606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 212,
+                    "endColumn": 52,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 1,
+                        "startOffset": 3449,
+                        "endColumn": 49,
+                        "endOffset": 3497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 46,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 1,
+                        "startOffset": 2482,
+                        "endColumn": 43,
+                        "endOffset": 2524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 48,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 1,
+                        "startOffset": 3014,
+                        "endColumn": 45,
+                        "endOffset": 3058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endColumn": 44,
+                    "endOffset": 401
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 2255,
+                        "endColumn": 41,
+                        "endOffset": 2295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 406,
+                    "endColumn": 50,
+                    "endOffset": 452
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 2572,
+                        "endColumn": 47,
+                        "endOffset": 2618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 457,
+                    "endColumn": 50,
+                    "endOffset": 503
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 2069,
+                        "endColumn": 47,
+                        "endOffset": 2115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 508,
+                    "endColumn": 69,
+                    "endOffset": 573
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3982,
+                        "endColumn": 69,
+                        "endOffset": 4047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 578,
+                    "endColumn": 131,
+                    "endOffset": 705
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1612,
+                        "endColumn": 131,
+                        "endOffset": 1739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 710,
+                    "endColumn": 46,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 1,
+                        "startOffset": 2924,
+                        "endColumn": 43,
+                        "endOffset": 2966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 54,
+                    "endOffset": 807
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 1,
+                        "startOffset": 2721,
+                        "endColumn": 51,
+                        "endOffset": 2771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 812,
+                    "endColumn": 115,
+                    "endOffset": 923
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 359,
+                        "endColumn": 115,
+                        "endOffset": 470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 928,
+                    "endColumn": 51,
+                    "endOffset": 975
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 1,
+                        "startOffset": 2671,
+                        "endColumn": 48,
+                        "endOffset": 2718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 980,
+                    "endColumn": 52,
+                    "endOffset": 1028
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 1,
+                        "startOffset": 3105,
+                        "endColumn": 49,
+                        "endOffset": 3153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1033,
+                    "endColumn": 115,
+                    "endOffset": 1144
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 703,
+                        "endColumn": 115,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1149,
+                    "endColumn": 99,
+                    "endOffset": 1244
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 1,
+                        "startOffset": 3881,
+                        "endColumn": 96,
+                        "endOffset": 3976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1249,
+                    "endLine": 84,
+                    "endColumn": 9,
+                    "endOffset": 3129
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_instapaper_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 68,
+                        "endColumn": 12,
+                        "endOffset": 1938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 3134,
+                    "endColumn": 54,
+                    "endOffset": 3184
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3600,
+                        "endColumn": 54,
+                        "endOffset": 3650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 3189,
+                    "endColumn": 55,
+                    "endOffset": 3240
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 1,
+                        "startOffset": 3653,
+                        "endColumn": 52,
+                        "endOffset": 3704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 3245,
+                    "endColumn": 57,
+                    "endOffset": 3298
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 1,
+                        "startOffset": 3762,
+                        "endColumn": 54,
+                        "endOffset": 3815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 3303,
+                    "endColumn": 61,
+                    "endOffset": 3360
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3821,
+                        "endColumn": 61,
+                        "endOffset": 3878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 3365,
+                    "endColumn": 56,
+                    "endOffset": 3417
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 1,
+                        "startOffset": 3707,
+                        "endColumn": 53,
+                        "endOffset": 3759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 3422,
+                    "endColumn": 46,
+                    "endOffset": 3464
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 2210,
+                        "endColumn": 43,
+                        "endOffset": 2252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 3469,
+                    "endColumn": 54,
+                    "endOffset": 3519
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 1,
+                        "startOffset": 3355,
+                        "endColumn": 51,
+                        "endOffset": 3405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 3524,
+                    "endColumn": 117,
+                    "endOffset": 3637
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1153,
+                        "endColumn": 117,
+                        "endOffset": 1266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 3642,
+                    "endColumn": 52,
+                    "endOffset": 3690
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 1,
+                        "startOffset": 3304,
+                        "endColumn": 49,
+                        "endOffset": 3352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 3695,
+                    "endColumn": 115,
+                    "endOffset": 3806
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1036,
+                        "endColumn": 115,
+                        "endOffset": 1147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 3811,
+                    "endColumn": 48,
+                    "endOffset": 3855
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 4053,
+                        "endColumn": 48,
+                        "endOffset": 4097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 3860,
+                    "endColumn": 112,
+                    "endOffset": 3968
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1387,
+                        "endColumn": 112,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 3973,
+                    "endColumn": 63,
+                    "endOffset": 4032
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4103,
+                        "endColumn": 63,
+                        "endOffset": 4162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 4037,
+                    "endColumn": 42,
+                    "endOffset": 4075
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 1,
+                        "startOffset": 3408,
+                        "endColumn": 39,
+                        "endOffset": 3446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 4080,
+                    "endColumn": 105,
+                    "endOffset": 4181
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 929,
+                        "endColumn": 105,
+                        "endOffset": 1030
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 4186,
+                    "endColumn": 51,
+                    "endOffset": 4233
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 1,
+                        "startOffset": 2621,
+                        "endColumn": 48,
+                        "endOffset": 2668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 4238,
+                    "endColumn": 48,
+                    "endOffset": 4282
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 1,
+                        "startOffset": 3257,
+                        "endColumn": 45,
+                        "endOffset": 3301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 4287,
+                    "endColumn": 68,
+                    "endOffset": 4351
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 1,
+                        "startOffset": 4516,
+                        "endColumn": 65,
+                        "endOffset": 4580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 4356,
+                    "endColumn": 67,
+                    "endOffset": 4419
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 1,
+                        "startOffset": 2416,
+                        "endColumn": 64,
+                        "endOffset": 2479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 4424,
+                    "endColumn": 50,
+                    "endOffset": 4470
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 415,
+                        "endColumn": 50,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 4475,
+                    "endColumn": 52,
+                    "endOffset": 4523
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 531,
+                        "endColumn": 52,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 4528,
+                    "endColumn": 54,
+                    "endOffset": 4578
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 585,
+                        "endColumn": 54,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 4583,
+                    "endColumn": 62,
+                    "endOffset": 4641
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 467,
+                        "endColumn": 62,
+                        "endOffset": 525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 4646,
+                    "endColumn": 73,
+                    "endOffset": 4715
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 641,
+                        "endColumn": 73,
+                        "endOffset": 710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 4720,
+                    "endColumn": 59,
+                    "endOffset": 4775
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 786,
+                        "endColumn": 56,
+                        "endOffset": 841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 4780,
+                    "endColumn": 74,
+                    "endOffset": 4850
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 713,
+                        "endColumn": 71,
+                        "endOffset": 783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 4855,
+                    "endColumn": 48,
+                    "endOffset": 4899
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 48,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4904,
+                    "endColumn": 70,
+                    "endOffset": 4970
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 70,
+                        "endOffset": 409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4975,
+                    "endColumn": 72,
+                    "endOffset": 5043
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 72,
+                        "endOffset": 337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 5048,
+                    "endColumn": 66,
+                    "endOffset": 5110
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 201,
+                        "endColumn": 66,
+                        "endOffset": 263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 5115,
+                    "endColumn": 92,
+                    "endOffset": 5203
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 92,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 5208,
+                    "endColumn": 52,
+                    "endOffset": 5256
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 1,
+                        "startOffset": 2873,
+                        "endColumn": 49,
+                        "endOffset": 2921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 5261,
+                    "endColumn": 115,
+                    "endOffset": 5372
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 586,
+                        "endColumn": 115,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 5377,
+                    "endColumn": 44,
+                    "endOffset": 5417
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 8,
+                        "startOffset": 4220,
+                        "endColumn": 48,
+                        "endOffset": 4260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 5422,
+                    "endColumn": 46,
+                    "endOffset": 5464
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3552,
+                        "endColumn": 46,
+                        "endOffset": 3594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 5469,
+                    "endColumn": 38,
+                    "endOffset": 5503
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 1,
+                        "startOffset": 2774,
+                        "endColumn": 35,
+                        "endOffset": 2808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 5508,
+                    "endColumn": 108,
+                    "endOffset": 5612
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 476,
+                        "endColumn": 108,
+                        "endOffset": 580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 5617,
+                    "endColumn": 44,
+                    "endOffset": 5657
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 1858,
+                        "endColumn": 41,
+                        "endOffset": 1898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 5662,
+                    "endColumn": 46,
+                    "endOffset": 5704
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 2165,
+                        "endColumn": 43,
+                        "endOffset": 2207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 5709,
+                    "endColumn": 68,
+                    "endOffset": 5773
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 1,
+                        "startOffset": 4449,
+                        "endColumn": 65,
+                        "endOffset": 4513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 5778,
+                    "endColumn": 69,
+                    "endOffset": 5843
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 1,
+                        "startOffset": 4381,
+                        "endColumn": 66,
+                        "endOffset": 4446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 5848,
+                    "endColumn": 66,
+                    "endOffset": 5910
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 1,
+                        "startOffset": 4583,
+                        "endColumn": 63,
+                        "endOffset": 4645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 5915,
+                    "endColumn": 56,
+                    "endOffset": 5967
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 1,
+                        "startOffset": 4326,
+                        "endColumn": 53,
+                        "endOffset": 4378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 5972,
+                    "endColumn": 62,
+                    "endOffset": 6030
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 1,
+                        "startOffset": 4265,
+                        "endColumn": 59,
+                        "endOffset": 4323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 6035,
+                    "endColumn": 70,
+                    "endOffset": 6101
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 1,
+                        "startOffset": 4648,
+                        "endColumn": 67,
+                        "endOffset": 4714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 6106,
+                    "endColumn": 59,
+                    "endOffset": 6161
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 2298,
+                        "endColumn": 56,
+                        "endOffset": 2353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 6166,
+                    "endColumn": 53,
+                    "endOffset": 6215
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 1748,
+                        "endColumn": 50,
+                        "endOffset": 1797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 6220,
+                    "endColumn": 61,
+                    "endOffset": 6277
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 1,
+                        "startOffset": 2356,
+                        "endColumn": 58,
+                        "endOffset": 2413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 6282,
+                    "endColumn": 63,
+                    "endOffset": 6341
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 1,
+                        "startOffset": 2811,
+                        "endColumn": 60,
+                        "endOffset": 2870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 6346,
+                    "endColumn": 59,
+                    "endOffset": 6401
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 1800,
+                        "endColumn": 56,
+                        "endOffset": 1855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 6406,
+                    "endColumn": 46,
+                    "endOffset": 6448
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 1,
+                        "startOffset": 2969,
+                        "endColumn": 43,
+                        "endOffset": 3011
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 6453,
+                    "endColumn": 48,
+                    "endOffset": 6497
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 2118,
+                        "endColumn": 45,
+                        "endOffset": 2162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 6502,
+                    "endColumn": 74,
+                    "endOffset": 6572
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 1,
+                        "startOffset": 4717,
+                        "endColumn": 71,
+                        "endOffset": 4787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 6577,
+                    "endColumn": 45,
+                    "endOffset": 6618
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 1,
+                        "startOffset": 3061,
+                        "endColumn": 42,
+                        "endOffset": 3102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 6623,
+                    "endColumn": 59,
+                    "endOffset": 6678
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 127,
+                        "endColumn": 59,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 6683,
+                    "endColumn": 46,
+                    "endOffset": 6725
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 1901,
+                        "endColumn": 43,
+                        "endOffset": 1943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 6730,
+                    "endColumn": 109,
+                    "endOffset": 6835
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 109,
+                        "endOffset": 353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 6840,
+                    "endColumn": 64,
+                    "endOffset": 6900
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 2006,
+                        "endColumn": 61,
+                        "endOffset": 2066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 6905,
+                    "endColumn": 61,
+                    "endOffset": 6962
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 1946,
+                        "endColumn": 58,
+                        "endOffset": 2003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 6967,
+                    "endColumn": 68,
+                    "endOffset": 7031
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 68,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 7036,
+                    "endColumn": 58,
+                    "endOffset": 7090
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 58,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 7095,
+                    "endColumn": 50,
+                    "endOffset": 7141
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 1,
+                        "startOffset": 3500,
+                        "endColumn": 47,
+                        "endOffset": 3546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 7146,
+                    "endColumn": 113,
+                    "endOffset": 7255
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1272,
+                        "endColumn": 113,
+                        "endOffset": 1381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 7260,
+                    "endColumn": 44,
+                    "endOffset": 7300
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 1,
+                        "startOffset": 3156,
+                        "endColumn": 41,
+                        "endOffset": 3196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 7305,
+                    "endColumn": 107,
+                    "endOffset": 7408
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 820,
+                        "endColumn": 107,
+                        "endOffset": 923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 7413,
+                    "endColumn": 59,
+                    "endOffset": 7468
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 1,
+                        "startOffset": 3199,
+                        "endColumn": 56,
+                        "endOffset": 3254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 7473,
+                    "endColumn": 46,
+                    "endOffset": 7515
+                },
+                "from": {
+                    "file": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 1,
+                        "startOffset": 2527,
+                        "endColumn": 43,
+                        "endOffset": 2569
+                    }
+                }
+            }
+        ]
+    }
+]

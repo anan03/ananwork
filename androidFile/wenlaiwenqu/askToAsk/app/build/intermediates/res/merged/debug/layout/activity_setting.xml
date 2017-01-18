@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorf2f2f2"
+    android:id="@+id/ll_parent_view"
+    android:orientation="vertical">
+
+    <include layout="@layout/common_titlebar" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+       >
+
+        <com.lvshandian.asktoask.widgets.SettingItemView
+            android:id="@+id/rel_setting_qinglihuancun"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/t10dp"
+            android:paddingTop="@dimen/t10dp"
+            app:itemtext="@string/setting_qinglihuancun" />
+
+        <TextView
+            android:id="@+id/tv_cache"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="30sp"
+            android:text="缓存" />
+
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.2dp"
+        android:background="#d0d0d0" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:orientation="vertical">
+
+
+        <com.lvshandian.asktoask.widgets.SettingItemView
+            android:id="@+id/rel_setting_xiugaimima"
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/t10dp"
+            android:paddingTop="@dimen/t10dp"
+            app:itemtext="@string/setting_xiugaimima" />
+
+
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.2dp"
+        android:background="@color/colordadada" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:orientation="vertical">
+
+        <com.lvshandian.asktoask.widgets.SettingItemView
+            android:id="@+id/rel_setting_guanyuwomen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/t10dp"
+            android:paddingTop="@dimen/t10dp"
+            app:itemtext="@string/setting_guanyuwomen" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.2dp"
+            android:background="#d0d0d0" />
+
+        <com.lvshandian.asktoask.widgets.SettingItemView
+            android:id="@+id/rel_setting_jiancegengxin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/t10dp"
+            android:paddingTop="@dimen/t10dp"
+            app:itemtext="@string/setting_jiancegengxin" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.2dp"
+            android:background="#d0d0d0" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_setting_tuichudenglu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/selector_loginbtn"
+        android:text="@string/setting_tuichudenglu"
+        android:textColor="@android:color/white"
+        android:textSize="18sp" />
+</LinearLayout>

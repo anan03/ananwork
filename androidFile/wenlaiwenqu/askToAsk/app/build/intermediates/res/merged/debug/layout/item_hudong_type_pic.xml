@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fl_root_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+       android:layout_marginTop="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="40dp"
+        android:id="@+id/rl_main"
+        android:paddingTop="10dp"
+        android:background="@drawable/corner_grey"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:id="@+id/tv_reward"
+            android:layout_marginLeft="10dp"
+            android:layout_toLeftOf="@+id/tv_hudong_detail_price"
+            android:background="@drawable/reward"
+            android:layout_width="@dimen/t16dp"
+            android:layout_height="@dimen/t16dp">
+            <TextView
+                android:textSize="@dimen/t12sp"
+                android:textColor="@color/white"
+                android:layout_centerInParent="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="赏"
+                />
+        </RelativeLayout>
+        <TextView
+            android:id="@+id/tv_title"
+            android:maxEms="8"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:layout_toRightOf="@+id/tv_reward"
+            android:layout_marginLeft="3dp"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="去美国玩怎么样？"
+            />
+        <TextView
+            android:id="@+id/tv_time_type_pic"
+            android:layout_alignParentRight="true"
+            android:paddingRight="20dp"
+            android:layout_gravity="right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorababab"
+            android:text="2016-10-13"
+            />
+        <LinearLayout
+            android:layout_marginTop="@dimen/f10dp"
+            android:layout_below="@+id/tv_reward"
+            android:id="@+id/ll_heng"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <TextView
+            android:paddingTop="@dimen/f1dp"
+            style="@style/background_hudong_first_corner"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/tv_question_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="干货"/>
+        <TextView
+            android:id="@+id/tv_price"
+            android:padding="2dp"
+            android:gravity="center"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="￥0.00"/>
+        </LinearLayout>
+        <TextView
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/question_content"
+            android:layout_below="@+id/ll_heng"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="问题内容"/>
+        //这里放了两张图
+
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_marginTop="14dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/ll_pics"
+            android:layout_below="@+id/question_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <ImageView
+            android:scaleType="center"
+            android:layout_weight="1"
+            android:id="@+id/left_detail_pic"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:src="@drawable/no_pic"
+            />
+            <View
+                android:id="@+id/vline"
+                android:layout_width="10dp"
+                android:layout_height="1dp"
+                />
+            <ImageView
+                android:scaleType="center"
+                android:layout_weight="1"
+                android:id="@+id/right_detail_pic"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:src="@drawable/no_pic"
+                />
+            <ImageView
+                android:id="@+id/top1"
+                android:visibility="gone"
+                android:scaleType="centerCrop"
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:src="@drawable/no_pic"
+                />
+
+
+        </LinearLayout>
+
+
+
+        //这里放置了一张图
+        <ImageView
+            android:visibility="gone"
+            android:scaleType="centerCrop"
+            android:orientation="horizontal"
+            android:layout_margin="@dimen/f10dp"
+            android:layout_below="@+id/ll_pics"
+            android:id="@+id/button_detail_pic"
+            android:src="@drawable/no_pic"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+</RelativeLayout>
+
+
+</FrameLayout>

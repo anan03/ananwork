@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fastjson-1.1.43.android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/main/jniLibs/fastjson-1.1.43.android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

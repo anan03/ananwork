@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/warn_corner_bg"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <TextView
+        android:textColor="@color/color333333"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/_hudong_detail_wran"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="您为什么举报这个账号？"
+        />
+        <TextView
+            android:id="@+id/_hudong_detail_confirm"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentRight="true"
+            android:textColor="@color/main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="确定"/>
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/colordadada"/>
+
+    <ListView
+        android:id="@+id/lv_warn"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+
+
+
+</LinearLayout>

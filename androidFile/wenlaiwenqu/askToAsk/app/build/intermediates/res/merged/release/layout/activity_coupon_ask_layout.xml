@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/f20dp"
+        android:background="@color/main"
+        />
+    <RelativeLayout
+        android:background="@color/main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/iv_hudong_detail_back"
+            android:padding="@dimen/f10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/common_titlebar_backjt"/>
+        <TextView
+            android:textColor="@color/white"
+            android:layout_centerInParent="true"
+            android:id="@+id/tv_hudong_detail_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="优惠劵"/>
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/tv_nums_coupon"
+        android:padding="@dimen/f10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <ListView
+        android:id="@+id/lv_ask_"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

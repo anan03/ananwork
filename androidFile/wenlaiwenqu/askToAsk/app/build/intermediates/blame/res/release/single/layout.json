@@ -1,0 +1,734 @@
+[
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_hudong_type.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_hudong_type.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\gridview_select_school_header.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\gridview_select_school_header.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\gridview_select_area_header.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\gridview_select_area_header.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_useranswer.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_useranswer.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_register.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\widgets_settingitemview.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\widgets_settingitemview.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_hudong_type_pic.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_hudong_type_pic.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_activity_quiz.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_activity_quiz.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_hudongdetail_header_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_hudongdetail_header_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_approve_student_zheng.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_approve_student_zheng.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\answer_chiefly_item.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\answer_chiefly_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_exitdialog.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\dialog_exitdialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_approve_name.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_approve_name.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_answer_ask_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_answer_ask_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_image_bucket.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_image_bucket.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\hudong_item_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\hudong_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_image_grid.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_image_grid.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_youhuiquan_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_youhuiquan_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\leavemessage_fragment_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\leavemessage_fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_selectimg.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_selectimg.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_tixian.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_tixian.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_hudong_share_activity.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_hudong_share_activity.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_frament_leavemessage.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_frament_leavemessage.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\useranswer_info_detail.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\useranswer_info_detail.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\hudong_share_popupwindow.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\hudong_share_popupwindow.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\griditem.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\griditem.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_start_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_start_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\pay_external.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\pay_external.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_attention.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_attention.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_approve_class.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_approve_class.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_answer_detail_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_answer_detail_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_message_instation_details.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_message_instation_details.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_userfans.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_userfans.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_leavemessage.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_leavemessage.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_approve_job.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_approve_job.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_hudong_detail_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_hudong_detail_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\interaction_fragment_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\interaction_fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_activity_answer.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_activity_answer.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\askToAsk\\pulltorefresh\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_published_grida.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_published_grida.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\answer_fragment_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\answer_fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\de_ui_dialog_loading.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\de_ui_dialog_loading.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_changepersonalinfo.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_changepersonalinfo.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\pickerview_time.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.0\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\tixianover_popupwindows.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\tixianover_popupwindows.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_postquestion_pay_activity.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_postquestion_pay_activity.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_answer_approve_life_photo.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_answer_approve_life_photo.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_answer_approve.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_answer_approve.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\attentiontails_head.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\attentiontails_head.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_coupon_ask_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_coupon_ask_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_approve_idcard_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_approve_idcard_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_answer_detail_inner.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_answer_detail_inner.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_activity_attention.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_activity_attention.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialogview_head.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\dialogview_head.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_user_answer_detail_header_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_user_answer_detail_header_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_changephonenum.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_changephonenum.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_activity_collect.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_activity_collect.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_activity_anser_search_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_activity_anser_search_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_hudong_search_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_hudong_search_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\user_fragment_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\user_fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_hudong_detail.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_hudong_detail.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\plugin_camera_album.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\plugin_camera_album.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\hudong_detail_pic_many.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\hudong_detail_pic_many.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_image_grid.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_image_grid.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_quzadetils_info.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_quzadetils_info.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_setting.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_forgetpassword.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_forgetpassword.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_hudong_pic_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_hudong_pic_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\user_item_youhuiquan.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\user_item_youhuiquan.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activit_user_answer_info_detail.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activit_user_answer_info_detail.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_yonghuxieyi.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_yonghuxieyi.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_userauza_info.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_userauza_info.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\plugin_camera_gallery.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\plugin_camera_gallery.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_tuijianhaoyou.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_tuijianhaoyou.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_warn.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_warn.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_popupwindows.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_popupwindows.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\include_pickerview_topbar.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.0\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\sex_pickview.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\sex_pickview.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_ask.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_ask.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_wodexuanshang.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_wodexuanshang.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_published_gridaa.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_published_gridaa.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\answer_leave_words_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\answer_leave_words_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\remenchengshi_item.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\remenchengshi_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_approve_address.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_approve_address.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_answer_search.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_answer_search.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_basepickerview.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.0\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_leave_me_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_leave_me_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_image_bucket.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_image_bucket.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_login.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_permission_tip.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\dialog_permission_tip.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\plugin_camera_select_imageview.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\plugin_camera_select_imageview.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_mygridview.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_mygridview.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_guid_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_guid_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialogviewconfirm.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\dialogviewconfirm.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_yijianfankui.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_yijianfankui.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\askToAsk\\pulltorefresh\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_userattention.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_userattention.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\pay_main.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\pay_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_areaselector.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_areaselector.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\alert_dialog_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\alert_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\instationmessage_fragment_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\instationmessage_fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\selectorcity_header_gridview.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\selectorcity_header_gridview.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\message_fragment_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\message_fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_user_dataadoption.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_user_dataadoption.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_userquiz.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_userquiz.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_answer_select_place_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_answer_select_place_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_post_question_pay.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_post_question_pay.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\hudong_header.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\hudong_header.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_answer_select_school_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_answer_select_school_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_youhuiquan.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_youhuiquan.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_activity_fanses.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_activity_fanses.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_quzadetails_head.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_quzadetails_head.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_frament_leavemessage_me.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_frament_leavemessage_me.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\hudong_search_item.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\hudong_search_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_popupwindowss.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_popupwindowss.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_personalinfo.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_personalinfo.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_collect.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_collect.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_approve_school.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_approve_school.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_message_instation.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_message_instation.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_answer_detail_header_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_answer_detail_header_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\pickerview_options.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.0\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_collectdetails_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_collectdetails_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_anser_search_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_anser_search_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_changepassword.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_changepassword.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_answer_accept_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\item_answer_accept_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_eavemessage_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_eavemessage_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_post_question_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_post_question_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fandetails_detail.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_fandetails_detail.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_photo.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\activity_photo.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\common_titlebar.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\common_titlebar.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\pay_result.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\pay_result.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\build\\intermediates\\res\\merged\\release\\layout\\hudong_detail_warn.xml",
+        "source": "E:\\Android\\gitFilewenlaiwenqu\\AskToAskAndroid\\askToAsk\\app\\src\\main\\res\\layout\\hudong_detail_warn.xml"
+    }
+]

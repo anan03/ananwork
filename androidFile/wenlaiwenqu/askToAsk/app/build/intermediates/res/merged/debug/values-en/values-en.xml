@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ssdk_alipay">Alipay</string>
+    <string name="ssdk_alipay_client_inavailable">Alipay client not exists or the version is too low</string>
+    <string name="ssdk_bluetooth">Bluetooth</string>
+    <string name="ssdk_douban">Douban</string>
+    <string name="ssdk_dropbox">Dropbox</string>
+    <string name="ssdk_email">Email</string>
+    <string name="ssdk_evernote">Evernote</string>
+    <string name="ssdk_facebook">Facebook</string>
+    <string name="ssdk_facebookmessenger">Facebook Messenger</string>
+    <string name="ssdk_facebookmessenger_client_inavailable">Facebookmessenger client not exists or the version is too low</string>
+    <string name="ssdk_flickr">Flickr</string>
+    <string name="ssdk_foursquare">FourSquare</string>
+    <string name="ssdk_google_plus_client_inavailable">Google+ client not exists or the version is too low</string>
+    <string name="ssdk_googleplus">Google+</string>
+    <string name="ssdk_instagram">Instagram</string>
+    <string name="ssdk_instagram_client_inavailable">Instagram client not exists or the version is too low</string>
+    <string name="ssdk_instapager_email_or_password_incorrect">Email or Password incorrect</string>
+    <string formatted="false" name="ssdk_instapager_login_html">
+&lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+&lt;meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">
+&lt;meta content=\"width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=1,user-scalable=no\" id=\"viewport\" name=\"viewport\">
+&lt;meta content=\"yes\" name=\"apple-mobile-web-app-capable\">
+&lt;title>%s&lt;/title>
+&lt;style type=\"text/css\">
+body{margin:0;padding:0}
+.inputstyle {
+    -webkit-tap-highlight-color:rgba(255,255,255,0);
+    width:100%%;
+    height:44px;
+    color:#000;
+    background:0;
+    border:0;
+    font-size:16px;
+    outline: none;
+    -webkit-appearance:none
+}
+
+.btn {
+    width:90%%;
+    height:44px;
+    line-height:44px;
+    background:#A0C035;
+    border:0;
+    border-radius:4px;
+    color:#fff;
+    font-size:16px;
+    text-align:center;
+    margin-top:15px;
+    display:block
+}
+.btn:disabled {
+    background: #dddddd;
+}
+.error {
+    color:red;
+}
+&lt;/style>
+&lt;/head>
+
+&lt;body>
+&lt;script type=\"text/javascript\">
+function login(form){
+    var u=form[\"u\"].value,p=form[\"p\"].value;
+    if(!u || !p)
+        return false;
+    form[\"s\"].disabled = true;
+    return true;
+}
+&lt;/script>
+&lt;form style=\"margin-top:45px;\" action=\"%s\" metho=\"get\" onsubmit=\"return login(this);\">
+%s
+&lt;div style=\"padding-left:15px;border-top:1px solid #E3E3E5;border-bottom:1px solid #E3E3E5;\">
+ &lt;input type=\"hidden\" name=\"ID_SIGN\" value=\"OWELJSFPWECSFEW\"/>
+ &lt;input class=\"inputstyle\" id=\"u\" name=\"u\" type=\"text\" value=\"%s\" placeholder=\"%s\" style=\"border-bottom:1px solid #E3E3E5;\"/>
+ &lt;input class=\"inputstyle\" id=\"p\" name=\"p\" type=\"password\" placeholder=\"%s\"/>
+&lt;/div>
+&lt;p>&lt;input style=\"margin:0 auto;\" type=\"submit\" name=\"s\" value=\"  %s  \" class=\"btn\"/>&lt;/p>
+&lt;/form>
+&lt;/body>
+&lt;/html>
+</string>
+    <string name="ssdk_instapaper">Instapaper</string>
+    <string name="ssdk_instapaper_email">Email</string>
+    <string name="ssdk_instapaper_login">Sign In</string>
+    <string name="ssdk_instapaper_logining">Sign In…</string>
+    <string name="ssdk_instapaper_pwd">Password</string>
+    <string name="ssdk_kaixin">Kaixin</string>
+    <string name="ssdk_kakaostory">KakaoStory</string>
+    <string name="ssdk_kakaostory_client_inavailable">KakaoStory client not exists or the version is too low</string>
+    <string name="ssdk_kakaotalk">KakaoTalk</string>
+    <string name="ssdk_kakaotalk_client_inavailable">KakaoTalk client not exists or the version is too low</string>
+    <string name="ssdk_laiwang">Laiwang</string>
+    <string name="ssdk_laiwang_client_inavailable">Laiwangs client not exists or the version is too low</string>
+    <string name="ssdk_laiwangmoments">Laiwang Moments</string>
+    <string name="ssdk_line">Line</string>
+    <string name="ssdk_line_client_inavailable">Line client not exists or the version is too low</string>
+    <string name="ssdk_linkedin">Linked in</string>
+    <string name="ssdk_mingdao">Mingdao</string>
+    <string name="ssdk_mingdao_share_content">Share webpage</string>
+    <string name="ssdk_neteasemicroblog">Netease Microblog</string>
+    <string name="ssdk_oks_cancel">Cancel</string>
+    <string name="ssdk_oks_confirm">Confirm</string>
+    <string name="ssdk_oks_contacts">Contacts</string>
+    <string name="ssdk_oks_multi_share">Photo Sharing</string>
+    <string name="ssdk_oks_pull_to_refresh">Pull down to refresh</string>
+    <string name="ssdk_oks_refreshing">Refreshing…</string>
+    <string name="ssdk_oks_release_to_refresh">Release to refresh</string>
+    <string name="ssdk_oks_share">Share</string>
+    <string name="ssdk_oks_share_canceled">Operation canceled</string>
+    <string name="ssdk_oks_share_completed">Operation succeeded</string>
+    <string name="ssdk_oks_share_failed">Operation failed</string>
+    <string name="ssdk_oks_sharing">Sharing operation is working in the background…</string>
+    <string name="ssdk_pinterest">Pinterest</string>
+    <string name="ssdk_pinterest_client_inavailable">Pinterest client not exists or the version is too low</string>
+    <string name="ssdk_plurk">Plurk</string>
+    <string name="ssdk_pocket">Pocket</string>
+    <string name="ssdk_qq">QQ</string>
+    <string name="ssdk_qq_client_inavailable">Mobile QQ client not exists or the version is too low</string>
+    <string name="ssdk_qzone">QZone</string>
+    <string name="ssdk_renren">Renren</string>
+    <string name="ssdk_share_to_facebook">Share To Facebook</string>
+    <string name="ssdk_share_to_googleplus">Share To Google+</string>
+    <string name="ssdk_share_to_mingdao">Share To Mingdao</string>
+    <string name="ssdk_share_to_qq">Share To QQ</string>
+    <string name="ssdk_share_to_qzone">Share To QZone</string>
+    <string name="ssdk_share_to_qzone_default">Shared from %s</string>
+    <string name="ssdk_shortmessage">Short Message</string>
+    <string name="ssdk_sinaweibo">Sina Weibo</string>
+    <string name="ssdk_sohumicroblog">Sohu Microblog</string>
+    <string name="ssdk_sohusuishenkan">Sohu Suishenkan</string>
+    <string name="ssdk_tencentweibo">Tencent Weibo</string>
+    <string name="ssdk_tumblr">Tumblr</string>
+    <string name="ssdk_twitter">Twitter</string>
+    <string name="ssdk_use_login_button">use login button instead</string>
+    <string name="ssdk_vkontakte">VK</string>
+    <string name="ssdk_website">http://www.mob.com</string>
+    <string name="ssdk_wechat">WeChat</string>
+    <string name="ssdk_wechat_client_inavailable">Wechat client not exists or the version is too low</string>
+    <string name="ssdk_wechatfavorite">WeChat Favorites</string>
+    <string name="ssdk_wechatmoments">WeChat Moments</string>
+    <string name="ssdk_weibo_oauth_regiseter">Authorization</string>
+    <string name="ssdk_weibo_upload_content">分享图片</string>
+    <string name="ssdk_whatsapp">WhatsApp</string>
+    <string name="ssdk_whatsapp_client_inavailable">WhatsApp client not exists or the version is too low</string>
+    <string name="ssdk_yixin">Yixin</string>
+    <string name="ssdk_yixin_client_inavailable">Yixin client not exists or the version is too low</string>
+    <string name="ssdk_yixinmoments">Yixin Moments</string>
+    <string name="ssdk_youdao">Youdao</string>
+</resources>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+    <View
+        android:layout_width="1dp"
+        android:layout_height="65dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/main" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical"
+        android:paddingRight="20dp">
+        <RelativeLayout
+            android:layout_weight="1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="bottom"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp">
+            <TextView
+                android:ellipsize="end"
+                android:maxEms="20"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:id="@+id/tv_words"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_weight="1"
+                android:text="3333333333333333333333333333" />
+            <TextView
+                android:layout_marginTop="@dimen/f10dp"
+                android:textColor="@color/black"
+                android:layout_alignParentBottom="true"
+                android:id="@+id/tv_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:layout_marginLeft="10dp"
+                android:gravity="bottom"
+                android:text="孟浩然" />
+            <TextView
+                android:ellipsize="end"
+                android:maxEms="16"
+                android:singleLine="true"
+                android:textColor="@color/colorababab"
+                android:layout_alignParentBottom="true"
+                android:layout_toRightOf="@+id/tv_name"
+                android:id="@+id/tv_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="赤壁之战我很不爽" />
+            <ImageView
+                android:layout_alignParentRight="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/accept"/>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:src="@drawable/circle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="7dp"
+                android:layout_weight="1"
+                android:background="@color/main"
+                android:paddingRight="10dp" />
+            <TextView
+                android:id="@+id/tv_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="08-07"
+                android:textColor="@color/main" />
+            <View
+                android:layout_width="30dp"
+                android:layout_height="1dp"
+                android:background="@color/main"
+                android:paddingRight="10dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

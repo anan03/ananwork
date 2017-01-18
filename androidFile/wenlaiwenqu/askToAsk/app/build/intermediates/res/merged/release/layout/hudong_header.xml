@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.lvshandian.asktoask.widgets.StickyScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <FrameLayout
+        android:background="@color/main"
+        android:layout_width="match_parent"
+        android:layout_height="150dp">
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewPager"
+            android:layout_width="match_parent"
+            android:layout_height="150dp" />
+
+        <LinearLayout
+            android:id="@+id/ll_points"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginBottom="11dp"
+            android:orientation="horizontal" />
+
+    </FrameLayout>
+    <HorizontalScrollView
+        android:scrollbars="none"
+        android:id="@+id/scrollView"
+        android:layout_width="wrap_content"
+        android:layout_height="78dip"
+        >
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            <GridView
+                android:scrollbars="none"
+                android:id="@+id/gv_hudong"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+            </GridView>
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="8dp"
+        android:background="#F2F2F2"
+        android:paddingBottom="10dp"/>
+    <LinearLayout
+        android:tag="sticky"
+        android:id="@+id/xiding"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/tuijian"
+                android:clickable="true"
+                android:gravity="center"
+                android:paddingBottom="10dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="推荐"/>
+            <View
+                android:id="@+id/tuijin_line"
+                android:background="@color/main"
+                android:layout_gravity="center_horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"/>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/jinri"
+                android:gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="10dp"
+                android:text="今日"/>
+            <View
+                android:visibility="invisible"
+                android:id="@+id/jinri_line"
+                android:background="@color/main"
+                android:layout_gravity="center_horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/hotdooor"
+                android:gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="10dp"
+                android:text="热门"/>
+            <View
+                android:visibility="invisible"
+                android:id="@+id/hotdooor_line"
+                android:background="@color/main"
+                android:layout_gravity="center_horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/xuanshang"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="10dp"
+                android:text="高悬赏"/>
+            <View
+                android:visibility="invisible"
+                android:id="@+id/xuanshang_line"
+                android:background="@color/main"
+                android:layout_gravity="center_horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/unsolve"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="10dp"
+                android:text="未解决"/>
+            <View
+                android:visibility="invisible"
+                android:id="@+id/unsolve_line"
+                android:background="@color/main"
+                android:layout_gravity="center_horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"/>
+        </LinearLayout>
+    </LinearLayout>
+
+
+    </LinearLayout>
+</com.lvshandian.asktoask.widgets.StickyScrollView>

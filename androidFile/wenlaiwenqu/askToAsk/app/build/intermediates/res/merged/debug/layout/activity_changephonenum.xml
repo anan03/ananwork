@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <include layout="@layout/common_titlebar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_login_register_ring_bg"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="@dimen/t5dp"
+            android:paddingTop="@dimen/t5dp">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/login_phonenum_icon"
+                    android:drawablePadding="@dimen/f10dp"
+                    android:gravity="center_vertical"
+                    android:text="手机号"
+                    android:textSize="17sp" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="#ccc" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="3"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/et_changephonenum_phonenum"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:gravity="center_vertical"
+                    android:hint="请输入手机号"
+                    android:inputType="number"
+                    android:maxLength="11"
+                    android:paddingLeft="@dimen/f10dp"
+                    android:textColorHint="#d0d0d0" />
+
+                <Button
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center|right"
+                    android:visibility="invisible" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.2dp"
+            android:background="#d0d0d0" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="@dimen/t5dp"
+            android:paddingTop="@dimen/t5dp">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/register_yanzhengma_icon"
+                    android:drawablePadding="@dimen/f10dp"
+                    android:gravity="center_vertical"
+                    android:text="验证码"
+                    android:textSize="17sp" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="#ccc" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="3">
+
+                <EditText
+                    android:id="@+id/et_changephonenum_yanzhengma"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="5"
+                    android:background="@null"
+                    android:gravity="center_vertical"
+                    android:hint="请输入验证码"
+                    android:inputType="number"
+                    android:maxLength="6"
+                    android:paddingLeft="@dimen/f10dp"
+                    android:textColorHint="#d0d0d0" />
+
+                <Button
+                    android:id="@+id/btn_changephonenum_getyanzhengma"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="3"
+                    android:ellipsize="end"
+                    android:gravity="center"
+                    android:maxLines="1"
+                    android:text="获取验证码"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.2dp"
+            android:background="#d0d0d0" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="@dimen/t5dp"
+            android:paddingTop="@dimen/t5dp">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/login_password_icon"
+                    android:drawablePadding="@dimen/f10dp"
+                    android:gravity="center_vertical"
+                    android:text="新手机"
+                    android:textSize="17sp" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="#ccc" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="3"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/et_changephonenum_newpphonenum"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@null"
+                    android:gravity="center_vertical"
+                    android:hint="请输入新手机号"
+                    android:maxLength="11"
+                    android:paddingLeft="@dimen/f10dp"
+                    android:textColorHint="#d0d0d0" />
+
+                <Button
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center|right"
+                    android:visibility="invisible" />
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/f8dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_changephonenum_gochange"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_loginbtn"
+            android:textSize="18sp"
+            android:text="确认"
+            android:textColor="@android:color/white" />
+
+    </LinearLayout>
+
+</LinearLayout>

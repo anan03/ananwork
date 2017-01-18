@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/ll_youhuijuan_nei"
+    android:background="@drawable/item_youhuiquanbg"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:background="@color/white"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/tv_youhuiquanitem_bizhong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/project_bizhong"
+            android:textColor="@color/main"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/tv_youhuiquan_jine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="1"
+            android:textColor="@color/main"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="@dimen/f50dp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="20dp"
+        android:layout_weight="4">
+        <TextView
+            android:textSize="12sp"
+            android:textColor="@color/color333333"
+            android:id="@+id/tv_youhuiquan_shiyongqixian"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:paddingBottom="@dimen/f10dp"
+            android:text="youhuiquan" />
+
+        <TextView
+            android:textColor="@color/color333333"
+            android:id="@+id/tv_youhuiquan_tishi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="2"
+            android:text="@string/setting_youhuiquan_youhuiquantishi"
+            android:textSize="12sp" />
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+        <TextView
+            android:id="@+id/tv_youhuiquan_shifoukeyong"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/setting_youhuiquan_keyong"
+            android:textColor="@android:color/white"
+            android:textSize="18sp" />
+    </LinearLayout>
+</LinearLayout>

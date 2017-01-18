@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_leavemessage"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/rl_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/main"
+        android:padding="@dimen/f10dp">
+
+        <ImageView
+            android:id="@+id/iv_back_approve_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/common_titlebar_backjt" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="提问详情"
+            android:textColor="@color/white" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/f10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/f5dp"
+            android:background="@drawable/reward"
+            android:gravity="center"
+            android:paddingBottom="@dimen/f2dp"
+            android:paddingLeft="@dimen/f3dp"
+            android:paddingRight="@dimen/f3dp"
+            android:paddingTop="@dimen/f2dp"
+            android:text="赏"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/tv_title_hudong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/f3dp"
+            android:text="怎么和学姐搭讪"
+            android:textColor="#333333" />
+
+        <TextView
+            android:id="@+id/tv_time_hudong"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical|right"
+            android:paddingRight="@dimen/f20dp"
+            android:text="2016-08-08" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/f10dp">
+
+        <TextView
+            android:id="@+id/tv_type_hudong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/f5dp"
+            android:background="@drawable/quizitem"
+            android:text="干货"
+            android:textColor="@color/darkslategray" />
+
+        <TextView
+            android:id="@+id/tv_price_hudong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/f3dp"
+            android:text="￥268.0"
+            android:textColor="@color/main" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_pic_jump"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/f150dp"
+        android:layout_marginTop="@dimen/f6dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/f5dp"
+        android:paddingRight="@dimen/f5dp">
+
+        <ImageView
+            android:id="@+id/iv_itemleft_hudong"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:scaleType="fitXY"
+            android:src="@drawable/no_pic" />
+
+        <View
+            android:layout_width="@dimen/f30dp"
+            android:layout_height="@dimen/f120dp" />
+
+        <ImageView
+            android:id="@+id/iv_itemright_hudong"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:scaleType="fitXY"
+            android:src="@drawable/no_pic" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/f5dp"
+        android:layout_marginTop="@dimen/f10dp">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <CheckBox
+                android:id="@+id/ck_hudong_collect_num"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/praise_bg"
+                android:button="@null"
+                android:clickable="true" />
+
+            <TextView
+                android:id="@+id/tv_hudong_collect_num"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/f10dp"
+                android:text="2355" />
+
+            <CheckBox
+                android:id="@+id/ck_hudong_praise"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/f10dp"
+                android:background="@drawable/collect_bg"
+                android:button="@null"
+                android:clickable="true" />
+
+            <TextView
+                android:id="@+id/tv_praise_num"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/f10dp"
+                android:text="5368" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/iv_share_hudong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/f10dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/share" />
+
+            <TextView
+                android:id="@+id/tv_collect"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/f10dp"
+                android:text="分享" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/f1dp"
+        android:layout_marginTop="@dimen/f7dp"
+        android:background="@color/cccccccolor" />
+
+
+</LinearLayout>

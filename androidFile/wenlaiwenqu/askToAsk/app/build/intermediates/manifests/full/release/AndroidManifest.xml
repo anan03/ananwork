@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lvshandian.asktoask"
+    android:versionCode="2"
+    android:versionName="2.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+    <!-- Required -->
+    <permission
+        android:name="com.lvshandian.asktoask.permission.JPUSH_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="com.lvshandian.asktoask.permission.JPUSH_MESSAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 在SDCard中创建与删除文件权限 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <!-- 往SDCard写入数据权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.lvshandian.asktoask.App"
+        android:allowBackup="true"
+        android:icon="@drawable/question"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="AA_DB_NAME"
+            android:value="asktoask.db" />
+        <meta-data
+            android:name="AA_DB_VERSION"
+            android:value="1" />
+
+        <activity
+            android:name="com.lvshandian.asktoask.module.login.LoginActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.king.photo.activity.GalleryActivity"
+            android:launchMode="singleInstance" />
+        <activity android:name="com.king.photo.activity.AlbumActivity" />
+        //开机引导页面
+        <activity android:name="com.lvshandian.asktoask.module.interaction.GuidActivity" />
+        //开机启动页
+        <activity android:name="com.lvshandian.asktoask.module.interaction.StartActivity" />
+        //互动图片轮播九张图
+        <activity android:name="com.lvshandian.asktoask.module.interaction.activity.HuPicLunBoActivity" />
+        <activity
+            android:name="com.lvshandian.asktoask.MainActivity"
+            android:launchMode="singleTop" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.lvshandian.asktoask.module.interaction.activity.HuDongSearchActivity" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.login.registerActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.setting.SettingActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.setting.OpinionBackActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.login.ForgetPasswordActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.setting.ChangePassWordActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.setting.ChangePhoneNumActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.setting.AreaActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.user.activity.WithDrawActivity"
+            android:launchMode="singleTop"
+            android:windowSoftInputMode="stateVisible|adjustResize" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.setting.CouponActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.setting.PersonalInfoActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.setting.UserAgreementActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.setting.InviteFridndsActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.user.activity.MineRewardActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.setting.ChangePersonalInfoActivity"
+            android:launchMode="singleTop" />
+        //互动跳转到问题类型
+        <activity android:name="com.lvshandian.asktoask.module.interaction.activity.HuDongQuestTypeActivity" />
+        //互动首页跳转到互动详情
+        <activity
+            android:name="com.lvshandian.asktoask.module.interaction.activity.HuDongDetailActivity"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.lvshandian.asktoask.acp.AcpActivity"
+            android:launchMode="singleTask" />
+        //答咖认证
+        <activity
+            android:name="com.lvshandian.asktoask.module.answer.activity.AnswerApproveActivity"
+            android:hardwareAccelerated="false"
+            android:launchMode="singleTop" />
+        //答咖认证填写专业
+        <activity android:name="com.lvshandian.asktoask.module.answer.activity.AnswerApproveJobActivity" />
+        //答咖认证填写地址
+        //答咖认证填写班级
+        <activity android:name="com.lvshandian.asktoask.module.answer.activity.ApproveClassActivity" />
+        //答咖认证填写名字
+        //答咖认证选择学校
+        <activity android:name="com.lvshandian.asktoask.module.answer.activity.ApproveSchoolActivity" />
+        //答咖认证生活照
+        <activity android:name="com.lvshandian.asktoask.module.answer.activity.ApproveLifePhotoActivity" />
+        //答咖搜索界面
+        <activity android:name="com.lvshandian.asktoask.module.answer.activity.AnserSearchActivity" />
+        //答咖搜索详情界面
+        <activity
+            android:name="com.lvshandian.asktoask.module.answer.activity.AnswerDetailActivity"
+            android:launchMode="standard" />
+        AnswerIdCardActivity
+        //答咖认证身份证界面
+        <activity android:name="com.lvshandian.asktoask.module.answer.activity.AnswerIdCardActivity" />
+        //答咖选择学校
+        <activity android:name="com.lvshandian.asktoask.module.answer.activity.AnswerSelectSchoolActivity" />
+        //答咖认证 学生证界面
+        <activity android:name="com.lvshandian.asktoask.module.answer.activity.ApproveStudentZhengActivity" />
+        //发布问题
+        <activity
+            android:name="com.lvshandian.asktoask.module.postquestion.PostQuestionActivity"
+            android:launchMode="singleTask"
+            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
+        //发布问题里面的优惠劵
+        <activity android:name="com.lvshandian.asktoask.module.postquestion.CouponActivity" />
+        //答咖详情里面的留言功能
+        <activity android:name="com.lvshandian.asktoask.module.answer.activity.AnswerLeaveWordsActivity" />
+        //互动详情里面的留言功能
+        //答咖首页去选择地区
+        <activity android:name="com.lvshandian.asktoask.module.answer.activity.AnswerSelectAddressActivity" />
+        //pic图库
+        <activity
+            android:name="com.lvshandian.asktoask.module.postquestion.pic.ImageGridActivity"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.postquestion.pic.TestPicActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.postquestion.pic.PhotoActivity"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        //pic图库结束
+        <activity
+            android:name="com.lvshandian.asktoask.module.message.InstationDetailsActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.user.activity.UserAnswerListActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.user.activity.UserAttentionListActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.user.activity.UserCollectActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.user.activity.UserFansListActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.user.activity.UserQuizListActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.message.MessageDetailsActivity"
+            android:launchMode="singleTop"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.user.activity.QuzaDetailsActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.user.activity.FansAnswerDetailActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.user.activity.AttentionDetailActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.lvshandian.asktoask.module.user.activity.LeaveMessageActivity"
+            android:launchMode="singleTop"
+            android:windowSoftInputMode="adjustResize" />
+        <!-- 回答详情界面 -->
+        <activity
+            android:name="com.lvshandian.asktoask.module.user.activity.UserAnswerDatailsActivity"
+            android:launchMode="singleTop"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+
+        <!-- 消息留言  给我的留言人给我所有的列表信息 -->
+        <activity android:name="com.lvshandian.asktoask.module.message.LeaveListMEActivity" />
+        <activity android:name="com.lvshandian.asktoask.module.postquestion.PostQuestionPayActivity" />
+        //支付宝支付
+        <activity android:name="com.lvshandian.asktoask.pay.PayDemoActivity" />
+        <activity
+            android:name="com.mob.tools.MobUIShell"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+
+            <!-- 腾讯分享 -->
+            <intent-filter>
+                <data android:scheme="tencent1105499721" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <!-- 调用新浪原生SDK，需要注册的回调activity -->
+            <intent-filter>
+                <action android:name="com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- 微信分享回调 -->
+        <activity
+            android:name="com.lvshandian.asktoask.wxapi.WXEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+ ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <!-- 极光推送开始 -->
+
+
+        <!-- Rich push 核心功能 since 2.0.6 -->
+        <activity
+            android:name="cn.jpush.android.ui.PopWinActivity"
+            android:exported="false"
+            android:theme="@style/MyDialogStyle" />
+        //微信支付回调
+        <activity
+            android:name="com.lvshandian.asktoask.wxapi.WXPayEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.Light.NoTitleBar" />
+
+        <!-- Required SDK核心功能 -->
+        <activity
+            android:name="cn.jpush.android.ui.PushActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:exported="false"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.ui.PushActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="com.lvshandian.asktoask" />
+            </intent-filter>
+        </activity>
+        <!-- For test only 测试状态通知栏，需要打开的Activity -->
+        <activity android:name="com.lvshandian.asktoask.TestActivity" >
+            <intent-filter>
+                <action android:name="jpush.testAction" />
+
+                <category android:name="jpush.testCategory" />
+            </intent-filter>
+        </activity>
+        <!-- Required  SDK核心功能 -->
+        <service
+            android:name="cn.jpush.android.service.DownloadService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <!-- Required SDK 核心功能 -->
+        <!-- 可配置android:process参数将PushService放在其他进程中 -->
+        <service
+            android:name="cn.jpush.android.service.PushService"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.REGISTER" />
+                <action android:name="cn.jpush.android.intent.REPORT" />
+                <action android:name="cn.jpush.android.intent.PushService" />
+                <action android:name="cn.jpush.android.intent.PUSH_TIME" />
+            </intent-filter>
+        </service>
+
+        <!-- since 1.8.0 option 可选项。用于同一设备中不同应用的JPush服务相互拉起的功能。 -->
+        <!-- 若不启用该功能可删除该组件，将不拉起其他应用也不能被其他应用拉起 -->
+        <service
+            android:name="cn.jpush.android.service.DaemonService"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.DaemonService" />
+
+                <category android:name="com.lvshandian.asktoask" />
+            </intent-filter>
+        </service>
+
+        <!-- Required SDK核心功能 -->
+        <receiver
+            android:name="cn.jpush.android.service.PushReceiver"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter android:priority="1000" >
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY" />
+                <!-- Required  显示通知栏 -->
+                <category android:name="com.lvshandian.asktoask" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+            <!-- Optional -->
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+
+        <!-- Required SDK核心功能 -->
+        <receiver
+            android:name="cn.jpush.android.service.AlarmReceiver"
+            android:exported="false" />
+
+        <!-- User defined.  For test only  用户自定义的广播接收器 -->
+        <receiver
+            android:name="com.lvshandian.asktoask.receiver.JpushReceiver"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.REGISTRATION" />
+                <!-- Required  用户注册SDK的intent -->
+                <action android:name="cn.jpush.android.intent.MESSAGE_RECEIVED" />
+                <!-- Required  用户接收SDK消息的intent -->
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED" />
+                <!-- Required  用户接收SDK通知栏信息的intent -->
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_OPENED" />
+                <!-- Required  用户打开自定义通知栏的intent -->
+                <action android:name="cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK" />
+                <!-- Optional 用户接受Rich Push Javascript 回调函数的intent -->
+                <action android:name="cn.jpush.android.intent.CONNECTION" />
+                <!-- 接收网络变化 连接/断开 since 1.6.3 -->
+                <category android:name="com.lvshandian.asktoask" />
+            </intent-filter>
+        </receiver>
+        <!-- Required  . Enable it you can get statistics data with channel -->
+        <meta-data
+            android:name="JPUSH_CHANNEL"
+            android:value="developer-default" />
+        <meta-data
+            android:name="JPUSH_APPKEY"
+            android:value="0933fb885f5138dbfc076ef2" />
+        <!-- </>值来自开发者平台取得的AppKey -->
+        <!-- 极光推送结束 -->
+        <receiver android:name="com.lvshandian.asktoask.WChatPay.AppRegister" >
+            <intent-filter>
+                <action android:name="com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

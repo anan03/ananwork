@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_leavemessage"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:background="@color/white"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/f10dp"
+        android:paddingBottom="5dp"
+        android:paddingTop="10dp">
+        <ImageView
+            android:id="@+id/iv_hudong_type_detail"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/no_pic" />
+        <TextView
+            android:id="@+id/tv_hudong_type_username"
+            style="@style/text_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/f2dp"
+            android:layout_toRightOf="@+id/iv_hudong_type_detail"
+            android:paddingLeft="@dimen/t9dp"
+            android:text="刘诗诗" />
+        <TextView
+            android:textColor="@color/color333333"
+            android:id="@+id/tv_leavedata"
+            android:layout_marginTop="@dimen/f7dp"
+            android:layout_below="@+id/iv_hudong_type_detail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="你好"
+            />
+        <TextView
+            android:textColor="@color/colorababab"
+           android:id="@+id/date_time"
+            android:paddingLeft="@dimen/t9dp"
+            android:layout_alignBottom="@+id/iv_hudong_type_detail"
+            android:layout_toRightOf="@+id/iv_hudong_type_detail"
+            android:layout_marginTop="@dimen/f7dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="时间"
+            />
+
+        <LinearLayout
+            android:visibility="gone"
+            android:id="@+id/ll_hudong_detail_lab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/iv_hudong_type_detail"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/iv_hudong_type_detail"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp">
+
+            <TextView
+                android:id="@+id/tv_hudong_detail_label_school"
+                style="@style/background_red_text_red"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="清华大学" />
+
+            <TextView
+                android:id="@+id/tv_hudong_detail_label_major"
+                style="@style/background_red_text_red"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="工业设计" />
+
+            <TextView
+                android:id="@+id/tv_hudong_detail_label_grade"
+                style="@style/background_red_text_red"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="大二" />
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/tv_title_hudong_detail"
+            style="@style/text_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/ll_hudong_detail_lab"
+            android:layout_below="@+id/ll_hudong_detail_lab"
+            android:layout_marginTop="10dp"
+            android:paddingLeft="10dp"
+            android:text="怎么和学姐搭讪"
+            android:visibility="gone" />
+        <TextView
+            android:id="@+id/tv_time_hudong_detail"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/ll_hudong_detail_lab"
+            android:layout_below="@+id/tv_title_hudong_detail"
+            android:layout_marginTop="3dp"
+            android:paddingLeft="2dp"
+            android:text=""
+             />
+<TextView
+    android:visibility="invisible"
+    android:layout_marginRight="@dimen/t10dp"
+    android:background="@drawable/message_dots"
+    android:id="@+id/tv_no_read"
+    android:gravity="center"
+    android:layout_alignParentRight="true"
+    android:layout_centerVertical="true"
+    android:layout_width="@dimen/t10dp"
+    android:layout_height="@dimen/t10dp"
+    />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/colordadada"
+        />
+
+
+</LinearLayout>

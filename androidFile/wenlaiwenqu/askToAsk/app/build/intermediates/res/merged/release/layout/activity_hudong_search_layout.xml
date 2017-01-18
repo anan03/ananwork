@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/t20dp"
+        android:background="@color/main"
+        />
+    <RelativeLayout
+    android:orientation="horizontal"
+    android:background="@color/main"
+    android:paddingRight="@dimen/t5dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="10dp">
+    <ImageView
+        android:paddingRight="@dimen/f5dp"
+        android:paddingLeft="@dimen/t5dp"
+        android:layout_centerVertical="true"
+        android:id="@+id/iv_back"
+        android:layout_gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/common_titlebar_backjt"/>
+    <LinearLayout
+        android:layout_marginLeft="@dimen/t5dp"
+        android:layout_toRightOf="@+id/iv_back"
+        android:background="@drawable/circlecorner"
+        android:layout_centerVertical="true"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/t12dp"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/t28dp">
+
+        <ImageView
+            android:id="@+id/iv_search"
+            android:layout_gravity="center_vertical"
+            android:paddingLeft="@dimen/t15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:src="@drawable/searchicon"/>
+        <EditText
+            android:singleLine="true"
+            android:imeOptions="actionSearch"
+            android:id="@+id/et_search"
+            android:gravity="center_vertical"
+            android:textSize="11sp"
+            android:layout_marginLeft="@dimen/t3dp"
+            android:textColor="#f00"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@null"
+
+            />
+    </LinearLayout>
+
+</RelativeLayout>
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/pull_lv_hudong_search"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"/>
+
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--我的RadioButton图标选择器-->
+    <item android:drawable="@drawable/my_ok" android:state_checked="true" />
+    <item android:drawable="@drawable/my_no" />
+</selector>

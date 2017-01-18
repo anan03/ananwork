@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@color/white">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="34dp"
+                android:background="@drawable/mine_icon_bg" />
+
+            <ImageView
+                android:id="@+id/iv_detail_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/f30dp"
+                android:paddingLeft="@dimen/f10dp"
+                android:src="@drawable/common_titlebar_backjt" />
+
+            <RelativeLayout
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:id="@+id/iv_answer_item_chiefly"
+                android:layout_width="40dp"
+                android:layout_height="40dp">
+
+                <ImageView
+                    android:id="@+id/iv_answer_detail"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="@color/white"
+                    android:src="@drawable/no_pic" />
+                <ImageView
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_width="@dimen/t11dp"
+                    android:layout_height="@dimen/t11dp"
+                    android:src="@drawable/master"/>
+            </RelativeLayout>
+            <TextView
+                android:id="@+id/tv_answer_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/iv_answer_item_chiefly"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@+id/iv_answer_item_chiefly"
+                android:text="你好"
+                android:textColor="@color/white" />
+            <ImageView
+                android:id="@+id/user_sex"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/tv_answer_name"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@+id/tv_answer_name" />
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/iv_answer_item_chiefly"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@+id/iv_answer_item_chiefly"
+                android:orientation="horizontal">
+                <TextView
+                    android:id="@+id/tv_answer_focus_num"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="235"
+                    android:textColor="@color/main" />
+
+                <TextView
+                    android:textColor="@color/black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="关注" />
+
+                <TextView
+                    android:id="@+id/tv_answer_fan_num"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="7650"
+                    android:textColor="@color/main" />
+
+                <TextView
+                    android:textColor="@color/black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="粉丝" />
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/user_school"
+                style="@style/background_red_text_white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:padding="6dp"
+                android:text="北京传媒大学" />
+
+            <TextView
+                android:id="@+id/user_major"
+                style="@style/background_red_text_white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:padding="6dp"
+                android:text="考古学" />
+
+            <TextView
+                android:id="@+id/user_grade"
+                style="@style/background_red_text_white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:padding="6dp"
+                android:text="大三" />
+        </LinearLayout>
+
+
+
+        <View
+            android:layout_marginTop="@dimen/t10dp"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/t7dp"
+            android:background="#d0d0d0"
+            />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:id="@+id/ll_anser"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:paddingLeft="@dimen/f20dp"
+                android:paddingRight="@dimen/f20dp"
+                android:paddingTop="@dimen/f20dp">
+
+                <TextView
+                    android:id="@+id/tv_answer_solve_num"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="875"
+                    android:textColor="@color/main" />
+
+                <TextView
+                    android:id="@+id/tv_answer_solve_num_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="回答"
+                    android:textColor="@color/main" />
+
+                <View
+                    android:id="@+id/tv_answer_solve_num_text_color"
+                    android:layout_width="60dp"
+                    android:layout_height="@dimen/t3dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@color/main"
+                    android:textColor="@color/main" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_ask"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:paddingLeft="@dimen/f20dp"
+                android:paddingRight="@dimen/f20dp"
+                android:paddingTop="@dimen/f20dp"
+                >
+
+                <TextView
+                    android:textColor="@color/gray"
+                    android:id="@+id/tv_answer_ask_num"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="87" />
+
+                <TextView
+                    android:textColor="@color/gray"
+                    android:id="@+id/tv_answer_ask_num_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="提问" />
+
+                <View
+                    android:visibility="gone"
+                    android:id="@+id/tv_answer_ask_numtext_color"
+                    android:layout_width="60dp"
+                    android:layout_height="@dimen/t3dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@color/gray" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_accept"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:paddingLeft="@dimen/f20dp"
+                android:paddingRight="@dimen/f20dp"
+                android:paddingTop="@dimen/f20dp"
+               >
+                <TextView
+                    android:textColor="@color/gray"
+                    android:id="@+id/tv_answer_accept_num"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="57%" />
+                <TextView
+                    android:textColor="@color/gray"
+                    android:id="@+id/tv_answer_accept_num_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="采纳率" />
+                <View
+                    android:visibility="gone"
+                    android:id="@+id/tv_answer_accept_num_text_color"
+                    android:layout_width="60dp"
+                    android:layout_height="@dimen/t3dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@color/gray" />
+            </LinearLayout>
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/t1dp"
+            android:background="@color/cccccccolor"
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>

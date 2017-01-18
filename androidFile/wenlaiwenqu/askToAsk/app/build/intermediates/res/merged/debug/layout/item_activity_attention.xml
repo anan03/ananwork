@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_attention"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp">
+        <RelativeLayout
+            android:id="@+id/rl_answer_item_chiefly"
+            android:layout_width="50dp"
+            android:layout_height="50dp">
+            <ImageView
+                android:id="@+id/iv_answer_item_chiefly"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/no_pic" />
+            <ImageView
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:src="@drawable/master"/>
+        </RelativeLayout>
+        <TextView
+            android:id="@+id/tv_answer_chiefly_name"
+            style="@style/text_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/rl_answer_item_chiefly"
+            android:text="孟浩然" />
+
+
+        <TextView
+            android:id="@+id/tv_background"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/answer_chiefly_unfocus"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/attention"
+            android:textColor="@color/cccccccolor" />
+
+
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/colordadada"
+        />
+
+
+</LinearLayout>

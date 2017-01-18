@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\libs\ShareSDK-Core-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b060c818956585ebc16be9c034ba4970e5552d25">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.7.7_58302e60065f99bee6c4e69da746a0e6b83bd4e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c1f17df286fe76b2126055357d3cc2da8aa7c16b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_97d5890b68131cf79a0aa12a902b8e3c6cf5ce51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_a26a286bd2ef8cbc94cb9d2b7020235cd8d269ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\libs\badgeview.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6301e7214e651730acacf9815ac3a56701231015">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\badgeview_ffe48b6ad486efb0420ac128143c44737f9a80f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\src\main\jniLibs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_8cbc505c36bcb83fcef283d5cd9098de75c9e05f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\.gradle\caches\modules-2\files-2.1\com.zhy\mpermission-annotation\1.0.0\ad87d60db49aec2397f2c07c229db0886a175dd8\mpermission-annotation-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ad87d60db49aec2397f2c07c229db0886a175dd8">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\mpermission-annotation-1.0.0_59811e29a51cf143063b974cdc266b3b2498e722.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.zhy\mpermission-api\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c025695224d4e573f50b9711d0dd7e2e6da95ae5">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\com.zhy-mpermission-api-1.0.0_a69a6a90b36e9eb0dd116f09f364731a44297556.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_f85515540705a8009a760d2b9e778b0df0485129.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_6ed91926d6f6af9f7a64853eb69e75fa61bdfa49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\libs\ShareSDK-QZone-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="558713df8d3cc7543375e51e63a0638aeb0e2e9f">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\ShareSDK-QZone-2.7.7_73f1d175762c851a0c0a58b9bafda9bc4fe4598e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_374d8566db6f2da4492a687c82cfacf0d986199a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\libs\ShareSDK-Wechat-Core-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7942d022e2d3d8ed7ccbaf17df22da2eeddddfff">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.7.7_eb9ae958cd94d67e602d0aa8eef6fcc1633bdfa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_31cfa64cc7867b74a479a2adc923d52188ddc378.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\picasso-2.4.0_70029a2a3a0d5448da05130fc6c63c108c8d40da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\libs\ShareSDK-Wechat-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b97a04213d77372e90bbd280ad2149a0623e4e0b">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.7.7_a440cb8eca4668ae0393a14a386c67fbca7e898b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.yanzhenjie\permission\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a3747979f8d095e39a7ef8ee9213cd4f9b357e0c">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\com.yanzhenjie-permission-1.0.3_b252ee1646e70e6ca99dff0449dffec955c059fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\libs\MobCommons-2016.0830.1940.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ca36dc249a46648f8c8f53ad5ee4a935e80956a8">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\MobCommons-2016.0830.1940_d47a1e5deff9d3e86c6dc2e0bba4be9a7ed0292f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\org.kymjs.kjframe\kjframe\2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="60538003caaf7201ec4945bae8071c9e38b3cd91">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\org.kymjs.kjframe-kjframe-2.6_71e043338c8678199bc0145c97d0da78f9d58dc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\src\main\jniLibs\SmartAndroid2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="16a512dc4db626290da68380f5d1a80938fe0b09">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\SmartAndroid2.0_550bef1d2cfea785fd3f18f19bc68861ffd2c95f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.6\b2e6988baeea1aed656995f973aaa2fc3feaf447\library-1.0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b2e6988baeea1aed656995f973aaa2fc3feaf447">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\library-1.0.6_369ed74db8e34f9f0c8480a137924a92e04c3115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\gson-2.7_0f13af2374e3dd9335b860737fad2ff0b5501949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\libs\ShareSDK-Wechat-Moments-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1029839bf5cfc4522366b1fc17eb30627fa5b431">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.7.7_151c44b801d5dea74da1de5a719e631708ac77c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_868d99c43e6c4de1a68a0cef487064ebd150777a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_3b53853366489f2a60af1168c87a1aa6610443b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5f9eae783b3f93e585b131289e5d635aaf8cdfcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\libs\ShareSDK-Wechat-Favorite-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2dfc7d48951c61423eb6a536e68c36579ad61ec5">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Favorite-2.7.7_1192871566ed35f18269b2e769728b0b28c8271d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.bigkoo\pickerview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="785e7795aa8c3df729ae5d6bb6fc7e4428108332">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\com.bigkoo-pickerview-2.1.0_8843c7d8b8313daa7dcba732c8226677e9fa5063.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_0f7df8e82db36473411772e63bac61f181a23f22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_425388dcae3d37298f93f5648e00ab920bc83d11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_968053274b4cabbfbb8ae6034354184cb9ac9031.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\libs\libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\libammsdk_be7adc87e11f139e2a96595d75dd10dbfab0c94c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_dc7f1c038054dd7c1f293d15fbd4a6f9bc741077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\glide-3.5.2_e7ffea104d559a33065d75d9db9c202aab5d1e38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\askToAsk\pulltorefresh\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5c041c641870ce047b41335ca4be4fdcaf1e9d36">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\askToAsk-pulltorefresh-unspecified_355144359d8d120724b4c9d00b279ba36ffaa1b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_4e995ef308d0b140f717b7eb756773219d37c059.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_db912f146f392a6b8d2d095e2b1dcb6f9670bf22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\src\main\jniLibs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14_98a2c1ffd042a6588fe9dd8d33878e9049cd3e8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\src\main\jniLibs\fastjson-1.1.43.android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="55201133d499efaf33db67ece976c8e303d2de18">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\fastjson-1.1.43.android_a173fe57cf0a0505f6957977e0b05f61d8209c04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4443d189f89af3fdbfdb0b96e870d5bd5209a11b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_b19b3416621ceba6ca2d075335682164e44cad11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_d599dd38fdc92a76a9d867fc1573c1818c0dc52e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\libs\ShareSDK-QQ-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5b1593b719931c6c1902ab80998b7fb5cf73e488">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.7.7_b69835024c5863406e1080e069f780723b6532bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\libs\universal-image-loader-1.9.3-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="29cf65d299e133ec68caba92b29f69289713975b">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-SNAPSHOT_fa978656c20200feae99c892ae3c7aac8f598335.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.bm.photoview\library\1.4.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="772452261af8eb9c1df9ae71fb621afe393277da">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\com.bm.photoview-library-1.4.1_b7338ad42e19f39e8512184a14c55e92add63102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\src\main\jniLibs\activeandroid-3.1-beta.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="60a522113b5b4beca6696530394e411705988e92">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\activeandroid-3.1-beta_fa5993a809f1cad74a47583c82f79c1bd2a870b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_44104e07d6fea9bd4e9526e7a599525fed4e6547.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\libs\MobTools-2016.0830.1940.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="210bf77409df74387b9df1d7987de310a2e0b145">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\MobTools-2016.0830.1940_df35af742e4a14c89fcae672f53ea5d1da31c803.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\libs\alipaySdk-20160825.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="08cfc3ced256c0e40853f35882c6bd23a191b416">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\alipaySdk-20160825_b0b2a38eaff9b678f823aa68b063d12b4b10a87b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\libs\ShareSDK-SinaWeibo-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9d6f84355d4f6252240aebc751ba21eaea07e2dd">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\ShareSDK-SinaWeibo-2.7.7_3ed7b3e149be10b3c9ab88d75a8933caa0f6d663.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\libs\jpush-android-2.1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="99c80319fb45b23fbc516787fdd3cf8940fda4b2">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\jpush-android-2.1.9_6133682da03ea405a80670621d132473ee10e6f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_ddf57e99e6afb0b8b9082f3399c0d6b2d15e1ab6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="E:\Android\gitFilewenlaiwenqu\AskToAskAndroid\askToAsk\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_e30be1cc413b3005eff19cc06ebd6902b77a587f.jar" />
+    </item>
+
+</items>

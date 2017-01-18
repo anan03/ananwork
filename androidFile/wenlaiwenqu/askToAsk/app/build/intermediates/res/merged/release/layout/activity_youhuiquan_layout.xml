@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <include layout="@layout/common_titlebar" />
+
+    <LinearLayout
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="14dp"
+        android:paddingBottom="14dp">
+
+        <EditText
+            android:textSize="16sp"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/et_youhuiquan_duihuanma"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/shape_youhuiquan_edit"
+            android:hint="请输入兑换码"
+            android:padding="5dp"
+            android:textColorHint="@color/darkgray" />
+
+
+        <TextView
+            android:layout_marginLeft="10dp"
+           android:layout_marginRight="10dp"
+            android:layout_gravity="right|center_vertical"
+            android:padding="5dp"
+            android:background="@drawable/shape_youhuiquan_edit"
+            android:id="@+id/tv_youhuiquan_goduihuan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="兑换"
+            android:gravity="center"
+            android:textColor="@color/colorababab"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <ListView
+        android:background="@color/white"
+        android:visibility="gone"
+        android:id="@+id/lv_youhuiquan_youhuiquanlist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="14dp"
+        android:layout_marginRight="14dp" />
+    <TextView
+        android:id="@+id/tv_no_youhuijuan"
+        android:background="@color/colorf2f2f2"
+        android:gravity="center"
+        android:text="暂无优惠劵"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/colorababab"
+        />
+
+</LinearLayout>
