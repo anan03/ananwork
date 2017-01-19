@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/tv_mb"
+        android:layout_width="match_parent"
+        android:layout_height="80px"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="00.MB"
+        android:textSize="30px" />
+
+</com.zhy.autolayout.AutoLinearLayout>

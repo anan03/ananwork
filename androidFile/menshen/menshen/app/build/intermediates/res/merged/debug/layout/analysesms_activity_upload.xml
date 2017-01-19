@@ -1,0 +1,106 @@
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <!--分割线 -->
+    <View
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="25px"
+        android:background="@color/back347" />
+    <!--标题 开始-->
+    <com.zhy.autolayout.AutoRelativeLayout
+        android:id="@+id/rl_rl"
+        android:layout_width="match_parent"
+        android:layout_height="80px"
+        android:layout_below="@+id/view"
+        android:background="@color/back347"
+        android:orientation="vertical">
+
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:id="@+id/ll_parent_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/iv_back"
+                style="@style/img_back_gauge"
+                android:layout_width="wrap_content"
+
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@mipmap/fanhui" />
+
+        </com.zhy.autolayout.AutoLinearLayout>
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_centerInParent="true"
+            android:text="消息上传"
+            android:textColor="@color/white"
+            android:textSize="40px" />
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:id="@+id/rl_guanjianzi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/rl_delete"
+            android:gravity="center">
+
+            <ImageView
+                style="@style/img_back_rigt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@mipmap/shangchang" />
+
+        </com.zhy.autolayout.AutoLinearLayout>
+
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:id="@+id/rl_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="center">
+
+            <ImageView
+                style="@style/img_back_gauge"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@mipmap/jubao" />
+
+        </com.zhy.autolayout.AutoLinearLayout>
+
+
+    </com.zhy.autolayout.AutoRelativeLayout>
+    <!-- 标题结束-->
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tl"
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"></android.support.v4.view.ViewPager>
+
+    </com.zhy.autolayout.AutoLinearLayout>
+</com.zhy.autolayout.AutoLinearLayout>

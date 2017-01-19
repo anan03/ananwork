@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.zhy.autolayout.AutoRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="138px">
+
+        <TextView
+            android:id="@+id/tv_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15px"
+            android:gravity="center_vertical"
+            android:text="185"
+            android:textColor="@color/black"
+            android:textSize="34px" />
+
+        <ImageView
+            android:id="@+id/iv_delete"
+            style="@style/img_back_rigt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15px"
+            android:gravity="center_vertical"
+            android:src="@mipmap/cha" />
+    </com.zhy.autolayout.AutoRelativeLayout>
+</com.zhy.autolayout.AutoRelativeLayout>
+

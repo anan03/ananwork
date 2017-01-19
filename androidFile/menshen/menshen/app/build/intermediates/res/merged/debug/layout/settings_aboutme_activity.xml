@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/whitesmoke"
+    android:orientation="vertical">
+    <!--分割线 -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="50px"
+        android:background="@color/back347" />
+    <!--标题 -->
+    <include
+        layout="@layout/title_includ"
+        android:layout_width="match_parent"
+        android:layout_height="80px" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="25px"
+        android:background="@color/whitesmoke" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="400px"
+        android:background="@color/white"
+        android:gravity="top"
+        android:hint="请描述你的问题或您的宝贵意见"
+        android:padding="15px"
+        android:textColorHint="@color/cccccccolor" />
+
+    <com.zhy.autolayout.AutoRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/whitesmoke"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/bt_tj"
+            android:layout_width="match_parent"
+            android:layout_height="80px"
+            android:layout_alignParentBottom="true"
+            android:background="@color/white"
+            android:text="提交"
+            android:textColor="#347AEA"
+            android:textSize="32px" />
+    </com.zhy.autolayout.AutoRelativeLayout>
+
+
+</com.zhy.autolayout.AutoLinearLayout>

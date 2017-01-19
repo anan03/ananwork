@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="activeandroid-3.1-beta">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/activeandroid-3.1-beta.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

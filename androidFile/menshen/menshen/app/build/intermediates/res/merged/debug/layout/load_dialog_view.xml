@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="580px"
+        android:layout_height="300px"
+        android:layout_marginTop="50px"
+        android:background="@drawable/corner_with_tou_whith"
+        android:orientation="vertical"
+        android:paddingLeft="50px"
+        android:paddingRight="50px">
+
+        <TextView
+            android:id="@+id/context"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30px"
+            android:text="名称权限"
+            android:textColor="#000000"
+            android:textSize="36px" />
+
+        <EditText
+            android:id="@+id/et_name"
+            android:layout_width="match_parent"
+            android:layout_height="60px"
+            android:layout_marginTop="30px"
+            android:background="@drawable/corner_lan_et"
+            android:hint="如:淘宝"
+            android:paddingLeft="15px"
+            android:textColor="@color/black"
+            android:textColorHint="#999999"
+            android:textSize="30px" />
+
+        <TextView
+            android:id="@+id/tv_gujian"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30px"
+            android:text="文件大小权限"
+            android:textColor="#000000"
+            android:textSize="36px"
+            android:visibility="gone" />
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="30px"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <EditText
+                android:id="@+id/et_size_min"
+                android:layout_width="0px"
+                android:layout_height="60px"
+                android:layout_weight="4"
+                android:background="@drawable/corner_lan_et"
+                android:inputType="number"
+                android:maxLength="6"
+                android:paddingLeft="15px"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:background="@drawable/corner_lan_et"
+                android:gravity="center"
+                android:text="MB"
+                android:textColor="#000000"
+                android:textSize="36px" />
+
+            <TextView
+                android:layout_width="0px"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="center"
+                android:text="  ~  "
+                android:textColor="#000000"
+                android:textSize="36px" />
+
+            <EditText
+                android:id="@+id/et_size_max"
+                android:layout_width="0px"
+                android:layout_height="60px"
+                android:layout_weight="4"
+                android:background="@drawable/corner_lan_et"
+                android:inputType="number"
+                android:maxLength="6"
+                android:paddingLeft="15px"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:background="@drawable/corner_lan_et"
+                android:gravity="center"
+                android:text="MB"
+                android:textColor="#000000"
+                android:textSize="36px" />
+
+        </com.zhy.autolayout.AutoLinearLayout>
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100px"
+            android:layout_gravity="center"
+            android:layout_marginTop="30px"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/view_view"
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <com.zhy.autolayout.AutoLinearLayout
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <TextView
+                    android:id="@+id/close"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="取消"
+                    android:textColor="#666666"
+                    android:textSize="34px" />
+
+                <TextView
+                    android:id="@+id/queren"
+                    android:layout_width="0px"
+
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="确定"
+                    android:textColor="#347AEA"
+                    android:textSize="34px" />
+
+
+            </com.zhy.autolayout.AutoLinearLayout>
+        </com.zhy.autolayout.AutoLinearLayout>
+
+    </com.zhy.autolayout.AutoLinearLayout>
+
+</com.zhy.autolayout.AutoLinearLayout>

@@ -1,0 +1,184 @@
+<com.zhy.autolayout.AutoRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_part_part"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <!--分割线 -->
+    <View
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="50px"
+        android:background="@color/back347" />
+    <!--标题 开始-->
+    <com.zhy.autolayout.AutoRelativeLayout
+        android:id="@+id/rl_rl"
+        android:layout_width="match_parent"
+        android:layout_height="80px"
+        android:layout_below="@+id/view"
+        android:background="@color/back347"
+        android:orientation="vertical">
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:id="@+id/ll_parent_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/iv_back"
+                style="@style/img_back_gauge"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@mipmap/fanhui" />
+
+        </com.zhy.autolayout.AutoLinearLayout>
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="设置权限"
+            android:textColor="@color/white"
+            android:textSize="40px" />
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:id="@+id/rl_guanjianzi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/rl_delete"
+            android:gravity="center"
+            android:visibility="gone">
+
+            <ImageView
+                style="@style/img_back_rigt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@mipmap/guanjianzi" />
+
+        </com.zhy.autolayout.AutoLinearLayout>
+
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:id="@+id/rl_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:visibility="gone">
+
+            <ImageView
+                style="@style/img_back_gauge"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@mipmap/shanchu" />
+
+        </com.zhy.autolayout.AutoLinearLayout>
+
+
+    </com.zhy.autolayout.AutoRelativeLayout>
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:id="@+id/ll_text"
+        android:layout_width="match_parent"
+        android:layout_height="110px"
+        android:layout_below="@+id/rl_rl"
+        android:background="@color/white"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/tv_size_min"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:gravity="center"
+            android:text="0"
+            android:textColor="#333333"
+            android:textSize="30px" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:gravity="center"
+            android:text="MB"
+            android:textColor="#333333"
+            android:textSize="30px" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:gravity="center"
+            android:text="  ~  "
+            android:textColor="#333333"
+            android:textSize="30px" />
+
+        <TextView
+            android:id="@+id/tv_size_max"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:gravity="center"
+            android:text="0"
+            android:textColor="#333333"
+            android:textSize="30px" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:gravity="center"
+            android:text="MB"
+            android:textColor="#333333"
+            android:textSize="30px" />
+
+
+    </com.zhy.autolayout.AutoLinearLayout>
+
+
+    <!-- 标题结束-->
+    <View
+        android:id="@+id/view_vi"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_below="@+id/ll_text"
+        android:background="#33000000" />
+
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/view_vi"
+        android:layout_marginBottom="100px">
+
+    </ListView>
+
+
+    <com.zhy.autolayout.AutoRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100px"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_gjz"
+            android:layout_width="match_parent"
+            android:layout_height="100px"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@color/white"
+            android:gravity="center"
+            android:text="添加权限"
+            android:textColor="#347AEA"
+            android:textSize="30px" />
+    </com.zhy.autolayout.AutoRelativeLayout>
+
+
+</com.zhy.autolayout.AutoRelativeLayout>

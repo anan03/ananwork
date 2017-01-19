@@ -1,0 +1,121 @@
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_part_part"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <!--分割线 -->
+    <View
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="50px"
+        android:background="@color/back347" />
+    <!--标题 开始-->
+    <com.zhy.autolayout.AutoRelativeLayout
+        android:id="@+id/rl_rl"
+        android:layout_width="match_parent"
+        android:layout_height="80px"
+        android:layout_below="@+id/view"
+        android:background="@color/back347"
+        android:orientation="vertical">
+
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:id="@+id/ll_parent_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/iv_back"
+                style="@style/img_back_gauge"
+                android:layout_width="wrap_content"
+
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@mipmap/fanhui" />
+
+        </com.zhy.autolayout.AutoLinearLayout>
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_centerInParent="true"
+            android:text="设置关键字"
+            android:textColor="@color/white"
+            android:textSize="40px" />
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:id="@+id/rl_guanjianzi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/rl_delete"
+            android:gravity="center"
+            android:visibility="gone">
+
+            <ImageView
+                style="@style/img_back_rigt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@mipmap/guanjianzi" />
+
+        </com.zhy.autolayout.AutoLinearLayout>
+
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:id="@+id/rl_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:visibility="gone">
+
+            <ImageView
+                style="@style/img_back_gauge"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@mipmap/shanchu" />
+
+        </com.zhy.autolayout.AutoLinearLayout>
+
+
+    </com.zhy.autolayout.AutoRelativeLayout>
+    <!-- 标题结束-->
+    <com.zhy.autolayout.AutoRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tl"
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/tl"></android.support.v4.view.ViewPager>
+
+        <TextView
+            android:id="@+id/tv_gjz"
+            android:layout_width="match_parent"
+            android:layout_height="100px"
+            android:layout_alignParentBottom="true"
+            android:background="@color/white"
+            android:gravity="center"
+            android:text="添加关键字"
+            android:textColor="#347AEA"
+            android:textSize="30px" />
+
+
+    </com.zhy.autolayout.AutoRelativeLayout>
+
+
+</com.zhy.autolayout.AutoLinearLayout>

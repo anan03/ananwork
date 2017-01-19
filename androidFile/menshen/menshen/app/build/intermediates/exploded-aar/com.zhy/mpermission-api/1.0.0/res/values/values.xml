@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/zhy/github_repository/mine/Test/MPermissions/permission-lib/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">permission-lib</string>
+</resources>

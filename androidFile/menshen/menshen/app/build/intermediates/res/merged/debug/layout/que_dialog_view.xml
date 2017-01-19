@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="580px"
+        android:layout_height="360px"
+        android:background="@drawable/corner_with_tou_whith"
+        android:orientation="vertical"
+        android:paddingLeft="50px"
+        android:paddingRight="50px">
+
+        <TextView
+            android:id="@+id/context"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="70px"
+            android:text="请输入关键字"
+            android:textColor="#000000"
+            android:textSize="36px" />
+
+        <TextView
+            android:id="@+id/tv_gujian"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="30px"
+            android:paddingTop="40px"
+            android:text="关键字删除后将不被拦截"
+            android:textColor="@color/black"
+            android:textColorHint="#999999"
+            android:textSize="30px" />
+
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/view_view"
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <com.zhy.autolayout.AutoLinearLayout
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <TextView
+                    android:id="@+id/close"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="取消"
+                    android:textColor="#666666"
+                    android:textSize="34px" />
+
+                <TextView
+                    android:id="@+id/queren"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="确定"
+                    android:textColor="#347AEA"
+                    android:textSize="34px" />
+
+
+            </com.zhy.autolayout.AutoLinearLayout>
+        </com.zhy.autolayout.AutoLinearLayout>
+
+
+    </com.zhy.autolayout.AutoLinearLayout>
+
+</com.zhy.autolayout.AutoLinearLayout>

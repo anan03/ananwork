@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgeragd_message"
+    android:orientation="vertical">
+    <!--分割线 -->
+    <View
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="50px"
+        android:background="@color/back347" />
+    <!--标题 开始-->
+    <com.zhy.autolayout.AutoRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80px"
+        android:layout_below="@+id/view"
+        android:background="@color/back347"
+        android:orientation="vertical">
+
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:id="@+id/ll_parent_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/iv_back"
+                style="@style/img_back_gauge"
+                android:layout_width="wrap_content"
+
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@mipmap/fanhui" />
+        </com.zhy.autolayout.AutoLinearLayout>
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="账号管理"
+            android:textColor="@color/white"
+            android:textSize="40px" />
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/rl_delete"
+            android:gravity="center"></com.zhy.autolayout.AutoLinearLayout>
+    </com.zhy.autolayout.AutoRelativeLayout>
+    <!-- 标题结束-->
+    <com.zhy.autolayout.AutoRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="130px"
+        android:layout_gravity="center_vertical"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="20px">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_gravity="left"
+            android:text="头像"
+            android:textColor="@color/black33333"
+            android:textSize="30px" />
+
+        <com.lvshandian.menshen.view.CircleImageView
+            android:id="@+id/iv_head"
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="right"
+            android:src="@mipmap/wode_touxiang" />
+
+
+    </com.zhy.autolayout.AutoRelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginLeft="25px"
+        android:background="@color/home_back_color" />
+
+    <com.zhy.autolayout.AutoRelativeLayout
+        android:id="@+id/rl_name"
+        android:layout_width="match_parent"
+        android:layout_height="110px"
+        android:layout_gravity="center_vertical"
+        android:background="@color/white"
+        android:padding="20px">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="昵称"
+            android:textColor="@color/black33333"
+            android:textSize="30px" />
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10px"
+            android:layout_toLeftOf="@+id/img"
+            android:text="18513884422"
+            android:textColor="@color/texthui_color"
+            android:textSize="30px" />
+
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="right"
+            android:src="@mipmap/huisejiantou" />
+
+
+    </com.zhy.autolayout.AutoRelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginLeft="25px"
+        android:background="@color/home_back_color" />
+
+    <com.zhy.autolayout.AutoRelativeLayout
+        android:id="@+id/rl_phone"
+        android:layout_width="match_parent"
+        android:layout_height="110px"
+        android:background="@color/white"
+        android:padding="20px">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="手机号"
+            android:textColor="@color/black33333"
+            android:textSize="30px" />
+
+        <TextView
+            android:id="@+id/tv_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10px"
+            android:layout_toLeftOf="@+id/img1"
+            android:text="18513884422"
+            android:textColor="@color/texthui_color"
+            android:textSize="30px" />
+
+        <ImageView
+            android:id="@+id/img1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@mipmap/huisejiantou"
+            android:visibility="invisible" />
+
+    </com.zhy.autolayout.AutoRelativeLayout>
+
+
+</com.zhy.autolayout.AutoLinearLayout>

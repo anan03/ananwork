@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\push_activit_messagedetails.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\push_activit_messagedetails.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\analysesms_activity_seeting.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\analysesms_activity_seeting.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_jubaocg.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\dialog_jubaocg.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\download_activity.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\download_activity.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\que_dialog_view.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\que_dialog_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\title_includ.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\title_includ.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\seeting_settingperson.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\seeting_settingperson.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\load_head.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\load_head.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_phone.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\item_phone.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\download_fragment_load.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\download_fragment_load.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\faily_dialog_view.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\faily_dialog_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\push_activity_message.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\push_activity_message.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\anaysesms_item_framentapp.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\anaysesms_item_framentapp.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\login_activity_forgetpassword.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\login_activity_forgetpassword.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\phone_activity_phoneholdup.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\phone_activity_phoneholdup.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_planet.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\fragment_planet.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\add_gjz_dialog_view.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\add_gjz_dialog_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\analysesms_activity_sms.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\analysesms_activity_sms.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\anaysesms_item_framentsetting.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\anaysesms_item_framentsetting.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\load_dialog_view.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\load_dialog_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\name.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\name.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\login_activity_register.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\login_activity_register.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\login_activity_login.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\login_activity_login.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\drawer_list_item.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\download_item.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\download_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_jubao.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\dialog_jubao.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\anayse_smsdetails.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\anayse_smsdetails.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\download_all_item.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\download_all_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_app.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\fragment_app.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\analysesms_activity_sms_upload.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\analysesms_activity_sms_upload.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialogview_head.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\dialogview_head.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\seeting_settingname.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\seeting_settingname.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_phonepholdup.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\item_phonepholdup.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\settings_aboutme_activity.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\settings_aboutme_activity.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\analysesms_activity_upload.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\analysesms_activity_upload.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\de_ui_dialog_loading.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\de_ui_dialog_loading.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\download_activity_seeting.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\download_activity_seeting.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\build\\intermediates\\res\\merged\\release\\layout\\about_activity.xml",
+        "source": "E:\\Android\\gitFilemenshen\\doorGodAndroid\\menshen\\app\\src\\main\\res\\layout\\about_activity.xml"
+    }
+]

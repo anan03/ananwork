@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\org.xutils\xutils\3.3.36\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a525a7f2e266f577629f68820a462a807c66eec7">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\org.xutils-xutils-3.3.36_ffc13b9d943c4a3a6734cf826d705efc2d5678f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_6300b6f61b752d28ac92f333e81111d56e17d7a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_263f1ff1e49c3575fdbe410cfd82b4b75e899d3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_9e8524989135f2a0bcfa42b0c486647fc28af5e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_7ed3c48424add674c72a215e28eccf2c26c98cb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.cjj.materialrefeshlayout\library\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="597d857fe9b090c4582f0855a2c6d6cc45fec544">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\com.cjj.materialrefeshlayout-library-1.3.0_da8817e234f9cd4e396bcf583fc3a4b4a73ecbd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_881743f3d932b8c82888f2f306825fbeaf928d76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_6bd8f779e2be136447c0d4fc5d64f38b8e3acfb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\.gradle\caches\modules-2\files-2.1\com.zhy\mpermission-annotation\1.0.0\ad87d60db49aec2397f2c07c229db0886a175dd8\mpermission-annotation-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ad87d60db49aec2397f2c07c229db0886a175dd8">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\mpermission-annotation-1.0.0_59811e29a51cf143063b974cdc266b3b2498e722.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\libs\fastjson-1.1.43.android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="55201133d499efaf33db67ece976c8e303d2de18">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\fastjson-1.1.43.android_06053863c4f33704c18e71edaf8162988ab53440.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_71101414398a29546f3226186999f7dc87c4da80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\libs\universal-image-loader-1.9.3-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="29cf65d299e133ec68caba92b29f69289713975b">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-SNAPSHOT_3c522a0bc8ff427364f3caef680d90eddb7e1e75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\.gradle\caches\modules-2\files-2.1\com.neenbedankt.gradle.plugins\android-apt\1.8\d3c508f0ea2b2bb93c2816a83351090dd662eaac\android-apt-1.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d3c508f0ea2b2bb93c2816a83351090dd662eaac">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\android-apt-1.8_cdf37048e3a2d8bc3cb6dc0e781272800e3a44b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_1d42c5615cecfd7f4785a7f4aedebc6de4a43ac0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_e65151cf1b5d546e24a4fe3fe817ab8f067bb552.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_cdb10f6884bbbdfca76ed2cc703749fc72b5b9e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_aa12f717363cd429f0fea6197ff2b0011c230bbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_a37452f8d8e7eef7d58232c1194ab71825568550.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.zhy\autolayout\1.4.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9b69b69f0f434b79d767329fcf1ca6ba1540c509">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\com.zhy-autolayout-1.4.5_e1501595b429af081d5c712530946284d354f333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_545d4ad1ea5d6344bf5a9b44b0f1563ad7cb8422.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\libs\SmartAndroid2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="16a512dc4db626290da68380f5d1a80938fe0b09">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\SmartAndroid2.0_380e9a5299fdb2a78ec5be9ff2b5c0ddbc71d6db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\glide-3.7.0_aab64d01fd812311c3ca1ba24028a9797ad3a3fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.6\b2e6988baeea1aed656995f973aaa2fc3feaf447\library-1.0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b2e6988baeea1aed656995f973aaa2fc3feaf447">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\library-1.0.6_369ed74db8e34f9f0c8480a137924a92e04c3115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b62550faf326cc35e32fa126dd767f28a7093a8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_eb1d599ae4e80d4ed83bd13d8a5156e14709b077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_868d99c43e6c4de1a68a0cef487064ebd150777a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_44ef52a21a08433f6a36046aa7f6771da6651bc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_3b53853366489f2a60af1168c87a1aa6610443b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_5f778597de034463b98d400f3962b09e5223cee7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b8fc5bfad7494ea46cc0bf8710d9893d45156f7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhang\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_0f7df8e82db36473411772e63bac61f181a23f22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8e038546fe50732bbf2619843beb14a3719543ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\libs\activeandroid-3.1-beta.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="60a522113b5b4beca6696530394e411705988e92">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\activeandroid-3.1-beta_de0ab5b5e0e86600bba1f0b1fe922738ef8df396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_21d4ca22e8f545910dadd27846359fc6937cdc55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.zhy\mpermission-api\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c025695224d4e573f50b9711d0dd7e2e6da95ae5">
+        <dex dex="E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\pre-dexed\debug\com.zhy-mpermission-api-1.0.0_8d9d825af2049c56b0c67bc92b611eed68eac113.jar" />
+    </item>
+
+</items>

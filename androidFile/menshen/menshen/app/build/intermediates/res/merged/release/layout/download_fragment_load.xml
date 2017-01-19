@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgeragd_message">
+
+
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/rl_xie"></ListView>
+
+
+    <com.zhy.autolayout.AutoRelativeLayout
+        android:id="@+id/rl_xie"
+        android:layout_width="match_parent"
+        android:layout_height="100px"
+        android:layout_alignParentBottom="true"
+        android:paddingBottom="10px"
+        android:paddingTop="10px">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="100px"
+            android:layout_marginLeft="80px"
+            android:layout_marginRight="80px"
+            android:background="@drawable/corner_lv"
+            android:gravity="center"
+            android:text="卸载"
+            android:textColor="@color/white" />
+
+    </com.zhy.autolayout.AutoRelativeLayout>
+</com.zhy.autolayout.AutoRelativeLayout>

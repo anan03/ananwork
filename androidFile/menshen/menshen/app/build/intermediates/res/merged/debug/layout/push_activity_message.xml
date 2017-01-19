@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <!--分割线 -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="50px"
+        android:background="@color/back347" />
+    <!--标题 -->
+    <include
+        layout="@layout/title_includ"
+        android:layout_width="match_parent"
+        android:layout_height="80px" />
+
+    <com.cjj.MaterialRefreshLayout
+        android:id="@+id/refresh"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ListView
+            android:id="@+id/lv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"></ListView>
+
+
+    </com.cjj.MaterialRefreshLayout>
+
+</com.zhy.autolayout.AutoLinearLayout>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?><!--个人消息界面 -->
+<com.zhy.autolayout.AutoRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical"
+    android:gravity="center_vertical">
+
+    <com.zhy.autolayout.AutoRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center_vertical"
+        android:layout_marginBottom="15px"
+        android:layout_marginLeft="15px"
+        android:layout_marginTop="15px"
+        android:layout_toRightOf="@+id/iv_head_main"
+        android:gravity="center_vertical">
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:id="@+id/ll_item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="通知消息"
+                android:textColor="@color/black"
+                android:textSize="34px" />
+
+
+            <TextView
+                android:id="@+id/tv_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:layout_marginRight="20px"
+                android:gravity="right"
+                android:text="14:02"
+                android:textColor="#999999"
+                android:textSize="24px" />
+        </com.zhy.autolayout.AutoLinearLayout>
+
+        <TextView
+            android:id="@+id/tv_context"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ll_item"
+            android:gravity="center"
+            android:text="恭喜你获得50积分"
+            android:textColor="@color/texthui_color"
+            android:textSize="30px" />
+
+
+    </com.zhy.autolayout.AutoRelativeLayout>
+
+    <ImageView
+        android:id="@+id/iv_head_main"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:layout_marginBottom="15px"
+        android:layout_marginLeft="20px"
+        android:layout_marginTop="15px"
+        android:src="@mipmap/news" />
+</com.zhy.autolayout.AutoRelativeLayout>

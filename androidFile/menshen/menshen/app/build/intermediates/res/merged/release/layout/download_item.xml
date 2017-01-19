@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="10px">
+
+    <ImageView
+        android:id="@+id/download_head"
+        android:layout_width="95px"
+        android:layout_height="95px"
+        android:layout_margin="10px"
+        android:src="@mipmap/dfen" />
+
+    <com.zhy.autolayout.AutoRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="115px"
+        android:layout_toLeftOf="@+id/download_paly"
+        android:layout_toRightOf="@+id/download_head"
+        android:padding="15px">
+
+
+        <com.zhy.autolayout.AutoRelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10px"
+            android:layout_toRightOf="@+id/download_name"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/download_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="淘宝网"
+                android:textColor="#333333"
+                android:textSize="30px" />
+
+
+            <TextView
+                android:id="@+id/download_status"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20px"
+                android:layout_marginRight="15px"
+                android:layout_toLeftOf="@+id/download_mail"
+                android:layout_toRightOf="@+id/download_name"
+                android:text="状态:危险"
+                android:textColor="#FF5946"
+                android:textSize="24px"
+                android:visibility="gone" />
+
+
+        </com.zhy.autolayout.AutoRelativeLayout>
+
+        <TextView
+            android:id="@+id/progressbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:text="一款交友软件"
+            android:visibility="gone" />
+
+    </com.zhy.autolayout.AutoRelativeLayout>
+
+    <TextView
+        android:id="@+id/download_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="20px"
+        android:layout_toLeftOf="@+id/checkbox"
+        android:text="569MB"
+        android:textSize="24px" />
+
+    <CheckBox
+        android:id="@+id/checkbox"
+        android:layout_width="40px"
+        android:layout_height="40px"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:layout_marginRight="20px"
+        android:background="@drawable/sms_ischecked"
+        android:button="@null" />
+
+
+</com.zhy.autolayout.AutoRelativeLayout>

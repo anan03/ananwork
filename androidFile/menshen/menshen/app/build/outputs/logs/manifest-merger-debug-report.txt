@@ -1,0 +1,402 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:2:1-206:12
+	package
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:5:5-73
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:5:22-70
+uses-permission#android.permission.READ_SMS
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:7:5-70
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:7:22-67
+uses-permission#android.permission.WRITE_SMS
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.GET_PACKAGE_SIZE
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:12:5-91
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:12:22-72
+application
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:13:5-173:19
+MERGED from [com.android.support:design:24.2.1] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [org.xutils:xutils:3.3.36] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\org.xutils\xutils\3.3.36\AndroidManifest.xml:12:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.zhy:mpermission-api:1.0.0] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.zhy\mpermission-api\1.0.0\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:15:9-40
+	android:allowBackup
+		ADDED from [com.zhy:mpermission-api:1.0.0] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.zhy\mpermission-api\1.0.0\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:14:9-60
+meta-data#design_width
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:20:9-22:45
+	android:value
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:22:13-32
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:21:13-40
+meta-data#design_height
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:23:9-25:46
+	android:value
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:25:13-33
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:24:13-41
+activity#com.lvshandian.menshen.login.LoginActivity
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:27:9-35:20
+	android:screenOrientation
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:30:13-49
+	android:launchMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:29:13-43
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:28:13-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:33:27-74
+activity#com.lvshandian.menshen.login.registerActivity
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:37:9-40:61
+	android:screenOrientation
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:40:13-49
+	android:launchMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:39:13-43
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:38:13-51
+activity#com.lvshandian.menshen.login.ForgetPasswordActivity
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:42:9-45:61
+	android:screenOrientation
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:45:13-49
+	android:launchMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:44:13-43
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:43:13-57
+activity#com.lvshandian.menshen.settings.SettingPerson
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:47:9-50:61
+	android:screenOrientation
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:50:13-49
+	android:launchMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:49:13-43
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:48:13-51
+activity#com.lvshandian.menshen.settings.SettingNameActivity
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:53:9-56:61
+	android:screenOrientation
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:56:13-49
+	android:launchMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:55:13-43
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:54:13-57
+activity#com.lvshandian.menshen.analysesms.AnayseSmsDetails
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:59:9-62:61
+	android:screenOrientation
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:62:13-49
+	android:launchMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:61:13-43
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:60:13-56
+activity#com.lvshandian.menshen.MainActivity
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:66:9-70:79
+	android:screenOrientation
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:69:13-49
+	android:launchMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:68:13-43
+	android:windowSoftInputMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:70:13-67
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:67:13-41
+activity#com.lvshandian.menshen.push.MessageActivity
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:72:9-76:79
+	android:screenOrientation
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:75:13-49
+	android:launchMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:74:13-43
+	android:windowSoftInputMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:76:13-67
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:73:13-49
+activity#com.lvshandian.menshen.download.DownLoadActivity
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:78:9-82:79
+	android:screenOrientation
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:81:13-49
+	android:launchMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:80:13-43
+	android:windowSoftInputMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:82:13-67
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:79:13-54
+activity#com.lvshandian.menshen.download.LoadSettingActivity
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:84:9-88:79
+	android:screenOrientation
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:87:13-49
+	android:launchMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:86:13-43
+	android:windowSoftInputMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:88:13-67
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:85:13-57
+activity#com.lvshandian.menshen.analysesms.AnayseSmsActivity
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:91:9-95:79
+	android:screenOrientation
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:94:13-49
+	android:launchMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:93:13-43
+	android:windowSoftInputMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:95:13-67
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:92:13-57
+activity#com.lvshandian.menshen.analysesms.AnayseSmsUploadActivity
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:97:9-101:79
+	android:screenOrientation
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:100:13-49
+	android:launchMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:99:13-43
+	android:windowSoftInputMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:101:13-67
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:98:13-63
+activity#com.lvshandian.menshen.phone.PhoneHoldUpActivity
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:103:9-107:79
+	android:screenOrientation
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:106:13-49
+	android:launchMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:105:13-43
+	android:windowSoftInputMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:107:13-67
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:104:13-54
+activity#com.lvshandian.menshen.settings.AboutMeActivity
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:109:9-113:79
+	android:screenOrientation
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:112:13-49
+	android:launchMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:111:13-43
+	android:windowSoftInputMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:113:13-67
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:110:13-53
+activity#com.lvshandian.menshen.push.MessageDetails
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:115:9-119:79
+	android:screenOrientation
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:118:13-49
+	android:launchMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:117:13-43
+	android:windowSoftInputMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:119:13-67
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:116:13-48
+activity#com.lvshandian.menshen.settings.AboutActivity
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:121:9-125:79
+	android:screenOrientation
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:124:13-49
+	android:launchMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:123:13-43
+	android:windowSoftInputMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:125:13-67
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:122:13-51
+activity#com.lvshandian.menshen.analysesms.SmsSettingActivity
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:129:9-133:79
+	android:screenOrientation
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:132:13-49
+	android:launchMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:131:13-43
+	android:windowSoftInputMode
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:133:13-67
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:130:13-58
+receiver#com.lvshandian.menshen.receiver.PhoneBroadcastReceiver
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:136:9-141:20
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:136:19-66
+intent-filter#android.intent.action.NEW_OUTGOING_CALL+android.intent.action.PHONE_STATE
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:137:13-140:29
+	android:priority
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:137:28-51
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:138:17-82
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:138:25-79
+action#android.intent.action.PHONE_STATE
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:139:17-76
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:139:25-73
+receiver#com.lvshandian.menshen.receiver.BootReceiver
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:144:9-153:20
+	android:label
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:146:13-45
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:145:13-50
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:147:13-152:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:148:17-78
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:148:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:149:17-80
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:149:25-77
+data
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:151:17-50
+	android:scheme
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:151:23-47
+service#com.lvshandian.menshen.service.PhoneService
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:156:9-161:19
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:156:18-76
+intent-filter#com.xinwang.telesms.PhoneReciever+com.xinwang.telesms.server.IMICHAT
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:157:13-160:29
+action#com.xinwang.telesms.PhoneReciever
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:158:17-83
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:158:25-73
+action#com.xinwang.telesms.server.IMICHAT
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:159:17-77
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:159:25-74
+receiver#com.lvshandian.menshen.receiver.ReceiverSms
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:163:9-167:20
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:163:19-55
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:164:13-166:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:165:17-82
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:165:25-79
+meta-data#com.google.android.gms.version
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:168:9-170:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:170:13-66
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:169:13-58
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:174:5-75
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:174:22-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:175:5-72
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:175:22-69
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:180:5-81
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:180:22-78
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:182:5-69
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:182:22-66
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:185:5-68
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:185:22-65
+uses-permission#android.permission.INTERNET
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:186:5-67
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:186:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:187:5-76
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:187:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:188:5-79
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:188:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:189:5-76
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:189:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:190:5-81
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:190:22-78
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:192:5-74
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:192:22-71
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:193:5-71
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:193:22-68
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:194:5-75
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:194:22-72
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:200:5-84
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:200:22-81
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:204:5-81
+	android:name
+		ADDED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml:204:22-78
+uses-sdk
+INJECTED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.2.1] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.zhy:autolayout:1.4.5] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.zhy\autolayout\1.4.5\AndroidManifest.xml:8:5-10:41
+MERGED from [com.cjj.materialrefeshlayout:library:1.3.0] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.cjj.materialrefeshlayout\library\1.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [org.xutils:xutils:3.3.36] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\org.xutils\xutils\3.3.36\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.zhy:mpermission-api:1.0.0] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.zhy\mpermission-api\1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\gitFilemenshen\doorGodAndroid\menshen\app\src\main\AndroidManifest.xml
