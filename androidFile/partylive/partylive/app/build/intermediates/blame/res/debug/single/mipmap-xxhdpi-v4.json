@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\me_following_group.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\partylive\\uikit\\unspecified\\res\\mipmap-xxhdpi-v4\\me_following_group.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\zhan_da.jpg",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\mipmap-xxhdpi\\zhan_da.jpg"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\me_harvest_binding.jpg",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\mipmap-xxhdpi\\me_harvest_binding.jpg"
+    }
+]

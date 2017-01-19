@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <include layout="@layout/title_bar" />
+    <!-- 登录输入框开头 -->
+    <com.zhy.autolayout.AutoLinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50px"
+        android:background="@android:color/white"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/ed_register_phone"
+            android:layout_width="match_parent"
+            android:layout_height="100px"
+            android:background="@color/white"
+            android:hint="@string/please_input_phone"
+            android:inputType="phone"
+            android:maxLines="1"
+            android:paddingLeft="40px"
+            android:textSize="26px" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="@color/line" />
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100px"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/ed_register_code"
+                android:layout_width="500px"
+                android:layout_height="100px"
+                android:background="@color/white"
+                android:hint="@string/please_input_code"
+                android:inputType="number"
+                android:maxLength="6"
+                android:maxLines="1"
+                android:paddingLeft="40px"
+                android:textSize="26px" />
+
+            <TextView
+                android:id="@+id/tv_send_code"
+                android:layout_width="140px"
+                android:layout_height="50px"
+                android:background="@drawable/yuanjiao_hui_bg"
+                android:gravity="center"
+                android:maxLength="16"
+                android:maxLines="1"
+                android:padding="11px"
+                android:text=""
+                android:textSize="20px" />
+
+        </com.zhy.autolayout.AutoLinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="@color/line" />
+
+        <EditText
+            android:id="@+id/ed_register_password"
+            android:layout_width="match_parent"
+            android:layout_height="100px"
+            android:background="@color/white"
+            android:hint="@string/password_stand"
+            android:inputType="textPassword"
+            android:maxLength="16"
+            android:maxLines="1"
+            android:paddingLeft="40px"
+            android:textSize="26px" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="@color/line" />
+
+        <EditText
+            android:id="@+id/ed_register_recommend_code"
+            android:layout_width="match_parent"
+            android:layout_height="100px"
+            android:background="@color/white"
+            android:hint="@string/recommend_code"
+            android:paddingLeft="40px"
+            android:textSize="26px" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="@color/line" />
+
+
+    </com.zhy.autolayout.AutoLinearLayout>
+    <!-- 登录输入框结尾 -->
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:padding="25px">
+
+        <TextView
+            android:id="@+id/tv_forget_password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12px"
+            android:text="@string/agree_deal"
+            android:textColor="@color/black"
+            android:textSize="22px" />
+
+
+    </com.zhy.autolayout.AutoLinearLayout>
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+        <!-- 登录按钮开始 -->
+        <Button
+            android:id="@+id/btn_register"
+            android:layout_width="500px"
+
+            android:layout_height="80px"
+            android:layout_marginLeft="50px"
+            android:layout_marginRight="50px"
+            android:layout_marginTop="20px"
+            android:background="@drawable/selector_loginbtn"
+
+            android:text="@string/register"
+            android:textColor="@android:color/white"
+            android:textSize="30px" />
+        <!-- 登录按钮结束 -->
+
+    </com.zhy.autolayout.AutoLinearLayout>
+</com.zhy.autolayout.AutoLinearLayout>
+
+

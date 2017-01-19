@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SocialSDK_comment">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/main/jniLibs/SocialSDK_comment.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

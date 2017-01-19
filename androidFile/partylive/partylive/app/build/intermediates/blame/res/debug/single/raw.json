@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_no_response.mp3",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\avchat_no_response.mp3"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cross_11.acv",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\cross_11.acv"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_connecting.mp3",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\avchat_connecting.mp3"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cross_1.acv",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\cross_1.acv"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_peer_reject.mp3",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\avchat_peer_reject.mp3"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cross_7.acv",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\cross_7.acv"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cross_4.acv",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\cross_4.acv"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fragment_shader_mosaic.glsl",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\fragment_shader_mosaic.glsl"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\vertex_shader_two_input.glsl",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\vertex_shader_two_input.glsl"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fragment_shader_no_filter.glsl",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\fragment_shader_no_filter.glsl"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cross_10.acv",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\cross_10.acv"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\msg.wav",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\msg.wav"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\vertex_shader.glsl",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\vertex_shader.glsl"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\smssdk_pydb",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.3\\res\\raw\\smssdk_pydb"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cross_8.acv",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\cross_8.acv"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cross_5.acv",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\cross_5.acv"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\audio_end_tip.wav",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\partylive\\uikit\\unspecified\\res\\raw\\audio_end_tip.wav"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fragment_shader_beauty.glsl",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\fragment_shader_beauty.glsl"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cross_2.acv",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\cross_2.acv"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cross_3.acv",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\cross_3.acv"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_peer_busy.mp3",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\avchat_peer_busy.mp3"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_ring.mp3",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\avchat_ring.mp3"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cross_9.acv",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\cross_9.acv"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fragment_shader_ext_tone_curve.glsl",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\fragment_shader_ext_tone_curve.glsl"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cross_6.acv",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\raw\\cross_6.acv"
+    }
+]

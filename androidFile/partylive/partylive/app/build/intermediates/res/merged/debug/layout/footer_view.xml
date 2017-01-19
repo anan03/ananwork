@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/all_footer"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:gravity="center"
+    android:padding="15px">
+
+    <ImageView
+        android:id="@+id/iv_animation"
+        android:layout_width="60px"
+        android:layout_height="60px"
+        android:src="@mipmap/refresh"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tv_footer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="25px"
+        android:text="点击或下拉刷新"
+        android:textColor="@color/black" />
+</com.zhy.autolayout.AutoLinearLayout>

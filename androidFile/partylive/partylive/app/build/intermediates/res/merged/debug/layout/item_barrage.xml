@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/corner_danmu"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingBottom="0px"
+    android:paddingRight="20px"
+    android:paddingTop="0px">
+
+    <com.lvshandian.partylive.widget.AvatarView
+        android:id="@+id/barrageview_item_img"
+        android:layout_width="70px"
+        android:layout_height="70px" />
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/barrageview_item_nick"
+            android:layout_width="wrap_content"
+            android:layout_height="0px"
+            android:layout_weight="1"
+            android:textColor="@color/white"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/barrageview_item_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="0px"
+            android:layout_weight="1"
+            android:maxLines="1"
+            android:textColor="@color/white"
+            android:textSize="13sp" />
+
+    </com.zhy.autolayout.AutoLinearLayout>
+</com.zhy.autolayout.AutoLinearLayout>

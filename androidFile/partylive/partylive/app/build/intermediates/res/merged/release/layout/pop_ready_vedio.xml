@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lbg_alpha"
+    android:gravity="bottom"
+    android:orientation="vertical">
+
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:id="@+id/all_live"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="150px"
+            android:layout_height="150px"
+            android:layout_gravity="center_horizontal"
+            android:src="@mipmap/live_btn" />
+
+        <TextView
+            android:id="@+id/tv_live"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="50px"
+            android:layout_marginTop="15px"
+            android:gravity="center"
+            android:text="直播"
+            android:textColor="@color/black"
+            android:textSize="30px" />
+    </com.zhy.autolayout.AutoLinearLayout>
+
+    <ImageView
+        android:id="@+id/iv_x"
+        android:layout_width="150px"
+        android:layout_height="150px"
+        android:layout_gravity="center_horizontal"
+        android:padding="15px"
+        android:src="@mipmap/red_x" />
+</com.zhy.autolayout.AutoLinearLayout>

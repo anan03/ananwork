@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:hyphenate="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_channel_more"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <com.lvshandian.partylive.view.MyTitleBar
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="100px"
+        hyphenate:titleBarLeftImage="@mipmap/img_back"
+        hyphenate:titleBarTitle="@string/pindao" />
+
+    <com.lvshandian.partylive.widget.myrecycler.RefreshRecyclerView
+        android:id="@+id/channel_more_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</com.zhy.autolayout.AutoLinearLayout>

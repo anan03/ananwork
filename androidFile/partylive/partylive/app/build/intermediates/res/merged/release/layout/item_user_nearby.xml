@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <com.zhy.autolayout.AutoRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="280px"
+        android:layout_margin="5px">
+
+        <com.lvshandian.partylive.widget.LoadUrlImageView
+            android:id="@+id/un_user_pic"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="fitXY"
+            android:src="@mipmap/app_icon" />
+
+        <ImageView
+            android:id="@+id/un_user_sex"
+            android:layout_width="wrap_content"
+            android:layout_height="25.0dip"
+            android:layout_marginLeft="1px"
+            android:layout_marginRight="10dp" />
+
+        <ImageView
+            android:id="@+id/un_user_level"
+            android:layout_width="32dp"
+            android:layout_height="25.0dip"
+            android:layout_alignParentRight="true" />
+
+        <TextView
+            android:id="@+id/un_user_nick"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@color/global_bg"
+            android:gravity="center_horizontal"
+            android:padding="5px"
+            android:singleLine="true"
+            android:text="姓名"
+            android:textColor="@color/white"
+            android:textSize="25px" />
+
+    </com.zhy.autolayout.AutoRelativeLayout>
+</com.zhy.autolayout.AutoLinearLayout>

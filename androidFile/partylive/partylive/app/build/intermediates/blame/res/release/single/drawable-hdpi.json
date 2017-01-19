@@ -1,0 +1,1182 @@
+[
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_audio_call_wifi_unavailable.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_audio_call_wifi_unavailable.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_title_tab_right_pressed.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_session_html.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_session_html.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\master_icon.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\master_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message_view_holder_left_snapchat_disable.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\message_view_holder_left_snapchat_disable.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_mute_speaker_bg_disable.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_mute_speaker_bg_disable.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_session_mp4.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_session_mp4.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\g_white_btn_pressed.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\g_white_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\nick_name_icon.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\nick_name_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_detail_mp3.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_detail_mp3.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_refuse_bg_pressed.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_refuse_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_switch_mode_audio_icon.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_switch_mode_audio_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\messenger_bubble_large_white.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_refersh.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_button_grey.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_grey.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\network_grade_2.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\network_grade_2.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\network_grade_0.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\network_grade_0.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\record_video.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\record_video.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_light_bar_bg.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_light_bar_bg.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_video_record_disable.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_video_record_disable.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_video_switch_camera_disable.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_video_switch_camera_disable.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\chat_room_announce.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\chat_room_announce.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\room_cover_57.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\room_cover_57.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_mute_speaker_bg_checked.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_mute_speaker_bg_checked.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_wechat.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\user_account_icon.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\user_account_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_qzone_on.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\g_red_long_btn_nomal.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\g_red_long_btn_nomal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message_plus_audio_chat_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\message_plus_audio_chat_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\g_ic_close_yellow_pressed.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\g_ic_close_yellow_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_session_jpg.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_session_jpg.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message_plus_rts_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\message_plus_rts_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\chat_room_back_arrow_pressed.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\chat_room_back_arrow_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\admin_icon.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\admin_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_detail_zip.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_detail_zip.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_audio_open.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\icon_audio_open.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_light_bar_bg_pad.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_light_bar_bg_pad.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\record_start.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\record_start.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_at_selected.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\com_facebook_tooltip_blue_background.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_add_friends.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\ic_add_friends.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_speaker_icon_checked.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_speaker_icon_checked.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_search_team.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\ic_search_team.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_qq_off.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\bg_team_announce.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\bg_team_announce.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_detail_word.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_detail_word.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_wechat_gray.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\head_icon_2.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\head_icon_2.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_session_rar.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_session_rar.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\video_audio_mode_switch_bg_pressed.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\video_audio_mode_switch_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_action_back_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message_plus_snapchat_pressed.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\message_plus_snapchat_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message_view_holder_left_snapchat.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\message_view_holder_left_snapchat.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_switch_mode_video_icon.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_switch_mode_video_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\room_cover_72.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\room_cover_72.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_action_back_selected.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_back_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\com_facebook_tooltip_blue_xout.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_left_type_audio.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_left_type_audio.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message_plus_file_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\message_plus_file_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\actionbar_dark_logo_icon.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\actionbar_dark_logo_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\com_facebook_close.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\com_facebook_close.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_mute_icon_checked.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_mute_icon_checked.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message_view_holder_right_snapchat.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\message_view_holder_right_snapchat.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\action_bar_search_view_icon.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\action_bar_search_view_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\room_cover_50.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\room_cover_50.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_video_record_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_video_record_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\actionbar_dark_back_icon.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\actionbar_dark_back_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_logo.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\ic_logo.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\com_facebook_button_send_icon.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\com_facebook_button_send_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_detail_ppt.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_detail_ppt.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\com_facebook_tooltip_black_xout.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_nav_bar_bg.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\actionbar_white_logo_icon.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\actionbar_white_logo_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\room_cover_36.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\room_cover_36.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\nim_ic_message_actionbar_team.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\nim_ic_message_actionbar_team.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_ic_googleplayservices.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_video_bottom_logout_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_video_bottom_logout_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\nim_red_round_button.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\nim_red_round_button.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_session_pdf.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_session_pdf.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_session_excel.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_session_excel.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_session_txt.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_session_txt.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_detail_jpg.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_detail_jpg.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_title_tab_right_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\messenger_bubble_large_blue.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sdk_share_dialog_thumb_default.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\sdk_share_dialog_thumb_default.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_refuse_bg_normal.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_refuse_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_video_close_camera_pressed.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_video_close_camera_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_no_pickup.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_no_pickup.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\shadow_left.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\shadow_left.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_oauth_check_on.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_video_mute_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_video_mute_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\chat_room_back_arrow_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\chat_room_back_arrow_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\head_icon_9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\head_icon_9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_receive_bg_pressed.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_receive_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\dialog_toast_bg.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\dialog_toast_bg.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_follow_off.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\video_audio_mode_switch_bg_normal.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\video_audio_mode_switch_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_detail_unknow.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_detail_unknow.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_video_close_camera_disable.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_video_close_camera_disable.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_button_login_pressed.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_stat_notify_msg.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\ic_stat_notify_msg.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\nim_white_round_button.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\nim_white_round_button.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\logo.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_focus_failed.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\ic_focus_failed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\com_facebook_tooltip_black_bottomnub.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_video_mute_disable.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_video_mute_disable.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\head_icon_4.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\head_icon_4.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_detail_png.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_detail_png.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_video_record_pressed.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_video_record_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_mute_speaker_bg_normal.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_mute_speaker_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_delete_pressed.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\icon_delete_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_detail_pdf.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_detail_pdf.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_speaker_icon_disable.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_speaker_icon_disable.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_right_type_video.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_right_type_video.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\room_cover_64.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\room_cover_64.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_video_switch_camera_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_video_switch_camera_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\nim_white_round_button_pressed.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\nim_white_round_button_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_title_right_bt_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_button_login_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_session_ppt.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_session_ppt.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_speaker_icon_pressed.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_speaker_icon_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_audio_record_icon_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_audio_record_icon_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_session_unknow.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_session_unknow.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\nim_male.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\nim_male.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_oauth_check_off.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_detail_gif.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_detail_gif.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\scrollbar_handle_holo_dark.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\scrollbar_handle_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\network_grade_1.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\network_grade_1.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message_plus_video_chat_pressed.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\message_plus_video_chat_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_button_white.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_white.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_multiport.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\ic_multiport.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\new_message_notify.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\new_message_notify.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_audio_close.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\icon_audio_close.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_bind_bg.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_bind_bg.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_focus_focusing.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\ic_focus_focusing.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_fetch_image.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_video_bottom_logout_pressed.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_video_bottom_logout_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_delete_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\icon_delete_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_mute_speaker_bg_pressed.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_mute_speaker_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\com_facebook_button_like_icon_selected.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\head_icon_1.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\head_icon_1.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\room_cover_58.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\room_cover_58.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\head_icon.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\head_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_title_tab_left_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_right_type_audio.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_right_type_audio.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message_plus_rts_pressed.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\message_plus_rts_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\com_facebook_button_icon.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\com_facebook_button_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\com_facebook_tooltip_blue_topnub.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message_plus_audio_chat_pressed.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\message_plus_audio_chat_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\shadow_bottom.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\shadow_bottom.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\register_right_top_btn_disable.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\register_right_top_btn_disable.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_detail_excel.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_detail_excel.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_location_off.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message_view_holder_right_snapchat_disable.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\message_view_holder_right_snapchat_disable.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_title_back_bt_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_detail_mp4.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_detail_mp4.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\head_icon_3.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\head_icon_3.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\g_white_btn_normal.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\g_white_btn_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\nim_checkbox_not_checked.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\nim_checkbox_not_checked.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_speaker_icon_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_speaker_icon_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\nim_female.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\nim_female.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\no_announce.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\no_announce.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_title_right_bt_selected.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_detail_txt.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_detail_txt.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\me_following.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\me_following.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\edittext_white_normal.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\edittext_white_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message_plus_tip_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\message_plus_tip_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\marker_info_bg.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\marker_info_bg.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_video_close_camera_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_video_close_camera_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_video_mute_pressed.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_video_mute_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_qzone_off.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\messenger_bubble_small_blue.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\head_icon_10.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\head_icon_10.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_black_list.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\ic_black_list.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\pin.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\pin.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_session_gif.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_session_gif.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_default_avatar.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\head_icon_8.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\head_icon_8.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\messenger_button_send_round_shadow.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message_plus_video_chat_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\message_plus_video_chat_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\btn_loaction_pressed.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\btn_loaction_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\head_icon_5.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\head_icon_5.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\room_cover_37.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\room_cover_37.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_mute_icon_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_mute_icon_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_record_bg.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_record_bg.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\main_menu.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\main_menu.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_session_png.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_session_png.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_facebook.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\shadow_right.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\shadow_right.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_session_mp3.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_session_mp3.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\g_green_btn_pressed.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\g_green_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\room_cover_49.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\room_cover_49.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message_plus_guess_pressed.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\message_plus_guess_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\com_facebook_tooltip_black_topnub.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_sms_on.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_sms_on.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\login_bg.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\login_bg.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_at_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_receive_bg_normal.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_receive_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_button_blue.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_location_on.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_audio_record_icon_checked.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_audio_record_icon_checked.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\head_icon_7.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\head_icon_7.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_close_video_send.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_close_video_send.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_x_button.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\nim_ic_message_actionbar_p2p_add.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\nim_ic_message_actionbar_p2p_add.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\g_red_long_btn_pressed.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\g_red_long_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_my_computer.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\ic_my_computer.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_nav_bar_bg_pad.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_nav_bar_bg_pad.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_wxcircle.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_session_zip.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_session_zip.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_multiport_detail.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\ic_multiport_detail.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_title_tab_left_pressed.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\actionbar_dropdown_bg.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\actionbar_dropdown_bg.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_wxcircle_gray.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_sms_off.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_sms_off.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_google.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_google.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\head_icon_6.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\head_icon_6.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\g_ic_failed_small.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\g_ic_failed_small.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_focus_focused.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\ic_focus_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_left_type_video.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_left_type_video.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\nim_red_round_button_pressed.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\nim_red_round_button_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\register_right_top_btn_normal.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\register_right_top_btn_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\main_tab_new_message_notify.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\main_tab_new_message_notify.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_audio_record_icon_pressed.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_audio_record_icon_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_verify_remind.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\icon_verify_remind.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_advanced_team.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\ic_advanced_team.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_detail_rar.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_detail_rar.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\about_logo.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\about_logo.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\tip_bar_yellow_background.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\tip_bar_yellow_background.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\nim_ic_messge_history.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\nim_ic_messge_history.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\com_facebook_tooltip_black_background.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\welcome_bg.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\welcome_bg.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\network_grade_3.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\network_grade_3.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avatar_def.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avatar_def.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\com_facebook_tooltip_blue_bottomnub.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_video_switch_camera_pressed.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_video_switch_camera_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_mute_icon_pressed.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_mute_icon_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message_plus_guess_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\message_plus_guess_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_audio_record_icon_disable.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_audio_record_icon_disable.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\action_bar_black_more_icon.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\action_bar_black_more_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\address.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\address.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_rts_send.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\icon_rts_send.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_secretary.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\ic_secretary.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\g_ic_close_yellow.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\g_ic_close_yellow.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_location_ic.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message_plus_tip_pressed.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\message_plus_tip_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\back_arrow.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\back_arrow.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message_plus_file_pressed.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\message_plus_file_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\directory.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\directory.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\messenger_bubble_small_white.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_session_word.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_session_word.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_search_icon.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\btn_loaction_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\btn_loaction_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\file_ic_detail_html.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\file_ic_detail_html.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message_plus_snapchat_normal.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\message_plus_snapchat_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_title_back_bt_selected.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_full_open_on_phone.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_qq_on.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_follow_on.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_socialize_button_red.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\user_pwd_lock_icon.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\user_pwd_lock_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\avchat_mute_icon_disable.png",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\drawable-hdpi\\avchat_mute_icon_disable.png"
+    }
+]

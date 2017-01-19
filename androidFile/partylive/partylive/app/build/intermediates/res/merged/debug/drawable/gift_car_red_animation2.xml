@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="20" android:drawable="@drawable/car_red1"/>
+    <item android:duration="20" android:drawable="@drawable/car_red2"/>
+    <item android:duration="20" android:drawable="@drawable/car_red3"/>
+    <item android:duration="20" android:drawable="@drawable/car_red4"/>
+    <item android:duration="20" android:drawable="@drawable/car_red5"/>
+    <item android:duration="20" android:drawable="@drawable/car_red6"/>
+</animation-list>

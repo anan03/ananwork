@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/car_red1"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/car_red2"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/car_red3"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/car_red4"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/car_red5"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/car_red6"
+        android:duration="20" />
+</animation-list>

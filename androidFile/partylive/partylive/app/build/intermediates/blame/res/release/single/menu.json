@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\menu\\contacts_search_menu.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\partylive\\uikit\\unspecified\\res\\menu\\contacts_search_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\menu\\global_search_menu.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\menu\\global_search_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\menu\\message_activity_more_menu.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\menu\\message_activity_more_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\menu\\notification_menu.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\menu\\notification_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\menu\\custom_notification_activity_menu.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\menu\\custom_notification_activity_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\menu\\main_activity_menu.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\menu\\main_activity_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\release\\menu\\rts_activity_menu.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\menu\\rts_activity_menu.xml"
+    }
+]

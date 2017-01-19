@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\record_focus.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\record_focus.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\push_up_in.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\push_up_out.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\push_bottom_out.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\push_bottom_in.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\wechatRecoderVideoLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\push_bottom_in.xml"
+    }
+]

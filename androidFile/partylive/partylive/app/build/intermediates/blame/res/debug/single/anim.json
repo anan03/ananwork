@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\partylive\\uikit\\unspecified\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottomview_anim_exit.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\anim\\bottomview_anim_exit.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_out.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\partylive\\wechatRecoderVideoLibrary\\unspecified\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popshow_anim.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\anim\\popshow_anim.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\record_focus.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\partylive\\wechatRecoderVideoLibrary\\unspecified\\res\\anim\\record_focus.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_move_out_start.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\anim\\activity_move_out_start.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\partylive\\wechatRecoderVideoLibrary\\unspecified\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_move_in_start.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\anim\\activity_move_in_start.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\partylive\\uikit\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\partylive\\uikit\\unspecified\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pophidden_anim.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\anim\\pophidden_anim.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\partylive\\wechatRecoderVideoLibrary\\unspecified\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_out_from_bottom.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\anim\\umeng_socialize_slide_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\partylive\\uikit\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottomview_anim_enter.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\anim\\bottomview_anim_enter.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_in.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\partylive\\wechatRecoderVideoLibrary\\unspecified\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_in.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\anim\\umeng_socialize_shareboard_animation_in.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_out.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\anim\\umeng_socialize_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_in.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\anim\\umeng_socialize_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_translate_in.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\anim\\activity_translate_in.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_out.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\anim\\umeng_socialize_shareboard_animation_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_in_from_bottom.xml",
+        "source": "E:\\Android\\partylive\\paartylive_android\\partylive\\app\\src\\main\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+    }
+]

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.zhy.autolayout.AutoRelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="100px"
+        android:background="@color/main">
+
+        <TextView
+            android:id="@+id/tv_titlebar_left"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:drawableLeft="@mipmap/img_back"
+            android:drawablePadding="8px"
+            android:gravity="center_vertical"
+            android:paddingLeft="30px"
+            android:textColor="@color/white"
+            android:textIsSelectable="false"
+            android:textSize="18sp" />
+
+        <TextView
+
+            android:id="@+id/tv_titlebar_title"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center_vertical"
+            android:textColor="@color/white"
+            android:textIsSelectable="false"
+            android:textSize="34px" />
+
+        <TextView
+
+            android:id="@+id/tv_titlebar_right"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:gravity="center_vertical"
+            android:paddingRight="30px"
+            android:textColor="@color/white"
+            android:textIsSelectable="false"
+            android:textSize="34px" />
+    </com.zhy.autolayout.AutoRelativeLayout>
+
+</merge>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <include layout="@layout/title_bar" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="30px"
+        android:paddingLeft="30px"
+        android:paddingTop="30px"
+        android:text="会员特权" />
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80px"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="30px">
+
+        <TextView
+            android:layout_width="480px"
+            android:layout_height="wrap_content"
+            android:text="头像增加尊贵VIP标志" />
+
+        <TextView
+            android:layout_width="30px"
+            android:layout_height="30px"
+            android:background="@color/red"
+            android:gravity="center"
+            android:text="√"
+            android:textColor="@color/white" />
+    </com.zhy.autolayout.AutoLinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/line" />
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80px"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="30px">
+
+        <TextView
+            android:layout_width="480px"
+            android:layout_height="wrap_content"
+            android:text="可不受限制进入满员房间" />
+
+        <TextView
+            android:layout_width="30px"
+            android:layout_height="30px"
+            android:background="@color/red"
+            android:gravity="center"
+            android:text="√"
+            android:textColor="@color/white" />
+    </com.zhy.autolayout.AutoLinearLayout>
+
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80px"
+        android:layout_marginTop="40px"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="30px">
+
+        <TextView
+            android:layout_width="480px"
+            android:layout_height="wrap_content"
+            android:text="防止被管理员踢出及禁言" />
+
+        <TextView
+            android:layout_width="30px"
+            android:layout_height="30px"
+            android:background="@color/red"
+            android:gravity="center"
+            android:text="√"
+            android:textColor="@color/white" />
+    </com.zhy.autolayout.AutoLinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/line" />
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80px"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="30px">
+
+        <TextView
+            android:layout_width="480px"
+            android:layout_height="wrap_content"
+            android:text="在房间的排名优先" />
+
+        <TextView
+            android:layout_width="30px"
+            android:layout_height="30px"
+            android:background="@color/red"
+            android:gravity="center"
+            android:text="√"
+            android:textColor="@color/white" />
+    </com.zhy.autolayout.AutoLinearLayout>
+
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80px"
+        android:layout_marginTop="40px"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="30px">
+
+        <TextView
+            android:layout_width="480px"
+            android:layout_height="wrap_content"
+            android:text="浏览用户照片数量不受限制" />
+
+        <TextView
+            android:layout_width="30px"
+            android:layout_height="30px"
+            android:background="@color/red"
+            android:gravity="center"
+            android:text="√"
+            android:textColor="@color/white" />
+    </com.zhy.autolayout.AutoLinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/line" />
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80px"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="30px">
+
+        <TextView
+            android:layout_width="480px"
+            android:layout_height="wrap_content"
+            android:text="观看用户视频数量不受限制" />
+
+        <TextView
+            android:layout_width="30px"
+            android:layout_height="30px"
+            android:background="@color/red"
+            android:gravity="center"
+            android:text="√"
+            android:textColor="@color/white" />
+    </com.zhy.autolayout.AutoLinearLayout>
+
+
+    <Button
+        android:id="@+id/btn_buy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="120px"
+        android:layout_marginRight="120px"
+        android:layout_marginTop="30px"
+        android:background="@drawable/selector_btn"
+        android:text="购买"
+        android:textColor="@color/selector_text_btn" />
+</com.zhy.autolayout.AutoLinearLayout>

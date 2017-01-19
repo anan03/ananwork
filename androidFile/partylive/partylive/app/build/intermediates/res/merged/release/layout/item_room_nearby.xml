@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5px"
+    android:orientation="vertical">
+
+    <com.lvshandian.partylive.widget.RoundAngleImageView
+        android:id="@+id/um_user_pic"
+        android:layout_width="match_parent"
+        android:layout_height="250px"
+        android:layout_weight="1"
+        android:scaleType="fitXY"
+        android:src="@mipmap/app_icon" />
+
+    <TextView
+        android:id="@+id/um_user_nick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5px"
+        android:gravity="center_horizontal"
+        android:padding="5px"
+        android:singleLine="true"
+        android:text="姓名"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5px">
+
+        <TextView
+            android:id="@+id/um_room_distance"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="0.01km" />
+
+        <TextView
+            android:layout_width="0px"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/um_room_onlineUserNum"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="0个" />
+    </com.zhy.autolayout.AutoLinearLayout>
+</com.zhy.autolayout.AutoLinearLayout>

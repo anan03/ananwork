@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cosinesdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/main/jniLibs/cosinesdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

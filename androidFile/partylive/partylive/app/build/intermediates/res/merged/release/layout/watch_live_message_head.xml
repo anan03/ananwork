@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="6dp">
+
+    <com.netease.nim.uikit.common.ui.imageview.HeadImageView
+        android:id="@+id/message_item_portrait_left"
+        android:layout_width="@dimen/avatar_size_in_contact"
+        android:layout_height="@dimen/avatar_size_in_contact"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/message_item_time"
+        android:layout_marginRight="@dimen/bubble_head_margin_horizontal"
+        android:src="@drawable/app_icon"
+        android:visibility="visible" />
+
+    <LinearLayout
+        android:id="@+id/message_item_name_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/message_item_time"
+        android:layout_toLeftOf="@id/message_item_portrait_right"
+        android:layout_toRightOf="@id/message_item_portrait_left"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/message_item_name_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/message_item_time"
+            android:layout_marginBottom="3dp"
+            android:layout_marginRight="3dp"
+            android:layout_toRightOf="@id/message_item_portrait_left"
+            android:visibility="gone" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/message_item_time"
+            android:layout_marginBottom="3dp"
+            android:layout_marginTop="3dp"
+            android:ellipsize="end"
+            android:gravity="center_vertical"
+            android:maxWidth="160dip"
+            android:singleLine="true"
+            android:text=" @系统消息"
+            android:textColor="@color/color_yellow_nick"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/message_item_time"
+            android:ellipsize="end"
+            android:gravity="center_vertical"
+            android:text="我们提倡绿色直播，封面和直播内容含吸烟、低俗、引诱、暴露等都将会被封停账号，网警24小时在线巡查哦！"
+            android:textColor="@color/white"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+</com.zhy.autolayout.AutoRelativeLayout>

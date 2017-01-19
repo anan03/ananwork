@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pldroid-media-streaming-2.1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/main/jniLibs/pldroid-media-streaming-2.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

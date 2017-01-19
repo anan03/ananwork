@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_round_gray_dialog"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_x"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:padding="50px"
+        android:src="@mipmap/x" />
+
+    <TextView
+        android:id="@+id/tv_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:text="主播表演中,需要支付金币5,不支付可看不到哦"
+        android:textColor="@color/hotpink" />
+
+    <Button
+        android:id="@+id/btn_pay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50px"
+        android:background="@drawable/shape_red_bg"
+        android:paddingBottom="10px"
+        android:paddingLeft="85px"
+        android:paddingRight="85px"
+        android:paddingTop="10px"
+        android:text="支付"
+        android:textColor="@color/white" />
+</com.zhy.autolayout.AutoRelativeLayout>

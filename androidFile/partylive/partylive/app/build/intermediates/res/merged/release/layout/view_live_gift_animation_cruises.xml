@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true">
+
+        <ImageView
+            android:id="@+id/iv_live_water_one"
+            style="@style/live_show_seawater"
+            android:layout_marginLeft="10dp" />
+
+        <ImageView
+            android:id="@+id/iv_live_water_one2"
+            style="@style/live_show_seawater"
+            android:layout_marginRight="10dp" />
+
+        <RelativeLayout
+            android:id="@+id/rl_live_cruises"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="-300dp"
+            android:layout_marginTop="200dp">
+
+            <TextView
+                android:id="@+id/tv_live_cruises_uname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:textColor="@color/white" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_centerVertical="true"
+                android:src="@drawable/yacht_hull" />
+
+            <com.lvshandian.partylive.widget.AvatarView
+                android:id="@+id/live_cruises_uhead"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="160dp"
+                />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="170dp"
+                android:src="@drawable/yacht_shadow" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+</RelativeLayout>

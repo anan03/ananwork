@@ -1,0 +1,1353 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:2:1-518:12
+	package
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:4:5-39
+		INJECTED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:10:5-75
+MERGED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:11:22-75
+uses-permission#android.permission.INTERNET
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.zhy:okhttputils:2.0.0] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.0.0\AndroidManifest.xml:11:5-67
+MERGED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:13:5-67
+MERGED from [com.qiniu.pili:pili-android-qos:0.8.16] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.qiniu.pili\pili-android-qos\0.8.16\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:14:5-79
+MERGED from [com.qiniu.pili:pili-android-qos:0.8.16] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.qiniu.pili\pili-android-qos\0.8.16\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_PHONE_SINTERNETWIFI_STATE
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:14:5-89
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:14:22-86
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:15:5-76
+MERGED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.CAMERA
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:16:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:17:5-71
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:17:22-68
+uses-permission#android.permission.FLASHLIGHT
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:18:5-69
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:18:22-66
+uses-permission#android.permission.VIBRATE
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:19:5-66
+MERGED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:32:5-66
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:19:22-63
+uses-feature#android.hardware.camera
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:21:5-60
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:21:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:22:5-70
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:22:19-67
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:28:5-76
+MERGED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:28:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:29:5-81
+MERGED from [com.zhy:okhttputils:2.0.0] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.0.0\AndroidManifest.xml:12:5-81
+MERGED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:16:5-81
+MERGED from [com.qiniu.pili:pili-android-qos:0.8.16] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.qiniu.pili\pili-android-qos\0.8.16\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:29:22-78
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:31:5-74
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:31:22-71
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:32:5-71
+MERGED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:31:5-71
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:32:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:34:5-68
+MERGED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:34:22-65
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:36:5-68
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:36:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:37:5-74
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:37:22-71
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:40:5-80
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:40:22-77
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:41:5-72
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:41:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:42:22-70
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:44:5-84
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:44:22-81
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:45:5-80
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:45:22-77
+permission#com.lvshandian.partylive.permission.RECEIVE_MSG
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:60:5-62:47
+	android:protectionLevel
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:62:9-44
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:61:9-71
+uses-permission#com.lvshandian.partylive.permission.RECEIVE_MSG
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:64:5-87
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:64:22-84
+uses-permission#android.permission.READ_LOGS
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:72:5-68
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:72:22-65
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:73:5-69
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:73:22-66
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:74:5-79
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:74:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:75:5-81
+MERGED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:75:22-78
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:76:5-68
+MERGED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:76:22-65
+uses-permission#android.permission.SET_DEBUG_APP
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:77:5-72
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:77:22-69
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:80:5-74
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:80:22-71
+uses-feature#0x00020000
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:105:5-107:35
+	android:glEsVersion
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:106:9-41
+	android:required
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:107:9-32
+application
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:109:5-516:19
+MERGED from [:SMSSDK-2.1.3:] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\SMSSDK-2.1.3\AndroidManifest.xml:11:5-12:19
+MERGED from [:SMSSDKGUI-2.1.3:] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\SMSSDKGUI-2.1.3\AndroidManifest.xml:11:5-12:19
+MERGED from [org.xutils:xutils:3.3.36] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\org.xutils\xutils\3.3.36\AndroidManifest.xml:12:5-20
+MERGED from [org.kymjs.kjframe:kjframe:2.6] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\org.kymjs.kjframe\kjframe\2.6\AndroidManifest.xml:11:5-47
+MERGED from [com.github.johnkil.android-appmsg:appmsg:1.2.0] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.github.johnkil.android-appmsg\appmsg\1.2.0\AndroidManifest.xml:5:5-19
+MERGED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:9:5-144:19
+MERGED from [com.android.support:design:24.2.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.zhy:okhttputils:2.0.0] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.0.0\AndroidManifest.xml:14:5-17:19
+MERGED from [partylive:wechatRecoderVideoLibrary:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\wechatRecoderVideoLibrary\unspecified\AndroidManifest.xml:11:5-22:19
+MERGED from [partylive:vitamioRecorderLibrary:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\vitamioRecorderLibrary\unspecified\AndroidManifest.xml:11:5-16:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:37:5-156:19
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.2.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [in.srain.cube:ultra-ptr:1.0.11] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\in.srain.cube\ultra-ptr\1.0.11\AndroidManifest.xml:11:5-20
+MERGED from [com.qiniu.pili:pili-android-qos:0.8.16] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.qiniu.pili\pili-android-qos\0.8.16\AndroidManifest.xml:15:5-53
+	android:label
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:113:9-41
+	android:supportsRtl
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:114:9-35
+	android:allowBackup
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:111:9-35
+	android:icon
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:112:9-40
+		REJECTED from [partylive:vitamioRecorderLibrary:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\vitamioRecorderLibrary\unspecified\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:115:9-40
+		REJECTED from [partylive:vitamioRecorderLibrary:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\vitamioRecorderLibrary\unspecified\AndroidManifest.xml:15:9-40
+	tools:replace
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:116:9-52
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:110:9-38
+meta-data#design_width
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:117:9-119:35
+	android:value
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:119:13-32
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:118:13-40
+meta-data#design_height
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:120:9-122:36
+	android:value
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:122:13-33
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:121:13-41
+activity#com.lvshandian.partylive.MainActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:124:9-127:61
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:127:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:126:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:125:13-41
+activity#com.lvshandian.partylive.moudles.start.GuidActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:129:9-138:20
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:132:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:131:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:130:13-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:133:13-137:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:134:17-69
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:134:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:136:17-77
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:136:27-74
+activity#com.lvshandian.partylive.moudles.start.StartActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:140:9-143:52
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:143:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:142:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:141:13-56
+activity#com.lvshandian.partylive.moudles.start.LoginActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:145:9-148:52
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:148:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:147:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:146:13-56
+activity#com.lvshandian.partylive.moudles.start.RegisterActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:150:9-153:52
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:153:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:152:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:151:13-59
+activity#com.lvshandian.partylive.moudles.mine.my.InviteFriendActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:155:9-158:52
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:158:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:157:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:156:13-65
+activity#com.lvshandian.partylive.moudles.start.RegisterUserActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:160:9-163:52
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:163:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:162:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:161:13-63
+activity#com.lvshandian.partylive.moudles.mine.activity.ModifyInfoActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:165:9-168:52
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:168:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:167:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:166:13-69
+activity#com.lvshandian.partylive.moudles.mine.activity.ChargeMoneyActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:171:9-174:52
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:174:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:173:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:172:13-70
+activity#com.lvshandian.partylive.moudles.mine.activity.ExchangeCenterActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:176:9-179:52
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:179:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:178:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:177:13-73
+activity#com.lvshandian.partylive.moudles.mine.activity.ExchangeActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:181:9-184:52
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:184:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:183:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:182:13-67
+activity#com.lvshandian.partylive.moudles.mine.my.SettingActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:186:9-189:52
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:189:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:188:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:187:13-60
+activity#com.lvshandian.partylive.moudles.mine.my.ModifyPasswordActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:191:9-194:52
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:194:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:193:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:192:13-67
+activity#com.lvshandian.partylive.wangyiyunxin.contact.activity.BlackListActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:196:9-202:75
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:200:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:199:13-43
+	android:windowSoftInputMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:202:13-72
+	android:configChanges
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:198:13-48
+	android:theme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:201:13-56
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:197:13-76
+activity#com.lvshandian.partylive.moudles.mine.my.SystemMessageActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:204:9-207:52
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:207:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:206:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:205:13-66
+activity#com.lvshandian.partylive.wangyiyunxin.main.activity.WYYXSystemMessageActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:209:9-214:70
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:212:13-49
+	android:windowSoftInputMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:214:13-67
+	android:configChanges
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:211:13-63
+	android:theme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:213:13-56
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:210:13-81
+activity#com.lvshandian.partylive.moudles.mine.my.AuthenticationActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:216:9-219:52
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:219:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:218:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:217:13-67
+activity#com.lvshandian.partylive.moudles.mine.my.GongXianActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:221:9-224:52
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:224:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:223:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:222:13-61
+activity#com.lvshandian.partylive.lib.acp.AcpActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:226:9-228:47
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:228:13-44
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:227:13-48
+activity#com.lvshandian.partylive.moudles.mine.my.MessageCenterActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:230:9-233:52
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:233:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:232:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:231:13-66
+activity#com.lvshandian.partylive.moudles.mine.my.OpenMemberActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:235:9-238:52
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:238:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:237:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:236:13-63
+activity#com.lvshandian.partylive.moudles.mine.my.ContributeListActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:242:9-245:52
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:245:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:244:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:243:13-67
+activity#com.lvshandian.partylive.moudles.mine.my.RecentVisitorsActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:247:9-250:52
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:250:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:249:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:248:13-67
+activity#com.lvshandian.partylive.moudles.mine.my.OtherPersonHomePageActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:252:9-255:52
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:255:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:254:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:253:13-72
+activity#com.lvshandian.partylive.wangyiyunxin.chatroom.activity.ChatRoomActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:257:9-261:70
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:259:13-49
+	android:windowSoftInputMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:261:13-67
+	android:theme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:260:13-56
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:258:13-76
+activity#com.lvshandian.partylive.moudles.mine.my.PhotoDetails
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:263:9-269:73
+	android:fitsSystemWindows
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:266:13-45
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:267:13-49
+	android:windowSoftInputMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:269:13-70
+	android:clipToPadding
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:265:13-41
+	android:theme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:268:13-56
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:264:13-57
+activity#com.lvshandian.partylive.moudles.mine.my.Videotails
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:271:9-277:73
+	android:fitsSystemWindows
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:274:13-45
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:275:13-49
+	android:windowSoftInputMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:277:13-70
+	android:clipToPadding
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:273:13-41
+	android:theme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:276:13-56
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:272:13-55
+activity#com.lvshandian.partylive.wangyiyunxin.session.activity.MessageHistoryActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:278:9-283:70
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:281:13-49
+	android:windowSoftInputMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:283:13-67
+	android:configChanges
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:280:13-63
+	android:theme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:282:13-56
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:279:13-81
+activity#com.lvshandian.partylive.wangyiyunxin.session.activity.MessageInfoActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:284:9-289:70
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:287:13-49
+	android:windowSoftInputMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:289:13-67
+	android:configChanges
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:286:13-63
+	android:theme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:288:13-56
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:285:13-78
+activity#com.lvshandian.partylive.moudles.mine.my.RealNameVertifyActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:290:9-295:70
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:293:13-49
+	android:windowSoftInputMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:295:13-67
+	android:configChanges
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:292:13-63
+	android:theme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:294:13-56
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:291:13-68
+activity#com.lvshandian.partylive.moudles.index.live.PrapareVedioActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:296:9-301:70
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:299:13-49
+	android:windowSoftInputMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:301:13-67
+	android:configChanges
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:298:13-63
+	android:theme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:300:13-56
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:297:13-68
+activity#com.lvshandian.partylive.moudles.mine.my.FunseListActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:303:9-307:70
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:305:13-49
+	android:windowSoftInputMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:307:13-67
+	android:theme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:306:13-56
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:304:13-62
+activity#com.lvshandian.partylive.moudles.mine.my.FollowListActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:309:9-313:70
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:311:13-49
+	android:windowSoftInputMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:313:13-67
+	android:theme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:312:13-56
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:310:13-63
+activity#com.lvshandian.partylive.moudles.group.activity.FollowListForGroupActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:315:9-319:70
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:317:13-49
+	android:windowSoftInputMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:319:13-67
+	android:theme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:318:13-56
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:316:13-78
+activity#com.lvshandian.partylive.moudles.index.live.WatchLiveActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:321:9-325:55
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:324:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:323:13-43
+	android:windowSoftInputMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:325:13-52
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:322:13-65
+activity#com.lvshandian.partylive.wangyiyunxin.main.activity.SessionListActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:327:9-332:70
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:330:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:329:13-43
+	android:windowSoftInputMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:332:13-67
+	android:theme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:331:13-56
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:328:13-75
+activity#com.lvshandian.partylive.moudles.index.live.StartLiveReadyActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:335:9-339:70
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:338:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:337:13-43
+	android:windowSoftInputMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:339:13-67
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:336:13-70
+activity#com.lvshandian.partylive.moudles.index.live.StartLiveActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:342:9-346:70
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:345:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:344:13-43
+	android:windowSoftInputMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:346:13-67
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:343:13-65
+activity#com.lvshandian.partylive.moudles.index.activity.SearchActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:349:9-353:70
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:352:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:351:13-43
+	android:windowSoftInputMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:353:13-67
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:350:13-66
+activity#com.lvshandian.partylive.moudles.index.activity.ChannelMoreActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:355:9-358:52
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:358:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:357:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:356:13-71
+activity#com.lvshandian.partylive.moudles.mine.my.TiXianActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:360:9-363:52
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:363:13-49
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:362:13-43
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:361:13-59
+activity#com.lvshandian.partylive.wangyiyunxin.session.search.SearchMessageActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:366:9-371:72
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:369:13-49
+	android:windowSoftInputMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:371:13-69
+	android:configChanges
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:368:13-63
+	android:theme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:370:13-52
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:367:13-78
+activity#com.umeng.socialize.editorpage.ShareActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:374:9-377:54
+	android:excludeFromRecents
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:376:13-46
+	android:theme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:377:13-51
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:375:13-72
+receiver#com.lvshandian.partylive.AppRegister
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:380:9-384:20
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:380:19-46
+intent-filter#com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:381:13-383:29
+action#com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:382:17-100
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:382:25-97
+activity#com.umeng.socialize.view.ShareActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:386:9-392:71
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:389:13-44
+	android:noHistory
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:390:13-37
+	android:windowSoftInputMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:392:13-68
+	android:configChanges
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:388:13-57
+	android:theme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:391:13-50
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:387:13-66
+meta-data#UMENG_APPKEY
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:394:9-396:56
+	android:value
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:396:13-53
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:395:13-40
+meta-data#UMENG_MESSAGE_SECRET
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:397:9-399:64
+	android:value
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:399:13-61
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:398:13-48
+meta-data#UMENG_CHANNEL
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:400:9-402:37
+	android:value
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:402:13-34
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:401:13-41
+activity#com.lvshandian.partylive.wxapi.WXEntryActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:405:9-410:75
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:409:13-49
+	android:exported
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:408:13-36
+	android:configChanges
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:407:13-74
+	android:theme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:410:13-72
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:406:13-50
+activity#com.lvshandian.partylive.wxapi.WXPayEntryActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:411:9-414:46
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:414:13-43
+	android:exported
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:413:13-36
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:412:13-53
+activity#com.tencent.tauth.AuthActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:416:9-429:20
+	android:launchMode
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:418:13-44
+	android:noHistory
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:419:13-37
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:417:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:420:13-428:29
+action#android.intent.action.VIEW
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:421:17-69
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:421:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:423:17-76
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:423:27-73
+category#android.intent.category.BROWSABLE
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:424:17-78
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:424:27-75
+data
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:427:17-59
+	android:scheme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:427:23-56
+activity#com.tencent.connect.common.AssistActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:430:9-433:75
+	android:screenOrientation
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:432:13-49
+	android:theme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:433:13-72
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:431:13-69
+service#com.lvshandian.partylive.service.MyPushIntentService
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:435:9-64
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:435:18-61
+activity#com.umeng.socialize.view.CommentActivity
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:441:9-444:54
+	android:configChanges
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:443:13-57
+	android:theme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:444:13-51
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:442:13-68
+activity#com.umeng.socialize.view.CommentDetail
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:445:9-449:54
+	android:noHistory
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:448:13-37
+	android:configChanges
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:447:13-57
+	android:theme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:449:13-51
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:446:13-66
+activity#com.umeng.socialize.view.CommentDetailNoMap
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:450:9-454:54
+	android:noHistory
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:453:13-37
+	android:configChanges
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:452:13-57
+	android:theme
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:454:13-51
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:451:13-71
+meta-data#com.netease.nim.appKey
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:463:9-465:64
+	android:value
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:465:13-61
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:464:13-50
+service#com.netease.nimlib.service.NimService
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:468:9-470:39
+	android:process
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:470:13-36
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:469:13-65
+service#com.netease.nimlib.service.NimService$Aux
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:471:9-473:39
+	android:process
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:473:13-36
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:472:13-69
+receiver#com.netease.nimlib.service.NimReceiver
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:479:9-487:20
+	android:process
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:482:13-36
+	android:exported
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:481:13-37
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:480:13-66
+intent-filter#android.intent.action.BOOT_COMPLETED+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:483:13-486:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:484:17-79
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:484:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:485:17-79
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:485:25-76
+receiver#com.netease.nimlib.service.ResponseReceiver
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:490:9-80
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:490:19-77
+service#com.netease.cosine.core.CosineService
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:493:9-495:41
+	android:process
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:495:13-38
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:494:13-65
+receiver#com.netease.cosine.target.CosineReceiver
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:497:9-500:41
+	android:process
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:500:13-38
+	android:exported
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:499:13-36
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:498:13-68
+meta-data#com.netease.cosine.target
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:502:9-504:32
+	android:value
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:504:13-29
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:503:13-53
+meta-data#com.netease.cosine.target.receiver
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:505:9-507:70
+	android:value
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:507:13-67
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:506:13-62
+meta-data#com.google.android.gms.version
+ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:512:9-514:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:514:13-66
+	android:name
+		ADDED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml:513:13-58
+uses-sdk
+INJECTED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [:SMSSDK-2.1.3:] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\SMSSDK-2.1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [:SMSSDKGUI-2.1.3:] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\SMSSDKGUI-2.1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.zhy:autolayout:1.4.5] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.zhy\autolayout\1.4.5\AndroidManifest.xml:8:5-10:41
+MERGED from [org.xutils:xutils:3.3.36] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\org.xutils\xutils\3.3.36\AndroidManifest.xml:8:5-10:41
+MERGED from [org.kymjs.kjframe:kjframe:2.6] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\org.kymjs.kjframe\kjframe\2.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.johnkil.android-appmsg:appmsg:1.2.0] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.github.johnkil.android-appmsg\appmsg\1.2.0\AndroidManifest.xml:3:5-72
+MERGED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:24.2.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.zhy:okhttputils:2.0.0] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [partylive:wechatRecoderVideoLibrary:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\wechatRecoderVideoLibrary\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [partylive:vitamioRecorderLibrary:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\vitamioRecorderLibrary\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.cjj.materialrefeshlayout:library:1.3.0] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.cjj.materialrefeshlayout\library\1.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.2.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [in.srain.cube:ultra-ptr:1.0.11] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\in.srain.cube\ultra-ptr\1.0.11\AndroidManifest.xml:7:5-9:41
+MERGED from [com.qiniu.pili:pili-android-qos:0.8.16] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.qiniu.pili\pili-android-qos\0.8.16\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\partylive\paartylive_android\partylive\app\src\main\AndroidManifest.xml
+activity#com.netease.nim.uikit.session.activity.P2PMessageActivity
+ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:16:9-21:70
+	android:screenOrientation
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:19:13-49
+	android:windowSoftInputMode
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:21:13-67
+	android:configChanges
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:18:13-63
+	android:theme
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:17:13-85
+activity#com.netease.nim.uikit.session.activity.TeamMessageActivity
+ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:22:9-27:70
+	android:screenOrientation
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:25:13-49
+	android:windowSoftInputMode
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:27:13-67
+	android:configChanges
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:24:13-63
+	android:theme
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:23:13-86
+activity#com.netease.nim.uikit.team.activity.NormalTeamInfoActivity
+ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:30:9-35:70
+	android:screenOrientation
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:33:13-49
+	android:windowSoftInputMode
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:35:13-67
+	android:configChanges
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:32:13-63
+	android:theme
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:31:13-86
+activity#com.netease.nim.uikit.team.activity.FollowListForGroupUikitActivity
+ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:37:9-42:70
+	android:screenOrientation
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:40:13-49
+	android:windowSoftInputMode
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:42:13-67
+	android:configChanges
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:39:13-63
+	android:theme
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:41:13-56
+	android:name
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:38:13-95
+activity#com.netease.nim.uikit.team.activity.AdvancedTeamInfoActivity
+ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:43:9-48:70
+	android:screenOrientation
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:46:13-49
+	android:windowSoftInputMode
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:48:13-67
+	android:configChanges
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:45:13-63
+	android:theme
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:44:13-88
+activity#com.netease.nim.uikit.team.activity.AdvancedTeamMemberActivity
+ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:49:9-54:70
+	android:screenOrientation
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:52:13-49
+	android:windowSoftInputMode
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:54:13-67
+	android:configChanges
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:51:13-63
+	android:theme
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:53:13-56
+	android:name
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:50:13-90
+activity#com.netease.nim.uikit.team.activity.AdvancedTeamAnnounceActivity
+ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:55:9-60:70
+	android:screenOrientation
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:58:13-49
+	android:windowSoftInputMode
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:60:13-67
+	android:configChanges
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:57:13-63
+	android:theme
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:59:13-56
+	android:name
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:56:13-92
+activity#com.netease.nim.uikit.team.activity.AdvancedTeamMemberInfoActivity
+ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:61:9-66:70
+	android:screenOrientation
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:64:13-49
+	android:windowSoftInputMode
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:66:13-67
+	android:configChanges
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:63:13-63
+	android:theme
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:65:13-56
+	android:name
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:62:13-94
+activity#com.netease.nim.uikit.team.activity.AdvancedTeamNicknameActivity
+ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:67:9-72:70
+	android:screenOrientation
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:70:13-49
+	android:windowSoftInputMode
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:72:13-67
+	android:configChanges
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:69:13-63
+	android:theme
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:71:13-56
+	android:name
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:68:13-92
+activity#com.netease.nim.uikit.team.activity.AdvancedTeamCreateAnnounceActivity
+ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:73:9-78:70
+	android:screenOrientation
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:76:13-49
+	android:windowSoftInputMode
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:78:13-67
+	android:configChanges
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:75:13-63
+	android:theme
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:77:13-56
+	android:name
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:74:13-98
+activity#com.netease.nim.uikit.team.activity.TeamPropertySettingActivity
+ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:79:9-84:70
+	android:screenOrientation
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:82:13-49
+	android:windowSoftInputMode
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:84:13-67
+	android:configChanges
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:81:13-63
+	android:theme
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:83:13-56
+	android:name
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:80:13-91
+activity#com.netease.nim.uikit.contact_selector.activity.ContactSelectActivity
+ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:87:9-93:67
+	android:screenOrientation
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:91:13-49
+	android:label
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:90:13-53
+	android:windowSoftInputMode
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:93:13-64
+	android:configChanges
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:89:13-63
+	android:theme
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:92:13-56
+	android:name
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:88:13-97
+activity#com.netease.nim.uikit.common.media.picker.activity.PickImageActivity
+ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:96:9-99:59
+	android:screenOrientation
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:98:13-49
+	android:theme
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:99:13-56
+	android:name
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:97:13-96
+activity#com.netease.nim.uikit.common.media.picker.activity.CropImageActivity
+ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:100:9-103:59
+	android:screenOrientation
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:102:13-49
+	android:theme
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:103:13-56
+	android:name
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:101:13-96
+activity#com.netease.nim.uikit.common.media.picker.activity.PickerAlbumActivity
+ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:104:9-107:59
+	android:screenOrientation
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:106:13-49
+	android:theme
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:107:13-56
+	android:name
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:105:13-98
+activity#com.netease.nim.uikit.common.media.picker.activity.PickerAlbumPreviewActivity
+ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:108:9-111:59
+	android:screenOrientation
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:110:13-49
+	android:theme
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:111:13-56
+	android:name
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:109:13-105
+activity#com.netease.nim.uikit.common.media.picker.activity.PreviewImageFromLocalActivity
+ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:112:9-117:70
+	android:screenOrientation
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:115:13-49
+	android:windowSoftInputMode
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:117:13-67
+	android:configChanges
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:114:13-63
+	android:theme
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:116:13-56
+	android:name
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:113:13-108
+activity#com.netease.nim.uikit.common.media.picker.activity.PreviewImageFromCameraActivity
+ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:118:9-124:70
+	android:screenOrientation
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:122:13-49
+	android:label
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:121:13-53
+	android:windowSoftInputMode
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:124:13-67
+	android:configChanges
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:120:13-63
+	android:theme
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:123:13-56
+	android:name
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:119:13-109
+activity#com.netease.nim.uikit.session.activity.CaptureVideoActivity
+ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:127:9-132:70
+	android:screenOrientation
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:130:13-49
+	android:windowSoftInputMode
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:132:13-67
+	android:configChanges
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:129:13-63
+	android:theme
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:131:13-56
+	android:name
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:128:13-87
+activity#com.netease.nim.uikit.session.activity.WatchVideoActivity
+ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:133:9-137:48
+	android:label
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:136:13-47
+	android:configChanges
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:135:13-74
+	android:theme
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:137:13-45
+	android:name
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:134:13-85
+activity#com.netease.nim.uikit.session.activity.WatchMessagePictureActivity
+ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:140:9-143:59
+	android:configChanges
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:142:13-51
+	android:theme
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:143:13-56
+	android:name
+		ADDED from [partylive:uikit:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\uikit\unspecified\AndroidManifest.xml:141:13-94
+activity#com.maiml.wechatrecodervideolibrary.recoder.WechatRecoderActivity
+ADDED from [partylive:wechatRecoderVideoLibrary:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\wechatRecoderVideoLibrary\unspecified\AndroidManifest.xml:15:9-21:50
+	android:screenOrientation
+		ADDED from [partylive:wechatRecoderVideoLibrary:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\wechatRecoderVideoLibrary\unspecified\AndroidManifest.xml:20:13-49
+	android:hardwareAccelerated
+		ADDED from [partylive:wechatRecoderVideoLibrary:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\wechatRecoderVideoLibrary\unspecified\AndroidManifest.xml:18:13-47
+	android:launchMode
+		ADDED from [partylive:wechatRecoderVideoLibrary:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\wechatRecoderVideoLibrary\unspecified\AndroidManifest.xml:19:13-43
+	android:configChanges
+		ADDED from [partylive:wechatRecoderVideoLibrary:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\wechatRecoderVideoLibrary\unspecified\AndroidManifest.xml:17:13-74
+	android:theme
+		ADDED from [partylive:wechatRecoderVideoLibrary:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\wechatRecoderVideoLibrary\unspecified\AndroidManifest.xml:21:13-47
+	android:name
+		ADDED from [partylive:wechatRecoderVideoLibrary:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\wechatRecoderVideoLibrary\unspecified\AndroidManifest.xml:16:13-93
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:12:22-70
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.BROADCAST_PACKAGE_ADDED
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:26:22-79
+uses-permission#android.permission.BROADCAST_PACKAGE_CHANGED
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:27:5-84
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:27:22-81
+uses-permission#android.permission.BROADCAST_PACKAGE_INSTALL
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:28:5-84
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:28:22-81
+uses-permission#android.permission.BROADCAST_PACKAGE_REPLACED
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:29:5-85
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:29:22-82
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:30:5-75
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:30:22-72
+uses-permission#android.permission.SEND_SMS
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:33:5-67
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:33:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:34:5-70
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:34:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:35:5-67
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:35:22-64
+receiver#com.umeng.message.NotificationProxyBroadcastReceiver
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:38:9-41:20
+	android:exported
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:39:13-80
+receiver#com.umeng.message.SystemReceiver
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:42:9-56:20
+	android:process
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:44:13-36
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:43:13-60
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:45:13-47:29
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:48:13-50:29
+intent-filter#android.intent.action.PACKAGE_REMOVED
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:51:13-55:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:52:17-80
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:52:25-77
+receiver#com.umeng.message.MessageReceiver
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:57:9-64:20
+	android:process
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:60:13-36
+	android:exported
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:59:13-37
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:58:13-61
+intent-filter#org.agoo.android.intent.action.RECEIVE
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:61:13-63:29
+action#org.agoo.android.intent.action.RECEIVE
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:62:17-81
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:62:25-78
+receiver#com.umeng.message.ElectionReceiver
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:65:9-73:20
+	android:process
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:67:13-36
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:66:13-62
+intent-filter#org.agoo.android.intent.action.ELECTION_RESULT_V4+umeng
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:68:13-72:29
+action#org.agoo.android.intent.action.ELECTION_RESULT_V4
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:69:17-92
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:69:25-89
+category#umeng
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:71:17-50
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:71:27-47
+receiver#com.umeng.message.RegistrationReceiver
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:74:9-80:20
+	android:exported
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:76:13-37
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:75:13-66
+intent-filter#${applicationId}.intent.action.COMMAND
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:77:13-79:29
+action#${applicationId}.intent.action.COMMAND
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:78:17-81
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:78:25-78
+receiver#com.umeng.message.UmengMessageBootReceiver
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:81:9-85:20
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:81:19-76
+service#com.umeng.message.UmengService
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:87:9-103:19
+	android:process
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:91:13-36
+	android:label
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:90:13-40
+	android:exported
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:89:13-36
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:88:13-58
+intent-filter#${applicationId}.intent.action.START
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:92:13-94:29
+action#${applicationId}.intent.action.START
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:93:17-79
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:93:25-76
+intent-filter#${applicationId}.intent.action.COCKROACH
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:95:13-97:29
+action#${applicationId}.intent.action.COCKROACH
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:96:25-80
+intent-filter#org.agoo.android.intent.action.PING_V4+umeng
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:98:13-102:29
+action#org.agoo.android.intent.action.PING_V4
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:99:17-81
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:99:25-78
+service#com.umeng.message.UmengIntentService
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:104:9-106:39
+	android:process
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:106:13-36
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:105:13-64
+service#com.umeng.message.UmengMessageIntentReceiverService
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:107:9-117:19
+	android:process
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:110:13-36
+	android:exported
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:109:13-36
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:108:13-79
+intent-filter#org.android.agoo.client.MessageReceiverService
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:111:13-113:29
+action#org.android.agoo.client.MessageReceiverService
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:112:17-89
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:112:25-86
+intent-filter#org.android.agoo.client.ElectionReceiverService
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:114:13-116:29
+action#org.android.agoo.client.ElectionReceiverService
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:115:17-90
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:115:25-87
+service#com.umeng.message.UmengMessageCallbackHandlerService
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:118:9-133:19
+	android:exported
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:120:13-37
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:119:13-80
+intent-filter#com.umeng.messge.registercallback.action
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:121:13-123:29
+action#com.umeng.messge.registercallback.action
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:122:17-83
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:122:25-80
+intent-filter#com.umeng.message.unregistercallback.action
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:124:13-126:29
+action#com.umeng.message.unregistercallback.action
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:125:17-86
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:125:25-83
+intent-filter#com.umeng.message.message.handler.action
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:127:13-129:29
+action#com.umeng.message.message.handler.action
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:128:17-83
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:128:25-80
+intent-filter#com.umeng.message.autoupdate.handler.action
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:130:13-132:29
+action#com.umeng.message.autoupdate.handler.action
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:131:17-86
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:131:25-83
+service#com.umeng.message.UmengDownloadResourceService
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:136:9-138:40
+	android:exported
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:138:13-37
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:137:13-74
+service#com.umeng.message.local.UmengLocalNotificationService
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:139:9-141:40
+	android:exported
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:141:13-37
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:140:13-81
+receiver#com.umeng.message.NetworkReceiver
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:143:9-147:20
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:143:19-67
+service#com.umeng.message.UmengLocationService
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:149:9-155:19
+	android:exported
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:151:13-37
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:150:13-66
+intent-filter#com.umeng.message.lbs.action
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:152:13-154:29
+action#com.umeng.message.lbs.action
+ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:153:17-71
+	android:name
+		ADDED from [partylive:PushSDK:unspecified] E:\Android\partylive\paartylive_android\partylive\app\build\intermediates\exploded-aar\partylive\PushSDK\unspecified\AndroidManifest.xml:153:25-68

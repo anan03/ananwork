@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.umeng.message_v2.8.1L_Beta">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PushSDK/libs/com.umeng.message_v2.8.1L_Beta.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

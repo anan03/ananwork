@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="andpermission">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/main/jniLibs/andpermission.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

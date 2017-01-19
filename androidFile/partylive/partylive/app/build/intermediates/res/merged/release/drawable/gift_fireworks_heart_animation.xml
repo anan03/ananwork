@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="100" android:drawable="@drawable/fireworks_5"></item>
+    <item android:duration="100" android:drawable="@drawable/fireworks_8"></item>
+    <item android:duration="100" android:drawable="@drawable/fireworks_9"></item>
+    <item android:duration="100" android:drawable="@drawable/fireworks_flower1"></item>
+    <item android:duration="100" android:drawable="@drawable/fireworks_flower2"></item>
+    <item android:duration="100" android:drawable="@drawable/fireworks_flower3"></item>
+    <item android:duration="100" android:drawable="@drawable/fireworks_flower4"></item>
+
+
+    <item android:duration="100" android:drawable="@drawable/gift_heart_4"></item>
+    <item android:duration="100" android:drawable="@drawable/gift_heart_7"></item>
+    <item android:duration="100" android:drawable="@drawable/gift_heart_10"></item>
+    <item android:duration="100" android:drawable="@drawable/gift_heart_13"></item>
+    <item android:duration="100" android:drawable="@drawable/gift_heart_16"></item>
+    <item android:duration="100" android:drawable="@drawable/gift_heart_19"></item>
+    <item android:duration="100" android:drawable="@drawable/gift_heart_20"></item>
+
+</animation-list>

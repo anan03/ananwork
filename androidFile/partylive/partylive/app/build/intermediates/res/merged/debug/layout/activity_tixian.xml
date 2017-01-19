@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:fitsSystemWindows="true"
+    android:clipToPadding="true"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <!--title-->
+    <include layout="@layout/title_bar" />
+
+    <ImageView
+        android:layout_marginTop="160px"
+        android:src="@mipmap/me_harvest_binding"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:gravity="center"
+        android:text="已关注公众号,请等待数据同步,此过程大概需要半小时"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</com.zhy.autolayout.AutoLinearLayout>

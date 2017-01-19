@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/johnkil/Documents/Android-AppMsg/library/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="alert">#CC0000</color>
+    <color name="confirm">#FF8800</color>
+    <color name="info">#669900</color>
+
+</resources>

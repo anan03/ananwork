@@ -1,0 +1,4 @@
+int color alert 0x7f030000
+int color confirm 0x7f030001
+int color info 0x7f030002
+int layout app_msg 0x7f020000

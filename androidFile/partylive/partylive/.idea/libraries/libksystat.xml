@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libksystat">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/main/jniLibs/libksystat.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

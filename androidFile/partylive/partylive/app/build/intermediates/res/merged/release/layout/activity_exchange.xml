@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:clipToPadding="true"
+    android:orientation="vertical">
+
+    <include layout="@layout/title_bar" />
+
+    <!--头像和用户名-->
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="15px"
+        android:paddingLeft="10px"
+        android:paddingTop="15px">
+
+        <com.lvshandian.partylive.widget.AvatarView
+            android:id="@+id/av_image"
+            android:layout_width="120px"
+            android:layout_height="120px" />
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:orientation="vertical"
+            android:paddingLeft="30px">
+
+            <TextView
+                android:id="@+id/tv_user_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="35px" />
+
+            <com.zhy.autolayout.AutoLinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25px">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="金票:"
+                    android:textSize="25px" />
+
+                <TextView
+                    android:id="@+id/tv_gold_coin"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="0"
+                    android:paddingLeft="8px"
+                    android:textColor="@color/khaki"
+                    android:textSize="25px" />
+            </com.zhy.autolayout.AutoLinearLayout>
+        </com.zhy.autolayout.AutoLinearLayout>
+    </com.zhy.autolayout.AutoLinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="20px"
+        android:paddingLeft="15px"
+        android:paddingTop="20px"
+        android:text="兑换金币" />
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:paddingBottom="15px"
+        android:paddingLeft="10px"
+        android:paddingTop="15px">
+
+        <ImageView
+            android:layout_width="40px"
+            android:layout_height="40px"
+            android:src="@mipmap/rechage_icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="30px"
+            android:text="× 50" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="2" />
+
+        <Button
+            android:id="@+id/btn_100"
+            android:layout_width="180px"
+            android:layout_height="60px"
+            android:background="@drawable/selector_textbtn_sloid"
+            android:text="100 金票"
+            android:textColor="@color/selector_text_color" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="1" />
+
+    </com.zhy.autolayout.AutoLinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/line" />
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:paddingBottom="15px"
+        android:paddingLeft="10px"
+        android:paddingTop="15px">
+
+        <ImageView
+            android:layout_width="40px"
+            android:layout_height="40px"
+            android:src="@mipmap/rechage_icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="30px"
+            android:text="× 150" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="2" />
+
+        <Button
+            android:id="@+id/btn_300"
+            android:layout_width="180px"
+            android:layout_height="60px"
+            android:background="@drawable/selector_textbtn_sloid"
+            android:text="300 金票"
+            android:textColor="@color/selector_text_color" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="1" />
+
+    </com.zhy.autolayout.AutoLinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/line" />
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:paddingBottom="15px"
+        android:paddingLeft="10px"
+        android:paddingTop="15px">
+
+        <ImageView
+            android:layout_width="40px"
+            android:layout_height="40px"
+            android:src="@mipmap/rechage_icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="30px"
+            android:text="× 250" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="2" />
+
+        <Button
+            android:id="@+id/btn_500"
+            android:layout_width="180px"
+            android:layout_height="60px"
+            android:background="@drawable/selector_textbtn_sloid"
+            android:text="500 金票"
+            android:textColor="@color/selector_text_color" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="1" />
+
+    </com.zhy.autolayout.AutoLinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/line" />
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:paddingBottom="15px"
+        android:paddingLeft="10px"
+        android:paddingTop="15px">
+
+        <ImageView
+            android:layout_width="40px"
+            android:layout_height="40px"
+            android:src="@mipmap/rechage_icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="30px"
+            android:text="× 500" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="2" />
+
+        <Button
+            android:id="@+id/btn_1000"
+            android:layout_width="180px"
+            android:layout_height="60px"
+            android:background="@drawable/selector_textbtn_sloid"
+            android:text="1000 金票"
+            android:textColor="@color/selector_text_color" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="1" />
+
+    </com.zhy.autolayout.AutoLinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/line" />
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:paddingBottom="15px"
+        android:paddingLeft="10px"
+        android:paddingTop="15px">
+
+        <ImageView
+            android:layout_width="40px"
+            android:layout_height="40px"
+            android:src="@mipmap/rechage_icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="30px"
+            android:text="× 1000" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="2" />
+
+        <Button
+            android:id="@+id/btn_2000"
+            android:layout_width="180px"
+            android:layout_height="60px"
+            android:background="@drawable/selector_textbtn_sloid"
+            android:text="2000 金票"
+            android:textColor="@color/selector_text_color" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="1" />
+
+    </com.zhy.autolayout.AutoLinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/line" />
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:paddingBottom="15px"
+        android:paddingLeft="10px"
+        android:paddingTop="15px">
+
+        <ImageView
+            android:layout_width="40px"
+            android:layout_height="40px"
+            android:src="@mipmap/rechage_icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="30px"
+            android:text="× 2500" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="2" />
+
+        <Button
+            android:id="@+id/btn_5000"
+            android:layout_width="180px"
+            android:layout_height="60px"
+            android:background="@drawable/selector_textbtn_sloid"
+            android:text="5000 金票"
+            android:textColor="@color/selector_text_color" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="1" />
+
+    </com.zhy.autolayout.AutoLinearLayout>
+
+    <!--温馨提示-->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10px"
+        android:paddingTop="15px"
+        android:text="温馨提示:" />
+
+    <TextView
+        android:paddingLeft="10px"
+        android:paddingTop="15px"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1.金票可以重新兑换为金币兑换比例为2:1"
+        android:id="@+id/textView" />
+
+    <TextView
+        android:paddingLeft="10px"
+        android:paddingTop="15px"
+        android:layout_width="wrap_content"
+        android:layout_marginBottom="180px"
+        android:layout_height="wrap_content"
+        android:text="2.人民币和金币兑换比例为1:10" />
+</com.zhy.autolayout.AutoLinearLayout>
