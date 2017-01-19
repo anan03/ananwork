@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:clipToPadding="true"
+    android:orientation="vertical">
+
+    <include layout="@layout/title_bar" />
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200px"
+        android:background="@color/cccccccolor"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_my_ydcode"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20px"
+            android:gravity="center_horizontal"
+            android:padding="10px"
+            android:text="我的邀请码:875465"
+            android:textColor="@color/btn_color"
+            android:textSize="40px" />
+
+
+        <Button
+            android:id="@+id/btn_invite"
+            android:layout_width="380px"
+            android:layout_height="80px"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10px"
+            android:background="@drawable/selector_btn"
+            android:text="邀请"
+            android:textColor="@color/selector_text_btn"
+            android:textSize="30px" />
+
+    </com.zhy.autolayout.AutoLinearLayout>
+
+    <com.lvshandian.partylive.lib.cjj.MaterialRefreshLayout
+        android:id="@+id/mrl_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ListView
+            android:id="@+id/lv_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </com.lvshandian.partylive.lib.cjj.MaterialRefreshLayout>
+
+
+</com.zhy.autolayout.AutoLinearLayout>

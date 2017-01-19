@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:hehe="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.zhy.autolayout.AutoRelativeLayout
+        android:id="@+id/tab_title_RelativeLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="100px"
+        android:background="@color/global"
+        android:paddingLeft="30px"
+        android:paddingRight="0px">
+
+        <ImageView
+            android:id="@+id/iv_hot_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:src="@mipmap/search" />
+
+        <FrameLayout
+            android:layout_width="600px"
+            android:layout_height="100px"
+            android:layout_centerInParent="true"
+            android:gravity="center">
+
+            <com.lvshandian.partylive.widget.PagerSlidingTabStrip
+                android:id="@+id/tabs"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </FrameLayout>
+
+        <com.zhy.autolayout.AutoRelativeLayout
+            android:id="@+id/iv_hot_private_chat"
+            android:layout_width="80px"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:paddingRight="30px">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@mipmap/sixinchat" />
+
+            <ImageView
+                android:id="@+id/tab_new_indicator"
+                android:layout_width="20px"
+                android:layout_height="20px"
+                android:contentDescription="@string/empty"
+                android:src="@drawable/nim_main_tab_new_message_notify"
+                android:visibility="gone" />
+
+            <com.netease.nim.uikit.common.ui.drop.DropFake
+                android:id="@+id/tab_new_msg_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20px"
+                android:layout_marginRight="20px"
+                android:singleLine="true"
+                android:textColor="@android:color/white"
+                android:textSize="10sp"
+                android:visibility="visible" />
+        </com.zhy.autolayout.AutoRelativeLayout>
+    </com.zhy.autolayout.AutoRelativeLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/mviewpager"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/tab_title_RelativeLayout" />
+
+    <com.netease.nim.uikit.common.ui.drop.DropCover
+        android:id="@+id/unread_cover"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="invisible" />
+
+</com.zhy.autolayout.AutoRelativeLayout>

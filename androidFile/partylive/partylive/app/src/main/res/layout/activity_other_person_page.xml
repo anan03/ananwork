@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+    <!--其他人主页-->
+    <include layout="@layout/title_bar" />
+
+    <com.zhy.autolayout.AutoRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="150px"
+        android:background="@color/main">
+
+        <com.zhy.autolayout.AutoRelativeLayout
+            android:id="@+id/top"
+            android:layout_width="165px"
+            android:layout_height="140px"
+            android:layout_centerInParent="true"
+            android:background="@color/main">
+
+            <com.lvshandian.partylive.widget.AvatarView
+                android:id="@+id/av_header"
+                android:layout_width="140px"
+                android:layout_height="140px"
+                android:layout_centerInParent="true"
+                android:src="@mipmap/app_icon" />
+
+            <ImageView
+                android:id="@+id/iv_sex"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:src="@mipmap/nv" />
+
+            <ImageView
+                android:id="@+id/iv_grade"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:src="@mipmap/rank_1" />
+        </com.zhy.autolayout.AutoRelativeLayout>
+
+    </com.zhy.autolayout.AutoRelativeLayout>
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="@color/main"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10px"
+            android:textColor="@color/white"
+            android:textSize="34px" />
+
+        <TextView
+            android:id="@+id/tv_sign"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10px"
+            android:textColor="@color/white"
+            android:textSize="34px" />
+
+    </com.zhy.autolayout.AutoLinearLayout>
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="@color/main"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:paddingBottom="25px"
+        android:paddingTop="50px">
+
+        <TextView
+            android:id="@+id/tv_fanse"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="25px"
+            android:text="粉丝 0"
+            android:textColor="@color/white"
+            android:textSize="34px" />
+
+        <TextView
+            android:id="@+id/tv_foucs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="25px"
+            android:text="关注 0"
+            android:textColor="@color/white"
+            android:textSize="34px" />
+
+    </com.zhy.autolayout.AutoLinearLayout>
+
+    <com.lvshandian.partylive.widget.PagerSlidingTabStrip
+        android:id="@+id/pst_indicator"
+        android:layout_width="match_parent"
+        android:layout_height="88px"
+        android:background="@color/cccccccolor">
+
+    </com.lvshandian.partylive.widget.PagerSlidingTabStrip>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_pager"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70px"
+        android:layout_marginBottom="10px"
+        android:orientation="horizontal"
+        android:paddingLeft="25px"
+        android:paddingRight="25px">
+
+        <Button
+            android:id="@+id/btn_focus"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/shape_btn_sloid"
+            android:text="未关注"
+            android:textColor="@color/white"
+            android:textSize="30px" />
+
+        <View
+            android:layout_width="15px"
+            android:layout_height="match_parent"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/btn_video"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/shape_btn_sloid"
+            android:text="视频"
+            android:textColor="@color/white"
+            android:textSize="30px"
+            android:visibility="gone" />
+
+        <View
+            android:layout_width="15px"
+            android:layout_height="match_parent" />
+
+        <Button
+            android:id="@+id/btn_talk"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/shape_btn_sloid"
+            android:text="聊天"
+            android:textColor="@color/white"
+            android:textSize="30px" />
+
+        <View
+            android:layout_width="15px"
+            android:layout_height="match_parent" />
+
+        <Button
+            android:id="@+id/btn_black"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/shape_btn_sloid"
+            android:text="拉黑"
+            android:textColor="@color/white"
+            android:textSize="30px" />
+    </com.zhy.autolayout.AutoLinearLayout>
+</com.zhy.autolayout.AutoLinearLayout>

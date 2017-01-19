@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="125dp"
+    android:layout_height="125dp"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <com.lvshandian.partylive.widget.AvatarView
+        android:id="@+id/il_live_family_head"
+        android:layout_width="80px"
+        android:layout_height="80px"
+        android:layout_gravity="center"
+        android:src="@mipmap/app_icon"
+        app:border_color="@color/main"
+        app:border_width="1dip" />
+
+    <TextView
+        android:id="@+id/il_live_family_nick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10px"
+        android:singleLine="true"
+        android:textColor="@color/white"
+        android:textSize="30px" />
+
+</com.zhy.autolayout.AutoLinearLayout>

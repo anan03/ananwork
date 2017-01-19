@@ -1,0 +1,32 @@
+apply plugin: 'com.android.library'
+
+android {
+    useLibrary 'org.apache.http.legacy'
+
+//    compileSdkVersion 23
+//    buildToolsVersion buildToolsVer
+    compileSdkVersion 24
+    buildToolsVersion "24.0.1"
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res', 'res-ptr']
+            assets.srcDirs = ['assets']
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:design:24.2.1'
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile fileTree(include: '*.jar', dir: 'libs')
+    compile files('libs/nim-basesdk-3.1.0.jar')
+    compile 'com.zhy:okhttputils:2.0.0'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+}

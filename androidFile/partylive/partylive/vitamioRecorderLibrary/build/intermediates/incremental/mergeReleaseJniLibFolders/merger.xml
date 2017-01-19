@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\Android\partylive\paartylive_android\partylive\vitamioRecorderLibrary\src\main\jniLibs"><file name="armeabi-v7a/libutility.so" path="E:\Android\partylive\paartylive_android\partylive\vitamioRecorderLibrary\src\main\jniLibs\armeabi-v7a\libutility.so"/></source></dataSet><dataSet config="release"><source path="E:\Android\partylive\paartylive_android\partylive\vitamioRecorderLibrary\src\release\jniLibs"/></dataSet></merger>

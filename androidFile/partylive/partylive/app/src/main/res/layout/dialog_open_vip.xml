@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_round_dialog"
+    android:orientation="vertical">
+
+    <com.zhy.autolayout.AutoRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="选择VIP开通期限"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/iv_x"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:paddingBottom="25px"
+            android:paddingLeft="20px"
+            android:paddingRight="20px"
+            android:paddingTop="25px"
+            android:src="@mipmap/x" />
+    </com.zhy.autolayout.AutoRelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/line" />
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="25px"
+        android:paddingLeft="30px"
+        android:paddingRight="30px"
+        android:paddingTop="25px">
+
+        <TextView
+            android:layout_width="120px"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="1个月"
+            android:textSize="12sp" />
+
+        <ImageView
+            android:layout_width="40px"
+            android:layout_height="40px"
+            android:layout_gravity="center_vertical"
+            android:src="@mipmap/rechage_icon" />
+
+        <TextView
+            android:layout_width="120px"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="5px"
+            android:text="× 500"
+            android:textSize="12sp" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="3" />
+
+        <Button
+            android:id="@+id/btn_500"
+            android:layout_width="wrap_content"
+            android:layout_height="80px"
+            android:background="@drawable/selector_btn"
+            android:text="确认"
+            android:textColor="@color/selector_text_btn" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="2" />
+    </com.zhy.autolayout.AutoLinearLayout>
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="25px"
+        android:paddingLeft="30px"
+        android:paddingRight="30px"
+        android:paddingTop="25px">
+
+        <TextView
+            android:layout_width="120px"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="3个月"
+            android:textSize="12sp" />
+
+        <ImageView
+            android:layout_width="40px"
+            android:layout_height="40px"
+            android:layout_gravity="center_vertical"
+            android:src="@mipmap/rechage_icon" />
+
+        <TextView
+            android:layout_width="120px"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="5px"
+            android:text="× 1300"
+            android:textSize="12sp" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="3" />
+
+        <Button
+            android:id="@+id/btn_1300"
+            android:layout_width="wrap_content"
+            android:layout_height="80px"
+            android:background="@drawable/selector_btn"
+            android:text="确认"
+            android:textColor="@color/selector_text_btn" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="2" />
+    </com.zhy.autolayout.AutoLinearLayout>
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="25px"
+        android:paddingLeft="30px"
+        android:paddingRight="30px"
+        android:paddingTop="25px">
+
+        <TextView
+            android:layout_width="120px"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="6个月"
+            android:textSize="12sp" />
+
+        <ImageView
+            android:layout_width="40px"
+            android:layout_height="40px"
+            android:layout_gravity="center_vertical"
+            android:src="@mipmap/rechage_icon" />
+
+        <TextView
+            android:layout_width="120px"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="5px"
+            android:text="× 2300"
+            android:textSize="12sp" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="3" />
+
+        <Button
+            android:id="@+id/btn_2300"
+            android:layout_width="wrap_content"
+            android:layout_height="80px"
+            android:background="@drawable/selector_btn"
+            android:text="确认"
+            android:textColor="@color/selector_text_btn" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="2" />
+    </com.zhy.autolayout.AutoLinearLayout>
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="25px"
+        android:paddingLeft="30px"
+        android:paddingRight="30px"
+        android:paddingTop="25px">
+
+        <TextView
+            android:layout_width="120px"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="12个月"
+            android:textSize="12sp" />
+
+        <ImageView
+            android:layout_width="40px"
+            android:layout_height="40px"
+            android:layout_gravity="center_vertical"
+            android:src="@mipmap/rechage_icon" />
+
+        <TextView
+            android:layout_width="120px"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="5px"
+            android:text="× 4000"
+            android:textSize="12sp" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="3" />
+
+        <Button
+            android:id="@+id/btn_4000"
+            android:layout_width="wrap_content"
+            android:layout_height="80px"
+            android:background="@drawable/selector_btn"
+            android:text="确认"
+            android:textColor="@color/selector_text_btn" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="2" />
+    </com.zhy.autolayout.AutoLinearLayout>
+</com.zhy.autolayout.AutoLinearLayout>

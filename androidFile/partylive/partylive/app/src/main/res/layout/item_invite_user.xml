@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="horizontal"
+    android:padding="8px">
+    <!--邀请好友页面:邀请人列表item布局-->
+    <ImageView
+        android:id="@+id/iv_header"
+        android:layout_width="90px"
+        android:layout_height="90px" />
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawablePadding="3px"
+                android:drawableRight="@mipmap/female"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/tv_star"
+                android:layout_width="60px"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="12px"
+                android:background="@drawable/shape_green_square"
+                android:drawableLeft="@mipmap/eidt"
+                android:drawablePadding="3px"
+                android:paddingBottom="2px"
+                android:paddingLeft="2px"
+                android:paddingRight="2px"
+                android:paddingTop="2px"
+                android:text="1"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:id="@+id/tv_recive_coin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="15px"
+                android:textColor="@color/black" />
+
+
+            <TextView
+                android:id="@+id/tv_use_coin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="15px"
+                android:textColor="@color/black" />
+        </com.zhy.autolayout.AutoLinearLayout>
+
+        <TextView
+            android:id="@+id/tv_sign"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5px"
+            android:textColor="@color/gray" />
+    </com.zhy.autolayout.AutoLinearLayout>
+</com.zhy.autolayout.AutoLinearLayout>

@@ -1,0 +1,107 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* debug.keystore
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:23.+
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => social_sdk_example\src\main\AndroidManifest.xml
+* libs\arm64-v8a\libweibosdkcore.so => social_sdk_example\src\main\jniLibs\arm64-v8a\libweibosdkcore.so
+* libs\armeabi-v7a\libweibosdkcore.so => social_sdk_example\src\main\jniLibs\armeabi-v7a\libweibosdkcore.so
+* libs\armeabi\libweibosdkcore.so => social_sdk_example\src\main\jniLibs\armeabi\libweibosdkcore.so
+* libs\libapshare.jar => social_sdk_example\libs\libapshare.jar
+* libs\mips64\libweibosdkcore.so => social_sdk_example\src\main\jniLibs\mips64\libweibosdkcore.so
+* libs\mips\libweibosdkcore.so => social_sdk_example\src\main\jniLibs\mips\libweibosdkcore.so
+* libs\mta-sdk-1.6.2.jar => social_sdk_example\libs\mta-sdk-1.6.2.jar
+* libs\open_sdk_r5509.jar => social_sdk_example\libs\open_sdk_r5509.jar
+* libs\SocialSDK_alipay.jar => social_sdk_example\libs\SocialSDK_alipay.jar
+* libs\SocialSDK_douban.jar => social_sdk_example\libs\SocialSDK_douban.jar
+* libs\SocialSDK_email.jar => social_sdk_example\libs\SocialSDK_email.jar
+* libs\SocialSDK_evernote.jar => social_sdk_example\libs\SocialSDK_evernote.jar
+* libs\SocialSDK_facebook_1.jar => social_sdk_example\libs\SocialSDK_facebook_1.jar
+* libs\SocialSDK_facebook_2.jar => social_sdk_example\libs\SocialSDK_facebook_2.jar
+* libs\SocialSDK_flickr.jar => social_sdk_example\libs\SocialSDK_flickr.jar
+* libs\SocialSDK_foursquare.jar => social_sdk_example\libs\SocialSDK_foursquare.jar
+* libs\SocialSDK_instagram.jar => social_sdk_example\libs\SocialSDK_instagram.jar
+* libs\SocialSDK_kakao.jar => social_sdk_example\libs\SocialSDK_kakao.jar
+* libs\SocialSDK_laiwang_1.jar => social_sdk_example\libs\SocialSDK_laiwang_1.jar
+* libs\SocialSDK_laiwang_2.jar => social_sdk_example\libs\SocialSDK_laiwang_2.jar
+* libs\SocialSDK_line.jar => social_sdk_example\libs\SocialSDK_line.jar
+* libs\SocialSDK_linkedin_1.jar => social_sdk_example\libs\SocialSDK_linkedin_1.jar
+* libs\SocialSDK_linkedin_2.jar => social_sdk_example\libs\SocialSDK_linkedin_2.jar
+* libs\SocialSDK_pinterest.jar => social_sdk_example\libs\SocialSDK_pinterest.jar
+* libs\SocialSDK_pocket.jar => social_sdk_example\libs\SocialSDK_pocket.jar
+* libs\SocialSDK_QQZone_3.jar => social_sdk_example\libs\SocialSDK_QQZone_3.jar
+* libs\SocialSDK_renren_1.jar => social_sdk_example\libs\SocialSDK_renren_1.jar
+* libs\SocialSDK_renren_2.jar => social_sdk_example\libs\SocialSDK_renren_2.jar
+* libs\SocialSDK_Sina.jar => social_sdk_example\libs\SocialSDK_Sina.jar
+* libs\SocialSDK_sms.jar => social_sdk_example\libs\SocialSDK_sms.jar
+* libs\SocialSDK_tencentWB_1.jar => social_sdk_example\libs\SocialSDK_tencentWB_1.jar
+* libs\SocialSDK_tencentWB_2.jar => social_sdk_example\libs\SocialSDK_tencentWB_2.jar
+* libs\SocialSDK_tencentWB_3.jar => social_sdk_example\libs\SocialSDK_tencentWB_3.jar
+* libs\SocialSDK_tumblr.jar => social_sdk_example\libs\SocialSDK_tumblr.jar
+* libs\SocialSDK_twitter.jar => social_sdk_example\libs\SocialSDK_twitter.jar
+* libs\SocialSDK_WeiXin_1.jar => social_sdk_example\libs\SocialSDK_WeiXin_1.jar
+* libs\SocialSDK_WeiXin_2.jar => social_sdk_example\libs\SocialSDK_WeiXin_2.jar
+* libs\SocialSDK_whatsapp.jar => social_sdk_example\libs\SocialSDK_whatsapp.jar
+* libs\SocialSDK_yixin_1.jar => social_sdk_example\libs\SocialSDK_yixin_1.jar
+* libs\SocialSDK_yixin_2.jar => social_sdk_example\libs\SocialSDK_yixin_2.jar
+* libs\SocialSDK_ynote.jar => social_sdk_example\libs\SocialSDK_ynote.jar
+* libs\twitter4j-core-4.0.4.jar => social_sdk_example\libs\twitter4j-core-4.0.4.jar
+* libs\umeng_social_sdk.jar => social_sdk_example\libs\umeng_social_sdk.jar
+* libs\volley.jar => social_sdk_example\libs\volley.jar
+* libs\weiboSDKCore_3.1.4.jar => social_sdk_example\libs\weiboSDKCore_3.1.4.jar
+* libs\x86\libweibosdkcore.so => social_sdk_example\src\main\jniLibs\x86\libweibosdkcore.so
+* libs\x86_64\libweibosdkcore.so => social_sdk_example\src\main\jniLibs\x86_64\libweibosdkcore.so
+* res\ => social_sdk_example\src\main\res\
+* src\ => social_sdk_example\src\main\java\
+
+Missing Android Support Repository:
+-----------------------------------
+Some useful libraries, such as the Android Support Library, are
+installed from a special Maven repository, which should be installed
+via the SDK manager.
+
+It looks like this library is missing from your SDK installation at:
+null
+
+To install it, open the SDK manager, and in the Extras category,
+select "Android Support Repository". You may also want to install the
+"Google Repository" if you want to use libraries like Google Play
+Services.
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

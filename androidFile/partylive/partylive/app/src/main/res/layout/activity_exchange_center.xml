@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <include layout="@layout/title_bar" />
+
+    <View
+        android:layout_width="1px"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <!--金票-->
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="375px"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="拥有金票"
+                android:textSize="12sp" />
+
+
+            <TextView
+                android:id="@+id/tv_has_money"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:text="0"
+                android:textColor="@color/khaki"
+                android:textSize="16sp" />
+        </com.zhy.autolayout.AutoLinearLayout>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="1" />
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="已兑金票"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/tv_exchange_money"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:text="0"
+                android:textColor="@color/khaki"
+                android:textSize="16sp" />
+        </com.zhy.autolayout.AutoLinearLayout>
+    </com.zhy.autolayout.AutoLinearLayout>
+
+    <!--红包-->
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="375px"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30px"
+        android:orientation="horizontal">
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="已兑换红包"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/tv_exchane_red_bag"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="15px"
+                android:text="0.00"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+        </com.zhy.autolayout.AutoLinearLayout>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="1px"
+            android:layout_height="match_parent"
+            android:background="@color/line" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1px"
+            android:layout_weight="1" />
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="可兑换红包"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/tv_can_exchange_red_bag"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="15px"
+                android:text="0.00"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+        </com.zhy.autolayout.AutoLinearLayout>
+    </com.zhy.autolayout.AutoLinearLayout>
+
+
+    <Button
+        android:id="@+id/btn_exchange_top"
+        android:layout_width="375px"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50px"
+        android:background="@drawable/selector_loginbtn"
+        android:text="兑换"
+        android:textColor="@color/white" />
+
+
+    <Button
+        android:id="@+id/btn_exchange_buttom"
+        android:layout_width="375px"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50px"
+        android:background="@drawable/selector_loginbtn_sloid"
+        android:text="兑换"
+        android:textColor="@color/selector_text_btn"
+        android:visibility="visible" />
+
+    <TextView
+        android:id="@+id/tv_problem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="100px"
+        android:layout_marginTop="20px"
+        android:paddingBottom="35px"
+        android:paddingLeft="50px"
+        android:paddingRight="50px"
+        android:paddingTop="35px"
+        android:text="常见问题" />
+</com.zhy.autolayout.AutoLinearLayout>

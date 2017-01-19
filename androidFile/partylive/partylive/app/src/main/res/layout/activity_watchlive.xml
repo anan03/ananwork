@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rl_live_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true">
+
+
+    <com.lvshandian.partylive.widget.VideoSurfaceView
+        android:id="@+id/video"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone" />
+
+    <SurfaceView
+        android:id="@+id/SurfaceView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center" />
+
+    <com.zhy.autolayout.AutoFrameLayout
+        android:id="@+id/lm_fm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="300px"
+        android:background="@color/main"
+        android:visibility="invisible">
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5px"
+            android:background="@color/red">
+
+            <SurfaceView
+                android:id="@+id/video_lian"
+                android:layout_width="260px"
+                android:layout_height="360px"
+                android:layout_margin="10dp" />
+        </com.zhy.autolayout.AutoLinearLayout>
+
+    </com.zhy.autolayout.AutoFrameLayout>
+
+
+    <!--加载中-->
+
+
+    <RelativeLayout
+        android:id="@+id/rl_loading"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/ll_show_gift_animator"
+        android:background="@color/lbg"
+        android:visibility="visible">
+        <!--加载背景图-->
+        <ImageView
+            android:id="@+id/iv_load"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@drawable/live_loading" />
+
+    </RelativeLayout>
+
+    <com.zhy.autolayout.AutoRelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:id="@+id/all_layout"
+            android:layout_width="match_parent"
+            android:layout_height="70px"
+            android:layout_marginBottom="20px"
+            android:layout_marginLeft="10px"
+            android:layout_marginTop="20px"
+            android:orientation="horizontal">
+
+            <com.zhy.autolayout.AutoLinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1.7"
+                android:background="@drawable/bg_gray_shape">
+
+                <com.lvshandian.partylive.widget.AvatarView
+                    android:id="@+id/live_head"
+                    android:layout_width="70px"
+                    android:layout_height="match_parent"
+                    android:src="@mipmap/app_icon" />
+
+                <com.zhy.autolayout.AutoLinearLayout
+                    android:id="@+id/all_header"
+                    android:layout_width="95px"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/live_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10px"
+                        android:ellipsize="end"
+                        android:maxEms="10"
+                        android:singleLine="true"
+                        android:text="奥特曼"
+                        android:textColor="@color/white"
+                        android:textSize="24px" />
+
+
+                    <TextView
+                        android:id="@+id/live_num"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:text="666"
+                        android:textColor="@color/white"
+                        android:textSize="23px" />
+
+                </com.zhy.autolayout.AutoLinearLayout>
+
+                <Button
+                    android:id="@+id/btn_attention"
+                    android:layout_width="70px"
+                    android:layout_height="40px"
+                    android:layout_gravity="center_vertical"
+                    android:background="@drawable/bg_attention_shape"
+                    android:text="关注"
+                    android:textColor="@color/white"
+                    android:textSize="24px"
+                    android:visibility="invisible" />
+
+
+            </com.zhy.autolayout.AutoLinearLayout>
+
+            <!--<com.lvshandian.partylive.lib.cjj.MaterialRefreshLayout-->
+            <!--android:id="@+id/mrl_layout_live_audiences"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:layout_weight="3"-->
+            <!--app:overlay="true"-->
+            <!--app:wave_show="false">-->
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/rlv_list_live_audiences"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="3"
+                android:orientation="horizontal" />
+            <!--</com.lvshandian.partylive.lib.cjj.MaterialRefreshLayout>-->
+
+            <ImageView
+                android:id="@+id/live_close"
+                android:layout_width="50px"
+                android:layout_height="50px"
+                android:layout_margin="10px"
+                android:src="@mipmap/close" />
+
+        </com.zhy.autolayout.AutoLinearLayout>
+
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/all_layout"
+            android:orientation="vertical">
+
+
+            <!--映票labe-->
+            <com.zhy.autolayout.AutoLinearLayout
+                android:id="@+id/ll_yp_labe"
+                android:layout_width="wrap_content"
+                android:layout_height="45px"
+                android:layout_marginLeft="-20px"
+                android:background="@drawable/btn_ticket_labe"
+                android:paddingRight="10dp">
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="30px"
+                    android:text="金票:"
+                    android:textColor="@color/tv_main"
+                    android:textSize="24px" />
+
+                <TextView
+                    android:id="@+id/live_jinpiao"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+
+                    android:text="0"
+                    android:textColor="@color/tv_main"
+                    android:textSize="24px" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:scaleType="centerCrop"
+                    android:src="@mipmap/room_yingpiao_check" />
+            </com.zhy.autolayout.AutoLinearLayout>
+            <!--映票labe end-->
+
+            <!--映票labe-->
+            <com.zhy.autolayout.AutoLinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="40px"
+                android:layout_marginLeft="-20px"
+                android:layout_marginTop="15px"
+                android:background="@drawable/btn_ticket_labe"
+                android:paddingRight="10dp">
+
+                <TextView
+                    android:id="@+id/live_id"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="30px"
+                    android:text="id号:6666"
+                    android:textColor="@color/tv_main"
+                    android:textSize="24px" />
+
+
+            </com.zhy.autolayout.AutoLinearLayout>
+            <!--映票labe end-->
+        </com.zhy.autolayout.AutoLinearLayout>
+
+    </com.zhy.autolayout.AutoRelativeLayout>
+
+
+    <com.lvshandian.partylive.moudles.index.live.gift.GiftFrameLayout
+        android:id="@+id/gift_layout1"
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:orientation="vertical"
+        android:visibility="gone"></com.lvshandian.partylive.moudles.index.live.gift.GiftFrameLayout>
+
+
+    <com.lvshandian.partylive.moudles.index.live.gift.GiftFrameLayout
+        android:id="@+id/gift_layout2"
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:orientation="vertical"
+        android:visibility="gone"></com.lvshandian.partylive.moudles.index.live.gift.GiftFrameLayout>
+
+
+    <FrameLayout
+        android:id="@+id/fl_bottom_menu"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true">
+
+        <com.zhy.autolayout.AutoRelativeLayout
+            android:id="@+id/ll_bottom_menu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.zhy.autolayout.AutoLinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="19px"
+                android:orientation="horizontal">
+
+                <com.zhy.autolayout.AutoRelativeLayout
+                    android:layout_width="71px"
+                    android:layout_height="71px"
+                    android:layout_marginBottom="19px">
+
+                    <ImageView
+                        android:id="@+id/iv_live_privatechat"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:background="@mipmap/mg_room_btn_xinxi" />
+
+                    <ImageView
+                        android:id="@+id/tab_new_indicator"
+                        android:layout_width="20px"
+                        android:layout_height="20px"
+                        android:contentDescription="@string/empty"
+                        android:src="@drawable/nim_main_tab_new_message_notify"
+                        android:visibility="gone" />
+
+                    <com.netease.nim.uikit.common.ui.drop.DropFake
+                        android:id="@+id/tab_new_msg_label"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="30px"
+                        android:layout_marginRight="30px"
+                        android:singleLine="true"
+                        android:textColor="@android:color/white"
+                        android:textSize="10sp"
+                        android:visibility="gone" />
+                </com.zhy.autolayout.AutoRelativeLayout>
+
+                <ImageView
+
+                    android:id="@+id/iv_live_dianbo"
+                    android:layout_width="71px"
+                    android:layout_height="71px"
+                    android:layout_marginBottom="19px"
+                    android:layout_marginLeft="19px"
+                    android:background="@mipmap/mg_room_btn_add" />
+
+                <ImageView
+                    android:id="@+id/iv_live_lianmai"
+                    android:layout_width="71px"
+                    android:layout_height="71px"
+                    android:layout_marginBottom="19px"
+                    android:layout_marginLeft="19px"
+                    android:background="@mipmap/room_btn_lianxian"
+                    android:visibility="gone" />
+
+                <ImageView
+                    android:id="@+id/iv_live_gift"
+                    android:layout_width="71px"
+                    android:layout_height="71px"
+                    android:layout_marginBottom="19px"
+                    android:layout_marginLeft="19px"
+                    android:background="@mipmap/mg_room_btn_liwu" />
+
+                <ImageView
+                    android:id="@+id/iv_live_share"
+                    android:layout_width="71px"
+                    android:layout_height="71px"
+                    android:layout_marginBottom="19px"
+                    android:layout_marginLeft="19px"
+                    android:background="@mipmap/mg_room_btn_fenxiang" />
+
+            </com.zhy.autolayout.AutoLinearLayout>
+
+
+        </com.zhy.autolayout.AutoRelativeLayout>
+    </FrameLayout>
+
+    <com.lvshandian.partylive.view.BarrageView
+        android:id="@+id/barrageview"
+        android:layout_width="match_parent"
+        android:layout_height="250px"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="550px" />
+
+    <!--网易云信 直播室-->
+    <com.zhy.autolayout.AutoFrameLayout
+        android:id="@+id/watch_room_message"
+        android:layout_width="match_parent"
+        android:layout_height="300px"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="55px"
+        android:layout_marginLeft="10px"
+        android:background="@drawable/btn_ticket_labe"
+        android:paddingRight="100dp"
+        android:visibility="gone"></com.zhy.autolayout.AutoFrameLayout>
+
+    <fragment
+        android:id="@+id/watch_room_message_fragment"
+        android:name="com.lvshandian.partylive.wangyiyunxin.chatroom.fragment.ChatRoomMessageFragment"
+        android:layout_width="match_parent"
+        android:layout_height="500px"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="0px"
+        android:layout_marginLeft="0px"
+        android:layout_marginRight="0sp"
+        android:background="@drawable/btn_ticket_labe"
+        android:paddingRight="0dp" />
+    <!--网易云信 直播室 end-->
+
+
+    <!--顶部菜单end-->
+
+    <!--家族按钮图-->
+    <ImageView
+        android:id="@+id/watch_room_jaizu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:padding="20px"
+        android:src="@mipmap/jiazu" />
+
+
+</com.zhy.autolayout.AutoRelativeLayout>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <include layout="@layout/title_bar" />
+
+    <com.zhy.autolayout.AutoFrameLayout
+        android:id="@+id/afl_layout"
+        android:layout_width="match_parent"
+        android:layout_height="350px"
+        android:paddingLeft="100px"
+        android:paddingRight="100px"
+        android:paddingTop="50px">
+
+        <ImageView
+            android:id="@+id/iv_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:scaleType="fitXY"
+            android:src="@mipmap/identy" />
+    </com.zhy.autolayout.AutoFrameLayout>
+
+    <EditText
+        android:id="@+id/et_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:hint="真实姓名"
+        android:paddingBottom="25px"
+        android:paddingLeft="20px"
+        android:paddingTop="25px"
+        android:textSize="12sp" />
+
+    <EditText
+        android:id="@+id/et_identy_num"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:hint="身份证号码(X请用大写)"
+        android:paddingBottom="25px"
+        android:paddingLeft="20px"
+        android:paddingTop="25px"
+        android:textSize="12sp" />
+
+    <EditText
+        android:id="@+id/et_phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:hint="手机号码"
+        android:inputType="number"
+        android:maxLength="11"
+        android:paddingBottom="25px"
+        android:paddingLeft="20px"
+        android:paddingTop="25px"
+        android:textSize="12sp" />
+
+    <EditText
+        android:id="@+id/et_identy_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:hint="认证名称"
+        android:paddingBottom="25px"
+        android:paddingLeft="20px"
+        android:paddingTop="25px"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/btn_submit"
+        android:layout_width="match_parent"
+        android:layout_height="80px"
+        android:layout_marginLeft="120px"
+        android:layout_marginRight="120px"
+        android:layout_marginTop="50px"
+        android:background="@drawable/selector_loginbtn"
+        android:text="提交申请"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="15px"
+        android:paddingLeft="20px"
+        android:paddingTop="15px"
+        android:text="提醒:"
+        android:textSize="12sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="15px"
+        android:paddingLeft="20px"
+        android:paddingTop="15px"
+        android:text="1.认证后可获得独特标识彰显个性"
+        android:textSize="12sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="15px"
+        android:paddingLeft="20px"
+        android:paddingTop="15px"
+        android:text="2.请确保填写有效真实的资料便于通过审核"
+        android:textSize="12sp" />
+</com.zhy.autolayout.AutoLinearLayout>

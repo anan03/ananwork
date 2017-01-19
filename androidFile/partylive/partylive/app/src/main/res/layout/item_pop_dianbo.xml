@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:padding="5px">
+
+    <com.lvshandian.partylive.widget.AvatarView
+        android:id="@+id/pop_user_acater"
+        android:layout_width="80px"
+        android:layout_height="80px" />
+
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="0px"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/pop_user_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="5px"
+            android:paddingLeft="20px"
+            android:text=""
+            android:textColor="@color/color_yellow_b39729"
+            android:textSize="30px" />
+
+        <View
+            android:layout_width="1px"
+            android:layout_height="0px"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/pop_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingTop="5px"
+            android:text=""
+            android:textColor="@color/gray" />
+
+    </com.zhy.autolayout.AutoLinearLayout>
+
+    <TextView
+        android:id="@+id/pop_refuse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/corner_red"
+        android:padding="10px"
+        android:text="拒绝"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/pop_agree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:layout_marginRight="10px"
+        android:background="@drawable/corner_red"
+        android:padding="10px"
+        android:text="同意"
+        android:textColor="@color/white" />
+
+</com.zhy.autolayout.AutoLinearLayout>

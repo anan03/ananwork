@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_animation_plain_root"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+
+        android:id="@+id/iv_animation_plain"
+        android:background="@drawable/gift_plain_animation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <ImageView
+        android:layout_alignBottom="@id/iv_animation_plain"
+        android:layout_centerInParent="true"
+        android:background="@drawable/plane_shadow"
+        android:layout_width="200dp"
+        android:layout_height="150dp" />
+    <RelativeLayout
+        android:layout_marginTop="150dp"
+        android:layout_alignParentRight="true"
+        android:id="@+id/rl_animation_flower"
+        android:layout_width="300dp"
+        android:layout_height="500dp">
+
+    </RelativeLayout>
+</RelativeLayout>
