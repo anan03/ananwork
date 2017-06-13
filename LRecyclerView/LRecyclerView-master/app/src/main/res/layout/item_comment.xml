@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:background="@color/white"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/linearLayout4"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:orientation="vertical">
+
+		<RelativeLayout
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="3dp"
+			android:layout_marginRight="8dp"
+			android:paddingBottom="8dp"
+			android:paddingTop="8dp">
+
+			<TextView
+				android:id="@+id/tvname"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_above="@+id/tvComment"
+				android:layout_alignParentTop="true"
+				android:layout_toEndOf="@+id/avatacomment"
+				android:layout_toRightOf="@+id/avatacomment"
+				android:gravity="center_vertical"
+				android:paddingLeft="4dp"
+				android:text="课堂讲师"
+				android:textColor="@color/black"
+				android:textSize="14sp"
+				android:textStyle="bold"/>
+
+			<ImageView
+				android:id="@+id/avatacomment"
+				android:layout_width="38dp"
+				android:layout_height="38dp"
+				android:layout_alignParentTop="true"
+				android:scaleType="fitCenter"
+				android:src="@drawable/profile_anonymous_user"/>
+
+			<TextView
+				android:id="@+id/tvComment"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:layout_below="@+id/avatacomment"
+				android:layout_marginTop="-5dp"
+				android:layout_toEndOf="@+id/avatacomment"
+				android:layout_toRightOf="@+id/avatacomment"
+				android:gravity="center_vertical"
+				android:paddingBottom="8dp"
+				android:paddingLeft="4dp"
+				android:text="有心课堂，传递的不仅仅是技术"
+				android:textColor="@color/title_color"
+				android:textSize="14sp"/>
+
+
+			<TextView
+				android:id="@+id/tvTime"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_above="@+id/tvComment"
+				android:layout_alignParentEnd="true"
+				android:layout_alignParentRight="true"
+				android:layout_alignTop="@+id/tvname"
+				android:layout_marginRight="5dp"
+				android:layout_marginTop="1dp"
+				android:gravity="center_vertical|center_horizontal"
+				android:text="3d ago"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:textColor="@color/black"
+				android:textSize="11dp"/>
+
+			<ImageView
+				android:id="@+id/imageView20"
+				android:layout_width="wrap_content"
+				android:layout_height="30dp"
+				android:layout_alignTop="@+id/tvname"
+				android:layout_toLeftOf="@+id/tvTime"
+				android:layout_toStartOf="@+id/tvTime"
+				android:src="@drawable/profile_anonymous_user"
+				android:visibility="gone"/>
+
+			<TextView
+				android:id="@+id/textView9"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignBottom="@+id/tvname"
+				android:layout_alignTop="@+id/tvTime"
+				android:layout_marginLeft="5dp"
+				android:layout_toEndOf="@+id/tvname"
+				android:layout_toRightOf="@+id/tvname"
+				android:gravity="center_vertical|center_horizontal"
+				android:text="\@user_name"
+				android:textColor="@color/title_color"
+				android:textSize="13dp"
+				android:visibility="gone"/>
+
+			<TextView
+				android:id="@+id/tvReply"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignLeft="@+id/tvComment"
+				android:layout_alignStart="@+id/tvComment"
+				android:layout_below="@+id/tvComment"
+
+				android:text="3 trả lời"
+				android:textColor="@color/button_login_color"
+				android:textSize="13sp"/>
+
+
+		</RelativeLayout>
+
+		<ImageView
+			android:id="@+id/item_arrow"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center_vertical"
+			android:src="@mipmap/arrow_down"
+			android:visibility="gone"/>
+
+		<View
+			android:layout_width="match_parent"
+			android:layout_height="1dp"
+			android:background="@color/background"/>
+	</LinearLayout>
+
+
+</RelativeLayout>

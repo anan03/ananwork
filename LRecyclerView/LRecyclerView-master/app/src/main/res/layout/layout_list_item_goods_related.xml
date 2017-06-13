@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="170dp"
+    android:background="@android:color/white"
+    android:paddingBottom="@dimen/padding_size_medium"
+    android:paddingLeft="@dimen/padding_size_default"
+    android:paddingRight="@dimen/padding_size_default"
+    android:paddingTop="@dimen/padding_size_default"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/related_movies_header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="推荐"
+            android:paddingLeft="5dp"
+            />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/related_recyclerview"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
