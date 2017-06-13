@@ -30,4 +30,11 @@ dependencies {
     compile 'com.github.bumptech.glide:glide:3.7.0'
     compile 'org.webjars.npm:react-imageloader:2.1.0'
     compile files('libs/universal-image-loader-1.9.3-SNAPSHOT.jar')
+    compile 'com.google.android.gms:play-services-appindexing:8.4.0'
+    //查找控件的依赖
+    compile 'com.jakewharton:butterknife:7.0.1'
+    //沉浸式状态栏
+    compile 'com.readystatesoftware.systembartint:systembartint:1.0.3'
+    //EventBus
+    compile 'org.greenrobot:eventbus:3.0.0'
 }

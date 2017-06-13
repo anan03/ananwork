@@ -4,6 +4,10 @@
         "source": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action.xml"
     },
     {
+        "merged": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
         "merged": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
         "source": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_icon_group.xml"
     },
@@ -12,7 +16,19 @@
         "source": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
+        "merged": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
         "merged": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
         "source": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_icon_group.xml"
     }
 ]

@@ -1,5 +1,6 @@
 package com.lvshandian.nan;
 
+import android.app.Activity;
 import android.app.Application;
 import android.graphics.Bitmap;
 import android.os.Environment;
@@ -15,6 +16,8 @@ import com.nostra13.universalimageloader.core.display.FadeInBitmapDisplayer;
 import com.nostra13.universalimageloader.core.display.RoundedBitmapDisplayer;
 
 import java.io.File;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by zhang on 2016/12/17.
@@ -81,4 +84,27 @@ public class MyApplication extends Application {
         return option;
     }
 
+    /**
+     * Activity集合
+     */
+
+    public static List<Activity> listActivity = new ArrayList<>();
+
+    public static void addListActivity(Activity activity) {
+        listActivity.add(activity);
+    }
+
+    public static void finishActivity() {
+
+        for (Activity activity : listActivity
+                ) {
+            activity.finish();
+        }
+    }
+
+    public static void finishLastActivity() {
+        if (listActivity.size() > 0) {
+            listActivity.get(listActivity.size() - 1).finish();
+        }
+    }
 }

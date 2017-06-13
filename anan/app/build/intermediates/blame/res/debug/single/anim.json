@@ -1,23 +1,39 @@
 [
     {
+        "merged": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
+        "source": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
         "merged": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
         "source": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_popup_enter.xml"
+        "merged": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_left.xml",
+        "source": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\src\\main\\res\\anim\\slide_out_left.xml"
     },
     {
         "merged": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
         "source": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_fade_out.xml"
     },
     {
         "merged": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
@@ -30,6 +46,46 @@
     {
         "merged": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
         "source": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
+        "source": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
+        "source": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_popup_exit.xml"
     },
     {
         "merged": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",

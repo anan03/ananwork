@@ -19,7 +19,6 @@
         <activity android:name="com.lvshandian.nan.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
@@ -51,7 +50,11 @@
         <!--加载图片ImageLoader-->
         <activity
             android:name="com.lvshandian.nan.loadimag.ImageLoadActivity"
-            android:launchMode="singleTop"></activity>
+            android:launchMode="singleTop"></activity><!-- ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information. -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
 
 
     </application>

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "E:\\zyn_demo\\gitFile\\ananwork\\anan\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
         "source": "C:\\Users\\zhang\\Desktop\\ananwork\\anan\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }
