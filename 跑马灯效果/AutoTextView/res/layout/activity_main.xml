@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.jer.autotextview.TextActivity" >
+
+    <com.jer.autotextview.AutoTextView
+        android:id="@+id/tv2"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="152dp"
+        android:text="我仿佛感觉有人在背后说我帅.............................."
+        android:textColor="#000000"
+        android:textSize="22sp" />
+
+    <com.jer.autotextview.AutoTextView
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="我有一个小苹果，就是不给你吃。如果你想要吃的话，就必须给我一个梨，因为我更喜欢吃梨"
+        android:textColor="#000000"
+        android:textSize="22sp" />
+
+    <com.jer.autotextview.AutoTextView
+        android:id="@+id/tv3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tv"
+        android:layout_below="@+id/tv2"
+        android:layout_marginTop="104dp"
+        android:text="有人说我帅，我狠狠的扇了他一巴掌，你他妈这不是废话吗"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+
+</RelativeLayout>
