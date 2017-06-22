@@ -8,6 +8,8 @@ import com.lvshandian.nan.base.BaseActivity;
 
 /**
  * Viewpager+Fragment
+ * https://github.com/ta893115871/PagerSlidingTabStrip
+ * https://github.com/MrWangChong/ViewPagerBar
  */
 public class HomeActivity extends BaseActivity {
 

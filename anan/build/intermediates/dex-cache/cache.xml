@@ -3,228 +3,228 @@
 
     <item
         is-multidex="false"
-        jar="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_acd24c8934c98cba73ac412c6275006f4763e856.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jar="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_35e7cc7164dfbefdbd06e1b92332ae08f743bdb7.jar" />
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_990f815a6ab8742d605fe7798618a066b2e32450.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.systembartint\systembartint\1.0.3\de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287\systembartint-1.0.3.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\systembartint-1.0.3_737be33c92afa3d651417584f62e561120fe5e0c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\glide-3.7.0_1f3ddf859a86296da03fddcf50d19f29d652df81.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_fe1bd64f7dfb81fec75c4c9368af9a240c67b923.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_d5f78d5c7b7ec582e9dd3a2ea35e0a1fd80dff33.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_2e91b9dffe72cf2886e39ffb8b7641ac09d686d1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jar="C:\Users\gxkj\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_338198e230e883acd6c9c82ca46ba5fc3096755c.jar" />
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_c0bb5b8ffdd42de4478ba9b60607c9040095a6b4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_51fcee09d4273bf7012e6c37642192f7102db2dd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\zyn_demo\gitFile\ananwork\anan\app\libs\universal-image-loader-1.9.3-SNAPSHOT.jar"
+        jar="C:\zyn\File\gitUser\ananwork\anan\app\libs\universal-image-loader-1.9.3-SNAPSHOT.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="29cf65d299e133ec68caba92b29f69289713975b">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-SNAPSHOT_8517aa9c615c5eceb300706869efde9e9f393d5f.jar" />
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-SNAPSHOT_b01b0da0156d9cbb8a6579d555fe3e0d5dc42a30.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_32d89a31f884511f5ef639338d4b3d79bb4c0a33.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\library-2.4.0_dd460f45d27a359687729c3c169358b1eda3100b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_5a37d2d5efd8c1cb3e5e3053a03dd019221ab996.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_fc861cbde294a7e4a9efd57936d766cb077b60e2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\developertool\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_1f354ba264ae836ed01618c3ec5bee6817e56a33.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_3f555992c0c523aa12ddceae6dce7de170efeb7d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_27ffebd5984e9b174595ebe08bcc6845ab791ba7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jar="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_899f11738cd68292ea361ce1695855ae52f98b43.jar" />
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_b8b79ea24db9a61f88e0507255bed26fca345b96.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jar="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_a1fa77ef7a5e427174d19ad8fe31b7c9fc0e939a.jar" />
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_916bf0b7b8f096f86b6b7be3c8e2443ff9ba57f3.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jar="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_ef3197921bec4f7204fa55e5480f5622f6c860ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidFile\AndroidStudio\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_351caf4bf26f58f79004295284ed774f0d62d72d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_03681777e4e8ee80d049a7ef55826c70eefe2d0b.jar" />
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_724538cc3ccd680a7cd7253294bc32328964615a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jar="C:\Users\gxkj\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d47f3facae34fb44695855adbe58d3a55a1eda32.jar" />
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\glide-3.7.0_9ea3836683724a2bd5eea8fc2c7bbe23e0f98ea6.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jar="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_d9a54470f53383f9b7bacda84c2ca6062b4ade84.jar" />
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_cdcd7c31ca47ed9cadab17c7e3760bae2d85d9b8.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\exploded-aar\com.gxz.pagerslidingtabstrip\library\1.3.1\jars\classes.jar"
+        jar="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_3d35f67bf00aa442f5595da40fdcca87f6d22ecb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\exploded-aar\com.gxz.pagerslidingtabstrip\library\1.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="4a269b524cebdb449c881b26bea03983044720b5">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.gxz.pagerslidingtabstrip-library-1.3.1_0f63bfad0ece75cb5578e4f2a1a814435c50555e.jar" />
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.gxz.pagerslidingtabstrip-library-1.3.1_dd19ab025bc62f06eafcf67aae55d3a52f2fad63.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jar="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_6ebde2c14911ec5501d847e1ec5c4ea8f5c0d5d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gxkj\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.systembartint\systembartint\1.0.3\de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287\systembartint-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\systembartint-1.0.3_99d2447d7925c00e2cfff14612dd3736147bd109.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gxkj\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\library-2.4.0_8ae853298c385fad15c42bbb05253c09b08d7b0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_adeef17fdafc100151fca94850ccf07761ac82e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d0d656c8bc305b9de6aa5ffbb63df22f6d514c77.jar" />
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_eb9e0837efe63a7d696417ca80f11f6c0c7bfb0b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jar="C:\Users\gxkj\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_8c9bda35549c79177af2007ea3011f3c363f49b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_afea3fea998907950ecf6891844df690008797c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_beeb90cc21af104858a2629a9c0c480ed2ecd22b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_0aa24ab3211480e9e6b9b679a37513ee8108f213.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_2b7bcd3387358619e2527e5dba84c4086258d9ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_3dd97017d349d051e7e0b27479965716c9d02598.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="E:\zyn_demo\gitFile\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_8e3fa7ecadd41f97f8eb59659c30060c232fe5a4.jar" />
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_84a34a8577912f06ce71149f1110339d05f3c20e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\zyn\File\gitUser\ananwork\anan\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_77274119ba5b0aff18e84b32618dbeeb307da2aa.jar" />
     </item>
 
 </items>
